@@ -1,0 +1,43 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"c60698fb7f027f5b946431f44d9937c4e16dea8f9b3fce6843a3032b89818eea\"",
+      "data": "H4sIADFErmUC/+2WXU/bMBSG/0pUpGmTaPPR9FOa0KDAuAC2DibGhyIncRODE1u2066t+t9nO0lbCmOk28UuuIKenPc57uv4rW/mtYzhWt+oxUJQ3jdNQFEjQiLO/EZAEpNBSrg5tIOH6WczoJknYEJlFUPAITdbds/pOJ1ObdeoAc6h4N4/4Zk5TGEzigkIN7F5lW+Pnu+lIIG7GPgQL9ScWCR4c8oa/bdcASJz3GxYDUdRUCj15ShlSiZiwmRtXsMkQqmi56hlt+O22s2u7crPKQmhp4u108HX9verMxzcn1hnFz9m54NDS7s8BgKwJy7ramlHxiELSCpgKvTaM7OcsTf+6CpKxApOPkz7/OK+KWRp7qvdUo0jgjGZSLH3+gHmUrQioDSqTpCiuUlEDKVh8qne5whxUWkxWjDXf6RdmsGldQyGVSiFRC5nksqVzPXrmsMynwcMUYFIWmlhj4SKRFgEUjQDlUlSqAH6CFURaoFSwrF82SpJc8XcpAyNQTBd5PMDiMbS2Oq4DamiiSmFSn4p+7TRSEAPhIk+hSOAOVw8PnPDQ+9hMjg/HLatbuAOjo/uheaAyFNhoVpWJ13uZwSFJxeSIIF4rJ4mgIt8Vtlf5oWhhOpByMBIlPPlZ8pgESVrxYBBIOR3Aaqz5liOXbetutO+sDp9x+q7zWuFopmP5eCnfe6F1eu73b7rXK+CWXbc/GXa5yDT7XQ7vW6vu0ywsrDh5qd1Nw8c6oPnnKlrRxtJEGrjdCDL52mG8TL94VuCviXoW4L+pwlaHBSv7AaUYhRoD00SCCjqXMhAS4p9F7qpONhhjp2pWrft2Coh5f7qK19AslQFW6tp/yETm1a/ZV/nt8Xwxa48EX1GJvIrectRW9z7Sm1x+TOfy7PFXf5D4QOMt7oYF9q1C+YM0a1phXaN5pNwqjA7xhmccOOdcRCDNIL8lt2m3zJKCRPGiDDj5vRgMHQa1t37Zyw6kkyY1vfVBsWm6oRSE8Hwg8LsGPuXx0cnV+r/I/TT8LOI5/UvQAQx5MZYvoTqvOnqjv6lbNjqw0pYlp1VWZr7CxqfHeS+DAAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "47879898": {
+      "schema_version": 4,
+      "id": "cpu_temp",
+      "name": "cpu_temp",
+      "version": "3.0.2",
+      "link": "https://github.com/R1ckyH/cpu_temp",
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "psutil",
+        "mcdreforged",
+        "APScheduler"
+      ],
+      "description": {
+        "en_us": "A plugin to check cpu temp regularly.",
+        "zh_cn": "服务器温度警报插件。"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"276339679740fb5280efb82ca8995ee4b013289fca955ae9e272f269affe649a\"",
+    "data": "H4sIAPm2n2UC/6VYbU/rNhT+K1G/DkgoFLiVru6mgdgm3oZgu2OaKsdxE1PHzmynvW3Ef9+x47x1jFEjXXEb28/j4+Pz6mpEk9E0GJ+djseT6PRoLxhxkZCZHR1dn1+sbtkvDF9+2qCv90vMF+vbc7y+fn5c3WyuP4/McpQTsxYX5UyTvDBj85KxWTNxf4gX65/C/nwh6RJpMztHTBEYEStOJHxXIyZSyjucWV6LeDw5OTo7PN6W8NeT377eMPz8c3Tz8Mfm9vwiMhAE/EjOSsnMqkzrQk3DsB5VBynVWRmXikgsuCZcH2CRh2XY7PFl+fnYsKTS8dSbmaFtxoI6tpoCKFXYSZ7pnG0L0VveLZwLxsQKwLP3bxC2oI6B8nR3BgBVodAZAYXB7Is9OlV6J2EsoLL/gboshwLVSZLswuIgII4xiJcqlKQQNVkZKyxpoangOwk2ABomIVPE6QbtzARAS2Bk2gloAQZJlmBsO0FrRBVal8Hrl3p/TOgSFLs73RbUsOl1Yf30EdZZRVNNZijJrRda/3x5ryUPnDwhrdoN6IegYCW4djAXMrj+8fyewI+UBFoEOCN4EQA2MNhAkrRkSLJ1bdZy0YsTbx/V6vk1WQzL/+npVXBokYZiQdZ+DAZYmb+NW2BwOhQLibSQfpQDhmrwaXfQBOV+zBZpI5cQnhqzSBu2lSrJ+2z0dSZLoFoX4GUeu+j0AdLO8JFSNOWE+PG06Cpsg2YsEQdj9iNswJX7Vd8kSj0vEtWxKmYi9mOABaFFV6HKkEsKeuYtkeEz4CGdJHN/OgPu6LT0vUsrmrR32ZBBItJwr358DTisGjqGeFqi1JOvRTdZNUUbIr1lc/A6FnEtaVx+IBR1BL00HXuL1+G3s/5H+Oo0ZA+c51T7ntVihwb8EUJjd/8iNQPe0a0BD6JlHYjd1Eci8avsroT2Nx8DDqvvCqSzRgEFksT3/AYbVjGCuuXg4KDKCKrTbk6kr//VUJszJM6gfvJiqRow1BQ50ra4nVvREqh2mUCJn3Qtur3rj6Tbwd0W0Mj5kVnkgCunjCgtuO8dtPABKxeazil+VzH/OvGAofqiKMdkDzG2B4akKaZgl9AguSgeE+Ybwg0URIeu2BXxjCDfBNOAq9DVlAkpmFj7x40e3rqgJNCfJzOkDdM4Gkf70dn+4dFDdDY9Op4eRk+2Fy6S4aqj/egU/j1Ek+nhZDoeP9U2pLL+ovF+NAE2QzU+nR5/emoiqZMbfr7ZW5jD2NSgsh7k+w4w/Q8AZmA97+9h2n2WfLfGJxM5KSBbA4KDF9iWamO+JmfD9I1FyY1WzJvGCmko/rYGm7xv9r5b66xOYRlSs9pXYVzLkrixQopngvXWaBcdBsMruqBbcFtgdK2WBVOFSyh0TefczdTdVCNoZH1bStE8t7hDu2iX9IBAh2I2GBIF4e40LeOhOTrFhCtin4SgdzIaYGnB9o8Oov6r0+XNY3BFFBTgwSXhRCIW3JUxgIOrmiBYOoQqkm/uHefq8u6qIXrbWZwUKhzs3X9+wicPl+z56ffJ5unhYj0yrTIybyomyC8gbnQ6pspaCBs+fK1I7EqImeknxHwOJfHfJZUDLWlRUGyu4M+/4GtJFY0po9qqpbDnbbtcdyM9vTqNNhbmbCshc1QyPaubDUOUI6XrJ4CCyJy2116NBq8B5roR5RoNhoyX9wWWtLbbbp4xp4sX26Hmxax2SC0WhDfPa5zoFZxiYFz9krI1kZd/AId0Bdq6FAAA"
+  }
+}

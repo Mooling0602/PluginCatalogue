@@ -1,0 +1,39 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"fa10f0b8559773529b04efed77de3ac18ed7e62513ecfa7d4a9fdb90840e6f5a\"",
+      "data": "H4sIADFErmUC/+2WXU/bMBSG/wrKNa3T9COl0oRgTJvQGNs0bkAochLjGBw7sp1WNOp/37GTtmkRsEJvJnHV9OSc57WP7Te+qbxScW9y4GXGFHqCEC5YlzKTlXE3kTlSpJAaXYkHIWfilBmNvpOUEvWZEyyIgvfwoIlGvV7gD/2j8dg7PPCw1sToaN9oVHOtQllwidNthTqq96JSHQuck0OOY8IXVjIzOd8WbAn9g4TBFE39bq/rWx5LgbRStV0rTSYVBCuPS8qEFTJYZN+IoOsC3x+FQT8MISBkSiIX9a6iB3p2eUpP7skvtwJTbLB6sgIuuuxPqYlKpDBEGDeDEq3gx9NPA4uhqgHVKq7zLy6qZdqJrkf9StvaqXeSczkDQLSLCFqVrRlM0LcwoKxC0mQEOgfv3bJTps2OA3IllfuBxjmKhiYqku7GaYpgSDPYR4vKbeYaV8Y6UawwTIodB7dRallSUSzYHL+BBaUO4Q7ZbqWuxNaSKey/HYvrmgoVik1x8riox5AQNoUWvwW4VWx55rEg7mRBpms5MyTCae7O5R3mmiw2j+DvL9HD7OzyfNS5/3kx+KqSi5qDaWSdxKasDz+sLCUmgqHkzDCd2bc5BrZlPslOFb4zS1n4XyjSmEormCiCDUwB20wv8IN+xw87vf4ffzgJ/IkfXFtUUcYc9J7LCyb+4Hpt4ZBxs7dPRI0Eox2F42E46LVMsIlsNfRko6FH9PxHuz0bKp26Wd08Sd1qOduGLFFyvvpckA9z/TDXD3P9b8y1OT/RMhsXBWeJ6yWSiSGmow2YXt7sAeOSmqOe1ti5jfX7RwProrDS7taYyFJY8wtHr9lmbzIMr+v7Zvpi1thlxUrOYEbRSuld18UlpbkzoucNb3Fbf1JizPk7b90NpXVPnbNiD9yG0uLGMn10vre4/Qs5nA6lhwwAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "116785741": {
+      "schema_version": 4,
+      "id": "ledger_cleaner",
+      "name": "Ledger Cleaner",
+      "version": "0.1.0",
+      "link": "https://github.com/tanhHeng/LedgerCleaner",
+      "authors": [
+        "tanh_Heng"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Clean and free ledger.sqlite",
+        "zh_cn": "清理与释放ledger数据库"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"4d1b59aa1a1287615a4e355186a946a7f490465a25167179932b6dde7fc2a965\"",
+    "data": "H4sIAPm2n2UC/+2YX2/bNhDAv4rhpw1LLPlvXANFt7ZAgKFdgiLFgCyDQUknizVFqiRlLxH83XekKMtyhiaO9DTkJbGOvB9Pp+ORd0WfRv1Fbzabzkcjfzg66/W5iGBppf0vy/Xq49Xvs/Nv17/1zRBJwcg/QbQC+YEB4SDNQJwztqxGv/I1F1v+nmrlPZqZSboh2syLCVOAEpyKQ4te0WdiRfkRwehYY4bj2Wg6m0zmTROvrIkf3s+DrTWRIJ3IZS6ZGU20ztTC80qpGqyoTvIgVyBDwTVwPQhF6uXeHv5u83ZiMCvpQOUqRnSMzKjDlQxkKu/I8ESn7NiUA52j2bFgTGwRszxxKW+vWWMoX70Qg5qFJ3QC6EWcsrPuoEqfbpbVKuw/9KMFKfSphOhklNNDw0y07ApPQiZKYh6oUNJMU8FPN7GhbXBCrginD+RlONS2FGPd6dpWy6jDBkPzdP1SrfDsHgvvd6UlIdANevyFzCN9g9T3md3nVweusl+CaliSKLV72O7u3Ul74HGyiGD/cYz6XT4B3zd/R+Tzh49f7vLZOBqZ53h2l8exH97l0zHEd/nFdDQ38jngHPCnKJn4M6uPkjfDkKAcpzK7ovl94RvaDEen8Gb8UzkwUN8ZvtTP5baS64Os9WM/2i/543czvKc+xxMYzzIMbA33bVkGUZi/1VYNMRuQQEiihWwLb7CKxqNdSwNJ265hGTbrCtHas5Zhzx6lcnje5nmKaVH1LuV5Grj02gm+3qBEKbriAG2Je07h7U+CQBIeJq3RFaZwv8ooIKvWQUDKBBwwEbRl4VTPcgpPJcSdg3rZgZWGbDBNsIS4C7DB1GAt28eBNVfaOKiweB5rjIm25ArjFRWYEb7Kyao1ec+pbh0r8gCyA3sdqMyQXEsa5J0kyBp1cKsJOjC5Jh1fl7ohZ9X5jzop1e09YSnNrdEN2sTxI7wRdJB9K0wjr5eHhxvq5vT4z3VcMdNFEBqMV/ySEZ1U7smIhPbeMRSvCAjeCgeDQZEAKa8ZKcj2u72E2LNPhgneV1vyigqDN6yUaFtvxNbcCBWYIFFbi/ecfZx0c71oxEWGZXlbrGU0qClloLTg7b/aHtTgc6FpTMNnlWBPLdFgFe8U5SGcEcbOMBw1DSnGOda77uQJgLU/dgwEX4ek4OovHGl/UFaYwnO38wgyJu67yFwHJLvhJRCN9R7RhjnyR+Nz/+J8OL7xJ4vJm8X04tY2Q7LoeNZweD6a3gyHC3++mIxvy/hTyWPU/GZ4sZj4Fcrkd/cG+POZ1aF5QXucqeRA+ddadfGkasgw8l5Sme7X3vCXFraJSCHD2wnqctxftnh+ME/zSfO6EoqcG++ZxtyWaLwyHwmre46x4vpeJ+VRnBC1LPMByrXMwckyKb5BqI+kdS5qiLd0TY/U7YWqLoKtMlVhjoWC6Z/UI2V1Wxnq26whpagac+6lXZaNDhQRRwLWEIkMuHubBpHRELgC2zrEutXGQMbOxwP/sFd5+cfX3iWg3wnrXecBKvU+lYq9jZuqsugf1+i7vP5UAX68q9ziyjtcsm5Lfv4Yzm4u2bfbP6cPtzfrt33TCiGmvWaOlDXmnNqzVC01pBlrtkW3ELhrz9JUYSKOsUD4nlPZ8I0WGQ2N4//6G582VNGAMqqtMzL7tvteg/PagTedpIorF1ERxCRnelkWZgaUEmqjKgOZ0v2nLvqNXs9ZOU+ThshkgENzJS1jtR5nzHliZ/sAabYsN6YWa+BV7xUjTIvUhC/aoKk1vdgdtetee8ivPeTXHvL/sYfMQW8xhTWy/2GFXMmHu38BmJ8IR9AaAAA="
+  }
+}

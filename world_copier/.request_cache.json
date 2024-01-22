@@ -1,0 +1,39 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"a6547ad85af8e705ffaf8a61307ef8881761555a876990994c6061b5211159cc\"",
+      "data": "H4sIADJErmUC/+2Wb2/aMBDGv0qV1wUnJGQCaaqqsqnaxtZW3R9RTZGTmMSrE2e2A4OI776zEyBlaitK30ziFeJy97vLY/uJ7yqrFMwanlipUoUcIoQL2k2oSsuwG/EMCVJwicYXoxsy5SIhMfrOBYsveEGJgKeMYEkk8l3Pt3uDgXV6YmEpiZLBq3JRDdX4smAcx7v4OioPb1Gd5TgjpwyHhK10v1RlbLdbq8uzfIUTNLO7TtfWNBoDZ91Si1WqlAuIVRbjCc11F8zIH7fn+pt8r+/arjPow/+cxyQwQWs8uva//fjMol/Xznh5vhzf3jtG/xlWWPyjv4muBSolERHPFcmVeYsSrXuczd56mpKIhlM3M8o/uaIaKVF79meUa6dOOWN8DoBgnyZoU7Zl0Dx5CQPKKsRVSkA4eG5WPqFS7TmQKanMDwhnKBJEFCTej9MUwUjzHKapzGaucWUoI0ELRXm+53APSjULdi3O6RK/gAWlBmEO2X6lpkTXkhlsvz2L65oKFYLOcLRY1TNEhM5A4pcAd4o1Ty0KogFfIdNIThUJcJyZ0znFTJLVw5N48y64n4++XF5++Dgde6PF+6tPhoOTQJuJTtk6AKxsQlQAo2RUUZnqpxkGtmY22ZvkWOCpWneF/4UgjbG0gpEgWMEbYJ1p9exer2N7Hdu9td8MPXvouBONKsqQQbvH8pyhO5hs7Rsy7l7p21ADke94tu+57tYFm8COlucPtPx9tUzbyrQ6dGpNu1kUm2Uylg05ecnY5jtBjt569Najt/5n3tocn2CdjYuC0choiXikiOpIBaaXNXtAmaTmwMc1dqljruN52kVhpc2lMeJlrkx88Jxvgh/2J/V9M34yyzdZoeBzeKVg0+qAG+Oa0Vwb0WOet/pZf05CzNhB1+2G0bqmLmlxMLVhtKghjxdmOecYhv8Lf7UESnwMAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "61406433": {
+      "schema_version": 4,
+      "id": "world_copier",
+      "name": "World Copier",
+      "version": "0.1.0",
+      "link": "https://github.com/MCDReforged/WorldCopier",
+      "authors": [
+        "Alex3236"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.2.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Sync your mirror server with main server.",
+        "zh_cn": "同步生存服和镜像服"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"ac25a915a8d356ee58bc2bf15da090fb9e3fa99af5f305a124113d913afa9b0a\"",
+    "data": "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"
+  }
+}

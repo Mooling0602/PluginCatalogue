@@ -1,0 +1,39 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"288fec4e046731b7ae49f6f07db7987d4203e7f8691756f9a9b0f15671dc96be\"",
+      "data": "H4sIADFErmUC/+2Wb2/aMBDGv0qV1wWHJEBAmqpq7f6oo1WrUU1UVeQkJrhz4sh2QBDx3Xt2EmjZ1g3aV1MlJBLn7neXx/YT35VWIZg1PLJmSuVyiBDOaTuhalaE7YinSJCcS/SlwA90NL6Ro4/ofPztNBGEwCNGsCQS+d2u7Qz8nnV8ZGEpiZLB20FRRdTsImccx7vsalS+kl+eZDglxwyHhK11sZlK2W6pJyVehiucoE7bbtuaRGNgNOW0RIWacQFjpcV4QjNdocE5rrtJ8fq21/NdB+4zHpPADFqjs+ve7Y9LFj1cu3DtXJ2Nlkb4OVZY/CK8GW3EKSQREc8UyZR5iQI1NU7mHzxNSUTNqYoZ1V+cSo3cSl23/4/a1dFTzhhfACbYsxTaZG4xNEsOxEBmibiaERARQswiSKhU+7dlskrzBzoakARNBYn3RtV50Ngig55Ks7QrYhHKSNBcUZ7t3+KzbI3jIsEZXeHDcJBtKGbj7Z1tsnQ6mcPK3D+/SitRLugcR8t11UlE6BwUP5C5k6+RapkTzRhDsJkBqkiA49Ts4Clmkqyfb9Wb8+Dn4uzqK5uEt7736fPF4sJwcBJos9EhG5OAeU6ICqCZlCoqZ/phigGtkXWwvo4FnqqmHtzngtSu82QwEgQr6B3rSMuxHafVcVr24LvdGTr20PUnGpUXIYNKf4rrDN3+ZGvpEHH3Fh+Liob8ftf1BnZ/a5D1wI6Ep88kvOxVGY0iDb41N0K20yg2U2NsHAKygrHNh4O8e+6757577n/oufX+CpponOeMRkZXxCNFVEsqsMS0XhXKBNWmEFfYlR7zBwNtsTDv5qAZ8SLTzuj0vL+Zqv5NqjNq/FKU65moUPAFvFGwKXXoQbMBVKdN9Fs/XN9X35cQM3b4wbwGbI+1K5q/jlgDtsSQx0vjgOv7RyoQ/IqYDAAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "87534907": {
+      "schema_version": 4,
+      "id": "eulagree",
+      "name": "EULAgree",
+      "version": "1.0.0",
+      "link": null,
+      "authors": [
+        "Huaji_MUR233"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "ruamel.yaml~=0.17"
+      ],
+      "description": {
+        "en_us": "I always agree with EULA, don't ask me",
+        "zh_cn": "我总是同意EULA，不要问我"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"a7e6da58fce48db89b8db90f0b60d7d9a0b68b11048b3b0a54bcde253aa24e75\"",
+    "data": "H4sIAPm2n2UC/+2YX0/kNhDAv0q0L5VajiwLHLBSdW2Pu/YkEPTEFZWqipzEm5h1bNd2drtE+907dpy/LXCL3ypeYDPx/DIe2+OZqSYkncyD45O309Oj09nhXjBhPMWRlU4+R8vs/OoTvYt/W0/MK1RgI//w5eLHTGJsZIuS0qh58UuJ7snll8/q8n3YHyQkWSFthiwQVRgkfM2whOdqQnlG2EjZ6FgTzk6PDk9Oz06Gdl1Zu35Kjy7e/2qGIoAjGZWSmre51kLNw7CWqv2M6LyMS4VlwpnGTO8nvAjLsGG/W31/ZCiZdJz6I0Y0JgriaDUCkCocmZ3rgo4t6emMRi84pXwNmGjHT4WtZochLHshBjSrkOscgxNhyNa6gyi9u1lWq7L/wI8WpMCnEqc7o5weGGb2yrYKJRa8JpaxSiQRmnC2u4kDbYPjMkOMPKCX4UDbUox1u2tbLaOOV7Azd9ev1arQnrBks60tSTBZgcdfyBzpG6TeCHvAr3qusitBNI5QWtgTbM/2dqczMIgSKW7XxWh+ChBdo40KkBkQrAEQmOF7QcrZNzpAahkUdQzictmLLU/P13r8URsM6jmPPU4IrbrhLPHGA2O0K/O3OUMJHFMUc4k0lx7cAaYaPNrPaIwKD7xVt0GQcx8vWnV7ByhV4q/bxk/gLEW1R4WVRexinC+5OyBIKZIxjD1gLaIK2yAcS8SS3IfaECr3q15nlPksM6ojXkx57IGBUaFFVKHKkbtzdORnm4EawpAp8cKTaQgdU0uvlbZGSrvSDREuOw2r7gFtCGHVMCliWYkyH2iLaC7yDD1g6WelY9RhjWlJ4tI3qnWUXnoQ+xnaQcYphzdUNNcnDC+I9pq6BQx3uzfV7M9/kY3AL1o2hEEIrkO8e+Ud4//zEy7t99xhhhBW3wmk88YfAkns5Q4DCKsYQdq0v79f5RjV132BpdexrfXtvSSTHHK5l6OqhgCpTYG0TcMX1sgU8nLKUephZ4tod4L3NT9YeQHFqQfRqg+ABaFYac68FqdlDNCMa7IgyVdVIU/QB5jqnSIswXuI0j3Ya5okBPYvVHvufogx9bocjD5MAqp/V3hQjLwusYZQhS7xTbGgfOMZeHoQe3IlRhrKG6QNbjadzd4czN5Mz26mB/OD2Xx2dmdrf5E+Omo2nR+f3NU7TOWPDTqYH9aDTFB2xsPP54shMy176ai8p/dDpzV/SiuhsLd2LL/aL67YCwq3nBdYQJYAagyOjK0LH8zTbJg1JLxkxlFTEK+RhrR0JGzSDfP9643O61syRyqqDzfItSyxkwnJ73GiR9IupgzEa7IkI3Wb13Rlo1UmKikhDzedge5NXRT2DS2IlLzpOLk5u0CZ9hQBh2I6EHGBmZvNcOokwUxh2xKDws94YK0Xgvb7buc8uM2RDm5yHHz8NlkGv/MyuEUMJDy4LmNgBBeOYzwv0r9dM+v25uP1xfMdLWeECrtPd123y/Pk7c3P9P7u9vjh7ubD0cSU+si0j8zdsISo0vmXqEjjQtBh02+NY5ecRKbU4YsFZOZ/lUQOPKS5IIlx/x9/wtOKKBITSrR1ibCTbAt157ueT0e7yz2meIFKqqO6BDKgAhG7twSWBWkXvJoMehl79TiNBiJz5PvmSlLv2O49pc4TW1tTFyKqz6TmS8ya3iLsM80Ls4nBBk2s6dV21I567ZC+dkhfO6T/vw4pw3oNAWxwA/TL1la+/QeoVCsOohkAAA=="
+  }
+}

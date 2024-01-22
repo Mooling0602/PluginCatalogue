@@ -1,0 +1,43 @@
+{
+  "schema_version": 8,
+  "id": "hibernate_r",
+  "latest_version": "0.1.0",
+  "latest_version_index": 0,
+  "releases": [
+    {
+      "url": "https://github.com/HIM049/MCDR_HibernateR/releases/tag/0.1.0",
+      "name": "Hibernate_R v0.1.0",
+      "tag_name": "0.1.0",
+      "created_at": "2023-02-13T17:46:59Z",
+      "description": "实现了插件的基本功能",
+      "prerelease": false,
+      "asset": {
+        "id": 95489638,
+        "name": "HibernateR.mcdr",
+        "size": 12042,
+        "download_count": 76,
+        "created_at": "2023-02-13T17:53:02Z",
+        "browser_download_url": "https://github.com/HIM049/MCDR_HibernateR/releases/download/0.1.0/HibernateR.mcdr"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "hibernate_r",
+        "name": "HibernateR",
+        "version": "0.1.0",
+        "link": "https://github.com/HIM049/MCDR_HibernateR",
+        "authors": [
+          "HIM049",
+          "sout_Nantang"
+        ],
+        "dependencies": {
+          "online_player_api": "*",
+          "mcdreforged": ">=2.0.0-beta.3"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"0ecac72d653e257377b407728667d0e29655f7bbe1c61a9d9a9eb4366808e349\"",
+      "data": "H4sIADFErmUC/+2Wb2/bNhDGvwrhAFsL1NYfu3ZqYCiaOEnToSmWtUOXNBAo6SyxpUiBpOzZhr/7jpTkuG6X1ktf9EVe2To99zvyoXjk9apTKd4Zk05uTKnHnkdL1suYyau4l8jCU1BK7V0GyafFS6+ouGHRPGcGONMGX3KgGrT3NPRH4eFh2HlCOlRrMDr6kVivZlp6VXJJ0116HdX3rrB6LmgBTziNga9tudwUfLfYVpFv4Q3NvFm/5/d8C2MpYtqK1qnK5FJhbNXhMmPCFqmJG3U4eDrsHwYDfBYyhcgFO68nfwz/en/Bk4/n/sXbv5dvJieuAJ1RQ9UX1rtoa06lQSVSGBDGTaHy2hrPZ78NLCVTDacu5ly/czEtsrX6u02zwqnkXM4xOfr+At4m6ZbARLY/AZNWnjQ5oGH41i13hqu312Bcwsr9oF2OodE6Bek+lCYFhzMXOJKV+3hrWBXrRLHSMCn2GthniZYkVUYFW9K9SZjoAG5D7ZPoEmwmzPBj2yu1zlh5pWIzmizWdf0E2AyN3R+3k2ppZlGCTX+HOmc07t2IpoXbhVPKNaw/33OXJ9Gn+eTNyavLCzgcTM7Ks4Xj0CyyPcNKbnc6rmcGJsKBFMwwndu3BdWmrrWtt8+polPTlsXnUkHTQbaCiQJqcArUKjuhHwbdwO+Gw7fBcOyPxv3RlUWVVYwdKP8PXdAf9wdXt00aFdc/5gCoed5g9CwY+eFg07/awI6XL7a9PA4X02zbl50qXWdrr0hS555rzigTFeebAwEe2uhDG31ooz9pG202StSqaVlyljgPPZkYMF1tsL0VzbobJ2o2dlpjlzYWjAa+vTiluMDuGpjIStg+1x8++0aLDMJxGFzVN8j0TlXfqWIl5zinaFPq/18CW0RzE/TuaG/rm/rwiCnn97lBN4itu+eSlfeFNogtaCzThaUdkAuYa/ILOc6pyEB/UB/En1VZSmXIVCpy/fp4chn2/JtHX7HvFJkgukd28XLPKgFzMkgfW8wBOXp3dnr+3v4/Zf+QuMoc/uCA/C7QWMK0rsBGtCyAyCnBVkQK0JriQAgTZJlHiSApS8WvhhhFhea4/g1jWplKuYcCWJYbEkOtmYIiRpJrnJE5UizNoB3WVyfRWPal+jEpeWUPpfXNv8GSBHZsDQAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "47917024": {
+      "schema_version": 4,
+      "id": "multi_whitelist",
+      "name": "multi_whitelist",
+      "version": "3.0.0",
+      "link": "https://github.com/R1ckyH/multi_whitelist",
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "A plugin can control whitelist with multi servers.",
+        "zh_cn": "基于minecraft的白名单功能。"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"721a35f376276410c26e9eaf787389709ba42f3cac7702239074e0db8c1ace7f\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rgr0ssvyROaqDohqXINrRpGrhbl2EQKIqWGFOkRlJ2bcH/vUfq3Qu8eAxQpDLFe3g63h3vWAxoNJh7k6vr8eXFbPzmzBtwEZHAjg4+3rzffGK/MXz7Zoe+PqwxX23vdvG3u8XnycfF6u3ATEcpMXPTnGkabBKqCaNKm1fLnLGgfv8wxqvtL/4z0zJJ10ibSUvEFIERseFEwu9iwERMeStuppcKX1zOptfji0N9P89+/3rH8NOvo7vFn7tPN+9HRgQBH8kgl8zMSrTO1Nz3y1E1jKlO8jBXRGLBNeF6iEXq5369xrv12wtDiWXFKRczQ4fEjFa0EgFI5beaJzplh0p0prcTl4IxsQHh4OUL+I1QS6A8Pp0AQoUvdELAYPB2bz8dtuokZaxAYf8Dc1mGAtNJEp1CqURAHeMQ+8KXJBMlLA8VljTTVPCTFOsJGpKQMeJ0h04mgaAFGJ1OErQCRpKswdlOEi0lCt+GDN7uy/UxoWsw7Om4A1FD09vMhusXmGcNDYEaoCi1UWjjc/9ST34u1iPSWN/I/uRlLIcI95ZCeh9/vnkg8BCTyAMhnHgYcc/EpBTMazAeTLdkD1RcN/4uV50EctwGdgOOKGlg/2XHYwzfAgxpRbZOICNfmL91EGEIURQKibSQTuQeqOj9tAtpglKnBSzAZj0h3KxpATbzK5WTl7n5UaDlqCaYeJ6GVZ5zZ7eRhJSiMSfECddACr9JxqFEHCdu3JpRVE/lnqPYbctRmRFDJkInEMzzLaTwVYKqE0gHrvoZrGH0qZIsnamG0VK1dNx1q6i0u14z4SjU4AFO2JrhFzWVIR7nKHbDNpD6lI/RjkhXTStKmfTgCKBh7p7zWk6niAhdlW0xh6XJK2DLs9JaIU2pdjSARfT9/xW4xl//xTYDrtm0ZvSSdHkMVK9e4Rx4dpGqFXD2N8Pwix8ypJPaKhmSxNEoBuEXIYJqbDgcFglBZXmQEukYzCXBnl8SJ1AcusCKmgEFUYq0LeCXVtEIKnomUOSkawNpvOIVyoKeF2TQwToxLaCHTCkjSgvuuE0NpQfnQtMlxS9qZo7ye6DinaIckzPE2Bl4nqaYgj9Dn1idISFhjgeIIcCHoJRULQ0jyPGwqxmFX5XOEcmY2DqnpA7GxrMkSEMHhbQBTkaT0fno6nx0vRhfzaez+eXFo70nyKL+rKmddbUYXc7H8G/yWHqbSrqTxufj0flkthjP5uPpfFqiTMqu1IfHl/Rd5tPswaSSjuSPrdz8uBxm4Gcnd3vNqmv+vzrFRKQkg6qivmpRdGeeZ7N+kYFFzo29LmF4gzTUtAeDdXViOPdbnZSHaYJUUMY7jGuZk2osk+KJYH0w2iaa3vCGruiBuC2D2j7UClOFcyjjzX1D+6bsMWtFxzYxSCnqSyoOeaPNwVFHEHAoZL0hkRFefU2PyCgmXBF7kQY9pN34jJ1Ph6Puxd3t3RfvlnAiEfPu8xCEvA+loLeupqos+lbdet3ef6gBx4OoWlz53SW7V3V4trhlT49/XO4ezVWiuVZA5v7JHBYrSC6tZakKNEkz1r8k3JCwql0C0yOJ5RJK+X9yKnu20SKj2Bj+r7/h15oqGlJGtTVGZr+26fgrq3WsWY3UflV5VESWCPw1KDsne/eJlC6vSzIiU9psdjHo3ZyYTUaUa9QbMlHfVVjS0lvb94xVttjbxjzNgjIktVgRXscHJ3oDX9FzgG6B24zvvwMVdHon9BUAAA=="
+  }
+}

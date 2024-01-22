@@ -1,0 +1,57 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"b999fbefc6f159eb39595534aa90e584ed03646cb89753b47c6561e5a780d8cb\"",
+      "data": "H4sIADFErmUC/+2XXY/aOBSG/wrKdSF2EgKJtKoq6O50t7TadlqtZlRFJvEET00cOQ5TQPPf99gJn50ygoGb3VwhnHOe4xw7r/3eLq1ScitsWROl8iK0bZKzTsrUpBx3YjG1Jc1FYV8RKeftxXceJ7E9Ggw/tQdECXjIKSloYXcdN3D6XWS9almkKKgqonNi7Yqp6WXOBUn26dVo8eIKy9cZmdJXnIwpf9TlJmrK94ttFXkOr0hqxzDSnuEO7pj2sARYq7K6XaWaCAljS4uLlGW60jZ2neNgjDwHu/A/EwmNzKA1Gv7tf/3nA4/v3/0YXb9Bo/u3C7MKM6KI/GkVzOiqT2VBZSwyRTNl3qa0VzVez37zNCWVNacqZhbg4Lpq5G7Xj+yiDr8TnIsHAEXHFrPXqRsOy9JTOZC6tIWaUGgkxJgdkbJCnTAxk7Y0P9BMQyqgsZImx7PqRJjaQwazWpq9XiHLcRFLlismshMmuZOueUKmJGMLciIP0g3GfIvHp5s0nU9nsEVPAFR5SzuXbEbi+WM1l5iyGbT9VOgeQDPVPKca8gWizTIwRSOSTM3XfEd4QR93v9pPb6PvD8OPf3yYv/uz7w2v3I+fDYekkRYgHbInG7DkKVURzGnKFCsmOmRKoIAGP52SSHKnVhOA/7mktTBtDcaSEgUvQ3Sk5SAHtzFqu/ga9UMnCD3nRqPycsyh6C/iXBw6+Gaj/RBxe55zpeLZXt/p+TjorrVwNbDX1TfbXR14f72/327PYNOezjROzEoZpYeHWcn5+nShjRw3ctzI8X9cjutPLVpFkzznLDa9tUWsqGoXCsRxWu8NZYJqgUgq7EKPOYEfaLWF1TdX01iUmRbJruc/o6+gm8i9qW61ycEo30SNpXiAV4rWpU6/mK4Q27dT+yeBfPxWnTxjwvlLLvQ1Yv8qvGD5S8k1Yp88FslcI28/l3kupPrWuhoN3rfcjtdxUNCyWzq5pcOxBXvhTCYIu10/8HrnNkE19oImaLfCJU0Q2jZBddnGBDWnbnPq/u9N0ND/cv0rE4SON0HoxSYIe9fYCbEXOv5BE1THdUPsXNQE+UHPRX5vY4LqgYMmaAHn3lMmCDUmqJHjRo4bE3QeE+Qi1H3KBAW95+S1G6L+AQ+0EVd0cQ+EtjwQurQHQhfzQGjXA/3OZKFaX2HPwKLC6/wLtih/K/MZAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "48276195": {
+      "schema_version": 4,
+      "id": "cato",
+      "name": "Cato Plugin",
+      "version": "1.1.0",
+      "link": "https://github.com/Harry-zklcdc/MCDR-Cato",
+      "authors": [
+        "Harry-zklcdc",
+        "猫猫"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Plugin Cato"
+      }
+    },
+    "46973067": {
+      "schema_version": 4,
+      "id": "cato",
+      "name": "Cato Plugin",
+      "version": "1.0.0",
+      "link": "https://github.com/Harry-zklcdc/MCDR-Cato",
+      "authors": [
+        "Harry-zklcdc",
+        "猫猫"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Plugin Cato"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"bce3f6d8cba5b3eef03830987b0b059ed4f4c97d1e906ebedb9cc31f19d64626\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rhr4sjyU5W1MDQDc2wdUDarc2GIcMgUBItMaZIjaTs2YL/+44vkkVv8BIzXxLrxHt4Oh6Pd+ympJguJzfJmyS+fXv79moyZbzAqZFOP6fr8u7TDx93H37aTvUrVGMtv39/93n2HimuhauW0rR/8yMSYjfbr2le5JE3rBFkg5QetEJUYpDwLcMCnrsp5SVhp+payZgxT5L4Zp4sfNvu7375+rffP9L86cPf9w/fxfdP3++1CoJZkEhbQfWoSqlGLqPISuV1SVTVZq3EIudMYaauc15HbdTP8W7zzY2mlMJx7GRadEpsiKNZBCBldGp/pWp6aspI6XT4ilPKtwBKXzpZNKgeOYSVl3JAtYu4qjA4EsYcjEuIVBcYZtQ68w+caUgSHCtw8XKWUwTTdOgcukjghltkm8lckEYRzi4w0lPXPC5KxMgeXcgDdYPR9l2gbtS0Pt5AiF4AsHpdZDZdvjtYW3JMNuD2S6EnAM1Uu8Zs+19htFkGonCKitrsZrPPDy/bBX7OKPCwKn3amXxpm4YLNfkCsaAmeuQk200+MbzGOxv7Yj1KMue/0jj6jAEa9n+eOseIDECTwLogkNbv9N9+E+WwUVHGBbwUQWQP1HmPZiKFUR00gQGYbMh5mDcNwJwLUrb4eYF8Fmg4ctgurK0zl+3C2cddgqQkJcM4CDdAumhIyZlALK/CuD2jc7/smqMybMmRzX8Z5VkQCMZFBtJFskLuHFJpqH0aqxk+VeBVMFUzjlQlAlfdGCrMqvdMOAQVREAQtmdEXU+liJUtKsOwA6Q/5Uu0xyLUUkexSY8pQbI2POcdOaPyIQs19og5LUpeAWvPQeOFuiYq0AEG4cf/K3B1vP6LrQWh2bRneEnaHgPu1SucA/85iWsUguNNM6LuqwapqvdKgwQOdIpGRF2GoNK6vr7uKoxseVBjEbiZLcGcXyKvoPALgXU9AwqiGilTuq+MoQXU8pSjIsjWATJExSuUBV4UNNDlBjENwEPWhGKpOAtcpoHiwRlXZEXyZzUwZ/keqHsnCcvxFaL0CiJPkZxAPEO36M6QDNPAA0QT4ENQjV3TQjEKPOx6Rhe50rnADeW74JQ0wpj9LDBS0B0hpYHzeJ7MkniW3DwkyXLxZrlIHs0tQlP4oxazJJnFtw9xsrxJlvPFo402WY0HzWfxYjZfPMTzZQKo+LFP2c58+Pmcnkp/mjmYZDXS/Paotzyvl1OIsxd3csOsG3ZRF1jxGjdQVYAig01k2sy9frr1q4yct0w58RYpKGpPhH15oi34eacqe5pWSKZ2w4NciRY7WSP4E87VifSYaTzxlqzJibqpg46NqFEmMm+hjteXDMc3tsnsDY1NZhCC93dY7ptdAi1GioBDGfVEvMHMfc1A1BdnlOSYyZELkb7m0dl4Dbv3aDmRqcJ1Q/2bui3OXHGQ6iaEr1ZQK//VEuHNrXhDcv1hf/wJTxsiSUYoUTvt7qbNwIShpXbfObLW2dmvm1uxAq9QS1VqWxMNqhExq9ZgUZPBld3Uu3S4suMU8kR6U43NFcTGwvE9pc4TB9P31k1qI17xNWb9PSDDagvf4C3YuH7s5fPDP0H8cEFdFQAA"
+  }
+}

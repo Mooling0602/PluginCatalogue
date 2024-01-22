@@ -1,0 +1,231 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"981001384ac2788ae21a136dc02c32bfca6c827a2aa15dd7a43c6909ef0297a0\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "103714058": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "2.0.0",
+      "link": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "102000413": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.3.3",
+      "link": "https://github.com/Ivan-1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "96397666": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.3.2",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "86468883": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.3.1",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "85569852": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.3.0",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "72806253": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.2.1",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0",
+        "requests"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "63409198": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.2.0",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged~=2.3.2",
+        "requests~=2.26.0"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "62956515": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.1.1",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged~=2.3.2",
+        "requests~=2.26.0"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "62956220": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.1.0",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged~=2.3.2",
+        "requests~=2.26.0"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    },
+    "62815395": {
+      "schema_version": 4,
+      "id": "mcdreforged_plugin_manager",
+      "name": "MCDReforged Plugin Manager",
+      "version": "1.0.0",
+      "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
+      "authors": [
+        "Ivan1F"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged~=2.3.2",
+        "requests~=2.26.0"
+      ],
+      "description": {
+        "en_us": "Manage your mcdreforged plugins with ease",
+        "zh_cn": "轻松管理你的 MCDReforged 插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"25f3be0941475e2ae9ebc7c4ed92446e73b6c9279c4211ebfdc7128f6ed41642\"",
+    "data": "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"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"092800e450b77b46bb0505ac2f319bfdb76d1552fe9e2f671f8abac3c3b22e49\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "92223393": {
+      "schema_version": 4,
+      "id": "mcd_seen",
+      "name": "Seen",
+      "version": "1.2.1",
+      "link": "https://github.com/TISUnion/Seen",
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b12",
+        "parse"
+      ],
+      "description": {
+        "en_us": "Show laziness rank easily"
+      }
+    },
+    "85707650": {
+      "schema_version": 4,
+      "id": "mcd_seen",
+      "name": "Seen",
+      "version": "1.2.0",
+      "link": "https://github.com/TISUnion/Seen",
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b12",
+        "parse"
+      ],
+      "description": {
+        "en_us": "Show laziness rank easily"
+      }
+    },
+    "43018558": {
+      "schema_version": 4,
+      "id": "mcd_seen",
+      "name": "Seen",
+      "version": "1.1.0",
+      "link": "https://github.com/TISUnion/Seen",
+      "authors": [
+        "Pandaria",
+        "Fallen_Breath",
+        "Ra1ny_Yuki"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-beta.12"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b12",
+        "parse"
+      ],
+      "description": {
+        "en_us": "Show laziness rank easily"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"e41280de8aef1055c38aeab67b90c346a90d242d1c6b56672b849daf4b6f134e\"",
+    "data": "H4sIAPm2n2UC/+1YTW/jNhD9K4YvPTSJLNtJYwOLbYFsF1sgm7abAosUhUBJtMSYIlWSsusI/u+doShZcoJtzFuBXBJryPc4HA7ng/WYpePlKLyazObXV9PwbDQWMqWRlY5vbz5s7/gvPPm4eCJff98kYv3P58efnj7fZNPbxw/vxjidFBTnfqFU4Peq4jxqhfefvvwhmBRBO1oqtiEGx1aEawoSuRVUwXc95jJjoo9CgFVkfjmfzifXi2fa7e7Wi93D9OeKfC3z9CPfxI+/hZ9vPk1ub7JLhBNYjaioUhwRuTGlXgZBI9UXGTN5FVeaqkQKQ4W5SGQRVEG73vvNuzmyZMrxNAuj6JixZI6toQBKHfT3kZuCH6vRA/SnriTncgsE0SmLBB3swMFE5sMBsDqQJqdgOBjfWxMwbU5UyEJq+w8MZ1k0GFHR9DQeBwKV0FX2daBoKRu6KtaJYqWBaScqN4Ail1QZEeyJeHAB1FKgXidCLQSxdAPudyK4wdSBvVTJbt/okFC2ARP7EB6Bkc/sSnuT73rmsaZnhkYkLeyNtXd5/3ov78JBSrtDQAgZlbyCIDBaSTXSufXEkZYFlYJ+p0eGFXSkS1BtJMVoK9Uax1dM543Lq3Uvrnx749buz/VBjv+y2QvQwOKQYE13PniE1fi3vSgJXEQSS0WMVD6EA3w9+LT8hpLCh9fibDyT0stSFmcDu9YVfZ2XvsRj4bq7AqIqYhepvCkPTk+0Zpmg1Ielw9ZBFzxjRUSSe9G10Nr9ak6PZF6HR5o4FXMZ++BhOLDYOtA5cWnBRJ7aIBtCh2SKrnzJEHogM8rv/Kxayp5fSwUJyMBZ+rC10KBuyTgRWUUyL7YO2+bSjDxR5amXAzfRRhjF4so72BzgvbQce6p2QB/neH+2ss1bMK9gxm+XFjl0V3869LNnlCjwjF4tdBALmyDrhvyj7IvcrmT2dRiEBvX3JTF5u/WSKOq3c0QGdUygCrm4uKhzSpo0WlDld9MaoM0FKsmhJvLgqFsoVAcFMbZwXVm1UqhkuSSpj2Ydtjtf//Q5OM8SGjcfKosbMBWMU22gZvOyfAcecApp2IolryrPX6Id4Ov3momEnhHOz8B1DEsY+CEUky5Cx5T7hWcEgtrQ/bpinFPilzhaaB24ijClJZc73+jQQ9vLpih04WlEDPJMJ+H1eTg9n8zvw3A5ny7DyYPtcct0MGsa4qwwvA+vlrPFcvbDQ+M3Ou9Pmp1PYN7ifjJdzhfLy9lDGyud1vDzG10BbsSGfZ33AD8epi9fnJ5w8JjXdh7dGhtxSrOSQyNSQvaF+QJ83jZBT/g1uxqm40RWAq0xAfGWGCjfjoRtHseVf92Z3D0REB019xLkRlXUyUolH2lijqSHODAQb9maHcFtwXBojCyY6aSCQhV738NI0/20il7am6yUbJ9P3KZdVEt7QKAjMR+IJLRpbjcdI74ucZZQoXs2JPjigCESm7mD5kxHhhYlHz4WbWnsUm6EVbZcraBg/LtiarC2kSVLcGN//gVfG6ZZzDgzOzR3WcWgQtfruX32tHV6tufmTiylK1JxEzVFOBIVRBuq7AWgqmCdMevxoCtGIxImDBmI8M70FVas8YbDOOfOFnvbrRVl1Li4kWsq2kcoOEMjC3QQ0MEwq3y9P3rMeHtbe3tbe3tb+/+/rQlq8MlrEJ/7nVYXZff/Aqab8d7VFwAA"
+  }
+}

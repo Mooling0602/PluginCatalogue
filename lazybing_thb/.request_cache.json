@@ -1,0 +1,63 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"80dd786520e27f78967a4981051f15d59b5f258d549bd10b14e71e674b527e9d\"",
+      "data": "H4sIAJKYrmUC/+1XXW/bOBD8K4aeK4uSLH8IKIq0vkMPbVq0zRVFg0CgJEZmS4s6knJqG/7vtyRlx04bp07slzs9CVrtzlBLcsi5XDq1YE7ccSZKVTL2PFzRbkHVpE67GZ96glRcem/xYu6+pGXhfiJiRoR38fqle/5q/BG+M4IlkZ4fBqMIjYLIedZxsJREyeTY0J7F1Qx1xTjO7zLYqDwKy/JFiafkGcMpYStNOVFTdpdwi+g3KBQuPL+Lur6GozkAbUh102o14QKCS4fxgpaaR2C/nLvz+jvdlAzCYDAaoiG8lzwniQk65+MP/c9f3rHsW7Y4/5ZF78dnPTMTM6yw+GkmTHTdp1oSkfFSkVKZP6m9NceL2XODUogGx5KZCdg7txpSerujf6B/u8nXnDF+AyDJYUTepvAWBebkcShQuPS4mhBoIGSYVVBQqQ4elClamge00OBIaKcg+aFITRkM66aEES3N+raAdSozQStFeXnwAHeKNRoXBS7pAj8KDYoNiNl7hxabIl1NZrAgDy63VUuvEnSGs/nKjiMjdAbNfhzknXKNqOYV0RB/Q65pPlUkwfnU7NprzCRZ7e7Pj38k32/G79/8wEmS9V4P3tTvDA4uEi0zOmWjDDDFBVEJjGVKFZUT/XGKpbJU6/TZJj8X+FqteeG9EqSRnK1gJghW8A9YZzoBCkLXD1w0uEB+3OvHEfqqoao6ZcB4T14Uxb7/9VbgIePyaAeIhQQZHoWDcNQLtjSyidzp6Nl2R/+6+McPttujGTWhJrKt6k6z3HTQSDrklDVjm6OEtMrbKm+rvP8R5W02VbLOxlXFaGZ66qV1mTOSu1oO3IrVesPbZaFMbqMHuUVf6FjgR0GolRbm3tw7M16XWiBD/wFpBclEVjLrKt+bFZqsVPAb+LNkw/SkC+caxd46vfs0cXVlT50UM/bES3uDcnvNXdDqCLANyi1syvO5xvuT/iB5h5YAUsH0ppRRNe9cc2FjgNXRAAQiBSTOgq4fObBCjul7wmHYGwYn8T0W+tS+Z4flhL4HbfseS9r6nvb0bU/f/43vic7e9n/le9CBvgc91fcEF34/RlEcRPt9j83rx+Ho5L5nGI181Au3NLKJ7PU9H4Qa7/U9qPU9rfK2ytv6Hp4polypQBCnDxue3iD4leHpPySp/TgI9/mdTVZ0ar+DvPu08ER+B53G76BdvyOk6qyPudXVvwtsu9jBGQAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "138591043": {
+      "schema_version": 4,
+      "id": "lazybing_thb",
+      "name": "LazyBing THB",
+      "version": "1.0.0",
+      "link": "https://github.com/Lazy-Bing-Server/THB-MCDR",
+      "authors": [
+        "Ra1ny_Yuki",
+        "Sinbing"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "TPA, Home & Back for MCDReforged"
+      }
+    },
+    "139373942": {
+      "schema_version": 4,
+      "id": "lazybing_thb",
+      "name": "LazyBing THB",
+      "version": "1.0.1",
+      "link": "https://github.com/Lazy-Bing-Server/THB-MCDR",
+      "authors": [
+        "Ra1ny_Yuki",
+        "Sinbing"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "TPA, Home & Back for MCDReforged"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"53b87466187bbd0e7286cbe60ea128eee5eb0e1b142737c30287a6dc5661f0ed\"",
+    "data": "H4sIAEYBqGUC/+2ZW2/bNhTHv4rhh72sji52bgaKrl26tFvSpK2HdRkGgZJoiTElahRl1xby3UdSki25dJxYdNEHv+RCib9DHh0ekv+Td5HfHXZObfvcsviPF51uTHzoyNbuJ2cSXNz88RU4zseueAQiKNpH7970rn+9+CTaxhnGTvXgCizmvTcoDnqfIZ1CatTfTCiaAibeGwOcQt5CZjGk/P+8i0mAYhVBdJSDObPPz05OT8zmCK8v3s5vJufzO/u3DHxJQv8ST937YH4zCuwPi79nojvgVgF1MopFj5CxJB0aRtGaHgWIhZmbpZB6JGYwZkceiYzMqOy9mr4cCEpAS05hWDStExNU0goER6aGaj4hi/D6cGodVV3GBGMy40BnF6PGsvuKxZ+2YfGG3CAshNyx/L0H6SKUsh0HKLvm8hd3sKSl3NkU+rvxys58iCLEHnKDwoQU2MxNPYoShki842AbCMEkNAAxWoAWTI6QKDHOHRGyq2DAKQ/jHSFF39yQi9WbPxRj8iCa8k/RBrwGEVw2T2TWuKm5T34ixKAD/EhmBJkrHp6/ahqpx4fLDybz1+3rzk+ddySC/Ncb4E06Y0I74mXI/wigXywTOqnlqscnLX3/+BgEb5vvtmAMyRCwCZy3ZQlELn5WC87jCxu4hAJGaFt4g5U3/pW2GARRWxuSIfMpIa09Kxlys0nTDD4t0rcxJSpdLqk4i9wyU2rBrxYSSFMUxBC2JS45ubFM6i4FsRe2RleYvPyriAIQtA4CUORNFxO3LYu/akhObqQhKLc05mgYpSALTBNM4VgHWGBWYEbbx4EcLpVxUGH5hsp4TLQlVxgjr8AYxEEGgtbkJac6OwRgAamG8ZagIkPGjCI305IgV6jascTVMOQVaf28o4ecVPs07xMh1t4TktJcGnrQIo6/wYsGDdm3wjTyerF5lI/07B5KO+VVRUcQCoyR/5wAFlbuSQCF7b0jKEbuAn56Ozo6ykMIimNGBGn71V5A5N5HvZCfK1vy8grDT1gRYPLCMJbD9fkNAhPgtx3xkrOMEz3Hi0ZcJPwy3hYrGQ1qhDBMGYnbf7UlqMGPCUNj5D3p+rTNRIOVv0pR7MEXAOMXPBwZ8hCPc96t3HlciNtvOwLCpwMiWF6WMATtN8oKkxvl6dyHCSZzHZmrRpILnkLA+L0MMMG0Tbvfs6yePRiZZ8OBPTw+u5NaR+I33xr0TKtnnY6sY/mWdVfEXxp+85JpjcyT4WAwtE7vqvxezoD/+cRbnJig3M7SsNb5l1XX4dauHuaRt8sNcml7Gu96AQ35XTPhp5NKOkrRQvw9OG8eVjySxcJ3Nm+eAcYPzGuN1SlHcG7nLCw24hCkTpENeDujGSzbEkruocfWWleZqNE8QxNUu+/K/vI81WzzUepl/J4gpI/Vk+JyW43UkkmDUlKpbjHPKatc7dc6chxwcaOJJDAup9MgYuTBOIVSL+TXVuECHCS41z8y6+Lk5Yc/O1cw5feXziWMIQW4c5u5vHPnqgB0pmWPNPG/lnLe1eXtVQV6fHWVo0iNhu26IumdjC7x/d1fx4u70dt5V2gXQEhmYm+Z8PhYuR2lDoNRgpuq6Ay65fnHEdcxMh7zm8J/GaINLzGSIE98gn/+5f9NUYpchBGTbknkfJeiQ+m/ml/LlirEyuDy4RhkmDnFDU2AIpCyQoBMII3Q8rPn3YY8Iz43QDEDjSaRDOoDpqgI3NVzjEtfPEhJIEqcYo0yMoFxtVQqDzkyryF+YJ7LEUh3989tyx6cnZ1+IwvPbvDv2Ls8X4Avn6ZePFncjN5/vb7/OLi58F7W4+UzXyUZkyt1VH2Mrbr2hk4HifsgcR8k7oPE/Z0k7g1ZaE3tft2pUui6zN1JcCaS0krtLjemnQ6YmxLp7rq3gqhDAldh96GGq+zsURhXmdOhkau4GuVyFX4/yrnKkjYRXQXXr6errGiW1pVh1F5lV2G1C+6bjOjU3jfZ0CbDb5yETkVeZUS7OK8yolWn3zALrZK9OotrVu+VE9Et5D9iRI+mr3aVbnl/0/rQrPRvmsw+RP9H9sA96P+bIlprKWCD+/ZRFVCZ0lQgUKH3VitQGdNWNtgcYroqCCoL+osJyo+9t7qCytp3KjGoN0+t1QaVCf2FB2VYb6lBWD3zrGfaI7s/7B8PbVNdg7B75qmsVJjDgTXsq2sQ/Z7F3zsRhYr+YGjZz69BKCawQzniEcqzKxOPjeh5RYoNl/ZavaLU7suKRd9WVyxMVcXCfFrFolFy2KFkUa94/DAVC1NdsYiKr1QJy9fvR1VZYq0iwZ88oxhRYTfWIRZPr0OUjd+nDGE2yxDmj1mGEA94DDESiQDlg2BIjj5/WJNGD0r/Qek/KP0HpX+b0h9DNuM5sbH/1EWE5S7y8D9OXnnwojMAAA=="
+  }
+}

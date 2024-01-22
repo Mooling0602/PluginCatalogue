@@ -1,0 +1,61 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"8fa5668c53576b444bf91e41417aa4f912a3d0be2f38661b9b5ac8931212e0cb\"",
+      "data": "H4sIADFErmUC/+1YXW/bNhT9K4Wea4uSqA8KGIoCDdahSIq1WbClGQSKomR2sqRJlLPEyH/fJSU5stt4i2O/bHqh7at7z6EuqSMef1kbbZ0b4StjIWXVhKZJKzHPhFy08ZyVS7PmVdmYP77/PPuYpoIJmptvW1nOzv7irJUcruecNrwxLYv4rk2wZbx+ZdCm4bKJjg1tdriKoa3ykia7DF20OQrL+k1Bl/x1TmOePyjKhVzmu4Qjon9BIWlmrqy5bpFIAGfDqXrWykVZQ3Bt5GUmCkUzxtwUBdhyiB/48LsoEx7poHH+7mfv6teLnH3N0PnluXtxnzl6KVZU0vqbpdDRoVFtw2tWFpIXUt9Kaw4cb1Y/YIWS1T1OR6ZXYO/iKsjttj+zhSo9LfO8vAWg6Llk5qb0EUcU2aE4ULo2S7ng0EjI0dshE408YGK6bK0/oJkaqYHG1jx5PlZfCFO7LWBWa73ZO8g2blgtKinK4oBJbpUrvLLOaCHu6YF4UK5h9MP4/HJdpur5CrboAQBd3dqsarGi7O6hmwvjYgVtPxR0B0BhyruKK5BfIFsvg5A8oslSP80pzRv+sP3UfjqL/rh99/HDB3IVNPj9T+ir1Dg0i5T6qJRBMGCtMy4jmMxSSNEs1LUlBWSF2OdSJTu8k53ZUJjUNJUDP/yuat4r0ijIak4l3AtVmYaNbGeGgpmDLi0cWiREwbWCqto4B+qdPDJD+BKhEJPQQdeP+g8ZX472fukgTcvG2CYWHmnoENnp7NutztI/L67GnRqT6E7N0XzJEr1qWvIhqWjzfPOq4ZM0T9I8SfN/XJr7Ry0asmlV5YLp3polk1zOGglKuez3htRJvUAkHey9itmIIKK0F5ZfH1RZ2RZKMh3/CbHtRNQObTdE7nV3xE32Zvk6K67LW7ilaMP0ohPqgKKPqeaTIvnwe/dCimmev/CU36NszsX3ojoCao+yQY3L5E7B3bQ45fymdQlK4DsPPDUipEYSQzz1LRgxU1dTP71p4XwewOgFGOIMQYS4CoEEJDBgyxzRQAWuZwPPKQxUD31iA7XNcjoDhUYGquecDNT0lp7e0v97A3X2CVT5WwOFDjVQ6IUGysaXlhNiJ3T9PQZqyHP9EJ3eQDl+4IFfGhmoPrLXQP12QcU+A4UmAzVJ8yTNk4E6loEKCPqegbKsf/i3CnmDiH7PQI2z7BMbKGQ+KZKnMVDoJAYKjQ0U5YMZ8mObPZonm/YtuGnTFOkL3IGkAIGf8nxE4DuK9cjsxxzlwoKU+YPPCtIERs+zwWd5jFpjtzUQd7VdPuZYuTYbK5w4RsrBEV/5Oz8ZRh+IYb8kS+X7MAfH5yBkwxL8DTFxAHL9GgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "124429141": {
+      "schema_version": 4,
+      "id": "auto_execute",
+      "name": "Auto-Execute",
+      "version": "1.1.0",
+      "link": "https://github.com/GHS-Official/Auto-Execute",
+      "authors": [
+        "GHS-Official"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "An MCDR plugin that stores various instructions for multimodal execution based on scripts",
+        "zh_cn": "一个以脚本为单位存储各类指令多模式执行的MCDR插件"
+      }
+    },
+    "123786914": {
+      "schema_version": 4,
+      "id": "auto_execute",
+      "name": "Auto-Execute",
+      "version": "1.0.0",
+      "link": "https://github.com/GHS-Official/Auto-Execute",
+      "authors": [
+        "GHS-Official"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "An MCDR plugin that stores various instructions for multimodal execution based on scripts",
+        "zh_cn": "一个以脚本为单位存储各类指令多模式执行的MCDR插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"fdbabde5dcf23ee6025175333f47348e68d85f17f93d6354436c2431657bba72\"",
+    "data": "H4sIAPm2n2UC/62YbXOjNhCA/4rHXxsbjInfZm6unaaTztwll15z106aDiNAgGKBqCTsSxj/967Ei4Fr82L4YsOifbQsuyut8jHxx5vRYmWdL9e2bZ2NxgnzsaOl48/ONrz49OHD+usqHKtHKMZK/lMm2eSXb9jLJFbyIKPUqR5e/vr75FMQEI8ganRHppzskFTjAkQFBgnbJ5jDfT6mLCRJl6CUtDErezZfL1fLtoVXF78tvv55Tb2H0Ly6vTq/fgrnSgXBLIg7GadqVCRlKjaGUUjFNCQyytxMYO6xROJETj0WG5lRzfF+985WlJCXnGIyJeoSU1LSCgQghdG1P5Ix7ZrSUOoODxilbA8g562TGbXqkUOS8FQOqOYGkxEGR8KYg3YJEfIEw7Rarv/AmZokwLEc+29nlYpgmgqdQ25wnLICmbnC4ySVhCUnGNlSVzzGQ5SQJ3QiD9Q1Rtl3grpWU/p4ByF6AqDQyw2ddN7jobDFw2QHbj8V2gEopnxMdeZ/gdH6MxCJHeTHOpt1nh/elgXflQ0f1x9Gqd9nNjZN9Wsh+A3c4D5b2HO4Pp/PFnBtLdf32XrmKbm1WN5nq5XtwfXcXCotbN9ny8XKvvr54rOS+paSBosia/i2UZ6e94/+RM+brngvufkFjKEZCrbFj31ZCpGr3yoPPch15DKOJON94S1W3rrVc0mM4r5zaIYuq4z19qxm6DVGiAy/LileYmqUqLMvyWK3LJ6D4I95h4QgYYJxX2LNyY26zrscJV7UG11h8vKqiAIU9g4CVJRWlzK3LwuGGpqTGyJC5SonnQGsVGSFaYM5DoYAK8wRLHn/ONDmch0HFRbWWgkx0ZdcYYy8AlOUhBkKe5NrTrWlCNET5gPYW4KKCplITtxskAJ5RDV2LO4AJh9J3a3QMORi9dXuiGMi+3tCU9qpMQxaxfF3eCUYoPpWmFZdLxaP8tEwq8d/zlN2K0MEocIY+Q8pklHlnhRx3N87imLkLoJN33Q6zSOMim1GjHn/bC8geu3jXgTb0J68vMLADitGUvcSgTbXh+aCMuT3tbjm1HEyzPaiFRcp9N99sZrRosaEYiFZ0v+r1aAWP2GSwPBXdVcvTdFi5e8FSTx8hig9g3CUMB7iHLrZcuVxMe2/7CgIvA6KcdlXUYz6L5QVJjfK3bmPU8oeh6hcDZJOeI6RhDYOScW0TGs+MVcTy76dzTfWamNad/q4I/X/d5Rtb8zZXRF/IuoMWk9M+9a0NpZdoVR9L98ALl/Z/KkX1MuZiBrKPx5VNy+qehQi75TGs557l5zat0YsxinsTkA3gfzSvfGTujtftrcrHssS5T0TxHskYcvcEVb7HGXFzaOMiqU4QsIp6gHIJc9wKUs5e8Ce7EiPtagl3pMt6ajrDdWxCdbKRHgZNArqaOT4pOhum4bGhHNWnbyVL11WWb+hCDjk0paIpTgp36b96sTDicD6jBD6Vh0DKZ3Mp2bzTPLy+svoEieYIzq6yVxQGn0sFEe7cqhI/W/lUd7lzccK8HxWlZMLozll8/zRW9xe0oe7P86f7m6378bqpAOpwzO1pGyh5hw9S4QjcZzS9vnnHrvltsdRXRgLAmgQ/skIb/lGspR4yvF//Q13OyKISyiR2hmpftv6rKH0WsObnbgqb30coIxKp2jMFChGREdVinlM6k+dj1tHOWfFOIlaIlUBmuZyUsTq8TmlpScO+hwgTp0iMSXb4qQ6XU2w3MM7tD5/c4tcyWeHfwEFEYwQuRYAAA=="
+  }
+}

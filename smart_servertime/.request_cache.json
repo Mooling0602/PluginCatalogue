@@ -1,0 +1,186 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"ca1f961e535743258c1210ac19f18e6b4894c029f078586e2fbb518a14dac2ad\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "85909395": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.3.0",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.3.0",
+        "delayexe": ">=1.3.0",
+        "loginproxy": ">=0.4.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "85492969": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.2.4",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.2.0",
+        "delayexe": ">=1.2.1",
+        "loginproxy": ">=0.3.4"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "85336332": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.2.3",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.2.0",
+        "delayexe": ">=1.2.1",
+        "loginproxy": ">=0.3.4"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "85335720": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.2.2",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.2.0",
+        "delayexe": ">=1.2.1",
+        "loginproxy": ">=0.3.4"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "85333294": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.2.1",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.2.0",
+        "delayexe": ">=1.2.1",
+        "loginproxy": ">=0.3.3"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "81967658": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.2.0",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.2.0",
+        "delayexe": ">=1.2.1",
+        "loginproxy": ">=0.3.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "78210290": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.1.0",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.0.1",
+        "delayexe": ">=1.2.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    },
+    "65114731": {
+      "schema_version": 4,
+      "id": "smart_servertime",
+      "name": "SmartServerTime",
+      "version": "1.0.0",
+      "link": "https://github.com/kmcsr/smart_servertime_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "delayexe": ">=1.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft Auto Start/Stop Plugin",
+        "zh_cn": "一个Minecraft自动停起服务器插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"5a320a3bd34406b513e210811fa26c7179b1983270a538db856fafe55cb38768\"",
+    "data": "H4sIAEk9p2UC/+2Y3W/bNhDA/xXBr6sjxXGSxkDRdQuWPfQLRYYBHgaBks4Sa4rkSMpeIvh/35HUh+WtTVzrYQ99aWOK9+PpdHe8u3pCs8kimN9E8+uXN1H0IphwkUHsVief4nV+++HX+232/s3EPiIl2HVdEmViDWoDytAS4jLNlN2wqhiL213rMtUq/OJeqeiGGLtzRZgGXBFbDgp/1xMmcso7ht3tFLq5uJ7Pr65mQy0/OC1/Wi6rX3K7lSCWqLhSzD4tjJF6EYZ+VZ/l1BRVUqFCqeAGuDlLRRlWYct+vXk1t5RcNRx/iF06JEra0DwCkTrsFC5MyQ512Nvd7VsJxsQWReNn48NOpgdQnh8NQJk6FKYANBY+3LnXptoco4rbX7v/0FIOodFqCrIjII0EKmM9YFeHCqTwrCrRqaLSUMGPUWsgZ0FC5YTTR3IsCOWcvNXoGDm33wrCBn3sGEkvUIcuPtKHnT89BbpBmx5NO5C0MPMgXXx+2DOJszU1EJOsdJHnYnL3TD/+cpBn0H0GC3gTvPv59lMgWYXxHaCewUqogFRGBNYHDHqCkIHneN9W670E8fXXdiZ/SiFLfMp+T4JCR7G4NTycTrOQ2v7bRlCK4UkSoYgR6nT8gFYPfrrTDJDy9FMcxSU+IUawsKO4xK91Bc/z+6epDqa7EONVmTR5b6QD+igjWtOcA5zO7Eh12KXpRBGeFiPAW1Dd/OU9guQjOATxmTNhIjmdhptDR6pDXZDmqjLxKJpatgUN0QpW46AtqEcbNYZPOJWV84kWjAnUoH+czm5BYd2iGeF5RfIR2B2pLRRy8ghqFJ0blM+f3CiaVCOlzx62V5Iko6jdsw6rnbHYsr3eUaqkZgx7OM4wWMaCW7/+1wF2YZTs3IIGmd9fMM2jsW6Y/zypaTjGcUkLCusfJDFFayRJFIxhI8sJ64RgAXh2dlYXQHxZUoIaIwd4jLsjVVpgcXoysW5BWJeVxLgGYuVUzrCjYIJkp2vdkTqfGascGfiIxA76dLCjDLglZYDFNR/j+3WowQlcGLqi6bM6rKcPGdDq15ryFF4Qxl6gcxqaUvR7bF+b2ykBNsbVZDH4SqSEpuliQMa4UFtQHTb1fQaSiYdxctoey6UBBcRgu0eMpc6i2WwaXU6jm/vZxWJ+tbi8WrpJhsyGu+bT6Hx6fn0fzRazy0V0s/S+qIsh6vx8Oru8j14uovNFdL1ss3/zDvjns5tD+5LuytPFnviPvfDiGcIpQy/8tua0O3/Dv727LUQJEquZdkCk6SO4adqwuElFxa0N7fKWGCy3DxbbqshyPj6Ywl/YBdGxzxC4blQFzZpU4jOk5mC1z0+D5S1d0wNxV371TbUTpjqtsM2ww5L+ie+VW0Ujl0WUEu1ojWOS6ZN4tieIOJKwwZKQwJu36Yjn9tVpClyDm/phB+z8QLLpxVm0P3C8e/9bcAccFGHBxypBoeCtFww2zVYts7+bWd3dx7ct4OvR1Ryuw/0j+8Hiu9v06v6OfV7+fvm4vF+/mth5CLGTM3vRrDH/9JalOjZQSjacaG4haUqj2PZwYrXCtuKviqqBbYyQNLWG/2NiPWvqxyMua+NPwLNy3O/MzyFVZOU91/nj1JWn2NL7gYlz1XZt8ieubKimCWXUONtKZ7xuENJ81r2P03yW1k0bB81gRSpmYt8jWlBJtPFHSlAl7XynngwmSFZpQrkhgyWbWPbfX1Hv/P1zxhrT7tyAopSxj3Uj1sDbcEOXNaK08SBtYDrl693BsO/7PPn7PPn7PPn/M0/mYLaYegbXyn5L3V0Ou38Anw9h4pwaAAA="
+  }
+}

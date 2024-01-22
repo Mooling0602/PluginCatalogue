@@ -1,0 +1,173 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"d0c42386d3ab8ff7f67ca77be012f16441864f0297338f42a95ef49bf16080cf\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "109149534": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.4",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.3"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "97207921": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.3",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "~2.3.0",
+        "kpi": "~1.4.2"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "97204001": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.2",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "97203975": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.1",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "97156862": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.0",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "86177857": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.2.1",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.3.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "86162839": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.2.0",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.3.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "86147287": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.1.0",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": ">=1.3.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"52708ab27a3ff705b05b60834d964b6ba902fd16924ff11106aa4ec98185f71d\"",
+    "data": "H4sIAPq2n2UC/+2YbW/bNhCA/4rhr0ssv8R5MVB0G4oFA7olGDIMcFEIlERLrClSIym7ieD/vjuKenPbNC6/7EOAIIlI3sPj8e7IYzVmyXg1Wl7N5tfX14vl2WgsZEJD2zr+K9ym7+5+T6fml/0Yu0hOsd0UOREkpSrM40Rhz6bkPGy6t3msVfDloEKxHTE4ZEO4ptAi94Iq+K7GXKZMtMI42qpws7i6uLi8nA/1urN6/bpel7+lOJQAlqiwVBx7M2MKvQqCulVPUmayMio1VbEUhgoziWUelEHDfrt7c4GUVDlOPQk2HRML5mg1ApA6aBXOTM6PdeiNbsdtJOdyD6Lhi/FBK9MBmEhPBoBMFUiTwaZg58Eum2lziip2fGX/gKUsQoPVFE1OgDgJUAY94FAFihayZpWRjhUrDJPiFLUGcgiSKiWCPZFTQSBn5VGjU+TseBSkO/CxUyRrgSqw8RE/HurZY8p2YNOTaUeSCDOPhQ3Mu55JrK2ZoSFJcht5NiYPL/Tjr0R3Qlv7o+RDMYLRMCjRozZLSLXtRf/za7L2/OZsiPqeVb5NCKw4crb00QOD0hX+biIhhjAjkVTESOXBHWCqwaedxlCSe+CtuE1ZUvpY0YrbXK11SV/mqs/gLEW34SDKPHI5ypfchQLRmqWCUg9Yi6iCNolGiog486E2hMr9V+8zSX22mdSZLOIy8sDAqMAiqkBnxJ0ZJvTTDaFIGDIV3XgykdAxjfLaaauksjvdEOHgMrDrHtCGEFQNkxORljDAA9oimuM4JU9U+WnpGHVaE0axqPTNah2ld9RHfop2kOPrgze0aA5KPMmY8Vq6BQy93ZuK/vkFGRv8smVDGKTgOsW7Lu8c/9Up3PXc08OQEFQ/FcRkjT0KoqiXORAQVBGBC9JkMqkySurjPqfKK2xreXsuqTiDW9uPo6qGAFebnBh7pd5YJRO4Y3NJEg89W0TrCd7H/GDnCygfPYhWfADMGafaSOG1OS1jgBbSsA2LX1RXPEMfYKq3momYnhHOz8DXDIsZ+C9Ua+58iCj3OhxQHhYB9bkrLjglXodYQ6gCd/FNaMHlo2fi6UFs5CpKDBQyxCBuPp3Pz2ez8/nVw+x6tVys5pdrW6MXyXDU4nx6fT5dPkyXq4sZ/KxrD9PZ0aAbHDRbrBbL1fxm3SRlpzz8+/2yB5dlDx2d9eR+7qRWz0nFHHzrxEKrnXEnfqBEy2ROC2gBMQEhYyvAJ/y6mA6vDbEsBVoK34P2xMC99KixuW+gAvePJquPyYzosI5uaDeqpK6tUPITjc1Ra5dUBs17tmVH4vZi09WNVpjpuISLOBb7XU9dFTaKTm0iUEo2T0Nu0S5TJj1BwJGID5pkQYVbTUtc4NJZTIWm9tUKKj+76QU/X0ym/Sey2z//Ht1SQRXho/syAqHR+1pwtHNDdZF8dm9Nt/fvG8DzweMm10F/yu5h7I938eXDLf+0/mf5tH7YvhljPU/w5QePhS0klM6yTIeG5gUfvsjtaeTuJSFWOXKzgUv5vyVTA9sYWbAYDf/hI3ztmGYR48xYYxR2tW2N7vahZ01nx8avnEcldENKbsK6+kFQTrSh9cMhVTlrN7saD54scJMJE4YMmjDe+worVntr18+5s8XBFtR5EdYBaeSWiuYBEHzMyBwdGHQwzCpfHY5el14fMF8fMF8fMP8/D5iCmj2knsE50K812/bDfxNg4C3/GAAA"
+  }
+}

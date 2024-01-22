@@ -1,0 +1,93 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"f4e557cbf99ea2edcf15aa1ef9c3a1886cbdbdacd63307569f606bc36958181d\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "58910490": {
+      "schema_version": 4,
+      "id": "region_file_updater",
+      "name": "Region file Updater",
+      "version": "1.5.2",
+      "link": "https://github.com/TISUnion/RegionFileUpdater",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugin to help you update region files in game",
+        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      }
+    },
+    "48443647": {
+      "schema_version": 4,
+      "id": "region_file_updater",
+      "name": "Region file Updater",
+      "version": "1.5.1",
+      "link": "https://github.com/TISUnion/RegionFileUpdater",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugin to help you update region files in game",
+        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      }
+    },
+    "45657180": {
+      "schema_version": 4,
+      "id": "region_file_updater",
+      "name": "Region file Updater",
+      "version": "1.5.0",
+      "link": "https://github.com/TISUnion/RegionFileUpdater",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugin to help you update region files in game",
+        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      }
+    },
+    "42572967": {
+      "schema_version": 4,
+      "id": "region_file_updater",
+      "name": "Region file Updater",
+      "version": "1.4.1",
+      "link": "https://github.com/TISUnion/RegionFileUpdater",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A MCDR plugin to help you update region files in game",
+        "zh_cn": "一个从指定位置拉取region文件至本服存档的插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"d3f6d09d4a5ddaa15ccc912a46e24427d34080a0c147e3d5283b47519bd5bf6d\"",
+    "data": "H4sIAPm2n2UC/+2YbW/bNhCA/4rgr4stvzaJgaAbltXI0Lw0S7Aiw2BQEi0xpkiNpOzagv97j9S7G9RxpC8D8iWRKd7D4+l4vLukQ7zO1BoORoPT4eR0fGJ1GPfw3Ix2ri//WN/SP6k7O9+ir/crly031w/X3262V4Ob7ZeLjp6OQqzn3mOfcPaJUPwYeUhhoV8uYkrn+YyHq78eGcyxX5waCbKCZ5i4QFRiGOFrBq+mVtKh3CesitACRsXxZDwc98/Of9B7c7s83zwNP8XoaxR4M7pynr8Mbi6v+teX/kSLI1gNiXksqJYIlIrk1LbTUdnziQpiJ5ZYuJwpzFTP5aEd2/l6H1cXY03xRcZJF9ZD+8SIZLQUAUhpV/cRqJDuq1ERqE5dcEr5GgDzYxaxC7GSQZj/FgaIJTZXAQbDwfudMQGR6kiFjEhi/oHhDEWCEQX2juNkQqCSdpVdYgsc8RQXO9IVJFIw7UjlaqKaxYWPGNmiN7BA1CC0XkeKGhEti1fgfkcKpzKJbQ6Vu9mlOriYrMDEbwHuCWue2kTmWN9WzGNMTxSeIy80J9ac5d3rvfzl2ODh4oto+d+s698v762IxhAWLMWtANPI2vDYio2MJQzEWgBFWjDF1xHI+L5YVgLMzy1gPsABxTTwkCUPcWwD0bQl3jSGaUai/+YHy4WDixwukOKiMb0GS2o/zWIKo7DxIgZiIiPnza1rIOa+kDLGr3P+g1DDksUxY3HoZNGwHX55ypCUxGcYN0YWoMQuQrcjEHOD5uyck2RPqS8gv7kroDR+OpQ7jWEw1zagxJYByu4uNW9DT43WnDpZ4EUrZM0pyUq04A1GYWG8IefCZarAMxqjc46d5GSKmB8jvzm6AOUZg4+2WLShcUZKAyZTgjhxO/GyZFXSEqcNpUvUfsLTEjrKb3QQColqwRgGUz8jLbG1P//A1wNtROOcUwv06XWSvWrpPnlxoawAacUXNcdOfomQCnILRUjgFgykMXbiIMj2er1eEmCUph8hFi0c/JRi7kPhBpCINgUmOQeSrxApUzosjMIe1BKUI6+xzgWo8JaW0o6ad0RQYTfmGkgNG+rUWXHWwqcrSLUFGFdkQdxXFVUH16jBko+SMBefIEpPwCsVcQn4O1Su2V3kYNrCRaQpsCEoLLLiimLUwuWZcxI7S989HFG+aSWMVVDm7AsMw94cKQ0d9gfn3UG/2//wMBhNh4Pp5PTJdDOMcDlrOOr2T7vD8cNgMh33p/3+U+qFMqhOGnb7MO9MTxqcTkdnT3m4z7YAj6+t//QWzQUng4r0r6Xs9LCsS8H/3lR9Fquv2Jur14CHOIKsJW8QSbLVz6MP9STG5THT9juD4TVSkE/vDebZj+bcbVSQtY+QnKdxAcaViHE2Fgn+jF21N1oGpdrwmizJnrhJs8pa2QgT6cZQRui+SPkmrYFzRScmeAjB89Yag9hSxm2vIgg45NDaEI8wy3ZTEAd668TFTGLTDITa1jhBRLujXr/agpzdPFozzLBA1LqLHRCyPqeC1iqbKiPvW9arm919zgE/P1jZ4tKuLlltNrofHmb0+envyfbpYXnR0e0OpLtl+nJZQuApLUvkXOEwovVG5xo7WR401zUaXyygdPgvJqJmG8Uj4mrD//Mv/FoRSRxCiTLGiMxui45E9h0q1szsmPtV5lEeXqCYqnlatWlQiGTej8UiJMXHTjq1jo7+yIgwhWpDOgpUFRYk9dbyPaWZLXamWRBG8/RoKr7ELD8f4GOKh9qBQQdFjPLJbq8R994Xfu8Lv/eF//99YYbVGkJW7f6oVsnFLbD7DkD8STKrGgAA"
+  }
+}

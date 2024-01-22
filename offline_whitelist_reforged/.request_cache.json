@@ -1,0 +1,41 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"c4ecc05b55d8002e7f5b05e9c056084093bccd8a37ee7d7f9f605e7d6aa1987b\"",
+      "data": "H4sIADFErmUC/+2X3WrjMBCFX6UYetdEduykTqCUlpSlC92wpbDQUoxsK7aobAlJTkhD3n1HsvPTlO4GnN7lKlgZfUeakc7YL0unkswZnTm51kKNEMKCdjOq8yruJrxAkgiu0A0tiCwXaDKdMlqSPznVhFGlH8mUy4ykEMYIVkQhzw0Hw8tweOlcnDlYKaJV9E0KqMYboUowjtN9oXpUHVNseV3iglwwHBO2Msq5Lti+7o7e4UoaZ2jmdd2ua7A0BeBG3KSy0jmXMLh0GM9oafRqnQ5ONOWleom5ft3MDbxwGPbCHjyXPCWRHXQexg+D38XQ/TW+CyZP2WIyvr+yhZphjeWnQtnRdf4qRWTCS01KbbdGS+T1/UF4PbsKDCOTDaWWsmX5Z+ENUKGPmzjv38I2zvvjA3KLhdifbmZNOWN8DuiohTzaULZIWmZHQAJlibjOCaQbwu0hyuBEtFuuJSztD+TfQhXUQpK0FbZhwILnJax1ae9PTa9ilUgq7IR2Grskg4aLgUv6jtujgWSJ9ta3IlmCQZEZnP92rBqxRELSGU4Wq3qFCaEzqNYR+Hssg9cLQQzvlmtbPHChCKeFtZEpZoqsPvrE4130Nh9Pfs64oEnwg4g3YTE4i4z/mZCtV8EZyYiOYGEF1VTl5t8CA9swP0WnEk/1WhaehSSNB+4MJpJgDTvAJtLpuT2/4w46Xv/JHY56lyM/fDYoUcXgpfkXcb478ofP2zYEES/H7nY1GXleLxz4wyDYWvd6ZC+vNx/yWlF5v5ulrwQ7dfq6RZJKE2/bz8ZkbZcjp95w6g2n3nDqDd/TG5rLHa2D4X4xmtgyIJ5oojtKg2cXzeHSNqhxprTGvpuxIPB80wTgzNg39oRXpfFuL/T+Y/tbO69EekBULPkcUhFtpI7xkr6GNW/q6CDDXr3WTTLGjB3nW6iB7XwvvFNxPHwD28HHPF1Y4169/gVuj4DWMg4AAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAO4upmUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "112863944": {
+      "schema_version": 4,
+      "id": "offline_whitelist_reforged",
+      "name": "OfflineWhitelistReforged",
+      "version": "1.0.0",
+      "link": "https://github.com/Aimerny/OfflineWhitelistReforged",
+      "authors": [
+        "Aimerny"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.6.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "A whitelist plugin in offline server",
+        "zh_cn": "离线服的白名单管理插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"331ba270906cd3aa3ed5158f5380c945113003e6f6e337859f31d09879b25837\"",
+    "data": "H4sIAPm2n2UC/62YUW/bNhCA/4rh1yWWZSeOY6DougUIMLRrFiQokGUQKOlksaZIjaScJUL++44UJUtekdktX5yI4n13PB2PvKvHNB2vRovz+eVsuTwLT0ZjLlKI7Oj4Ntqsrz7/thUl/WNsXpECzPjnLGOUw5ecamBU6VvIhFxDauZkFWNRO/EDLUDy5+AtgVLSLdFmekaYAhwRTxwkPtdjJtaU90BmvjUtnIWL2WV4thwafG8N/uUlKucfzFyCZCKjSjLzNte6VKsgaEbVZE11XsWVApkIroHrSSKKoAo6+PvtuzODWUsHarSYoX1kSR2uYSBTBT2jc12wfTN683szM8GYeELx6AgVQSe1Q1C+/g4EStWB0Dmg1/D1q10+frHjzLEStf2DPrMQhf6TkB6FcTJokImI1zqQUIqGVsUqkbTUVPDjTBtIGhQGIuH0hRyPQklLMFYdJ2kljChsMeyOk21E6sDum+T5tbEgAbpF734Hb0/W4PRzabfvPU603sZtG5G0sHvR7tLXg2P6zb2fQvctDOWxOoPp1PzOyGN1cRnH+Atx9lgtLqbpY3U+IyH+LhZLHF8szz79enWL7+bpzMhkiyb45aaXS972hP0OB1lqsP/n18NogUUZ5gaePSENqTa/7W5LcDOTWEiihfSkY4CsB49WpQZSeFJlUTZtCuHL6xZlzw+lKjhsoxyItkTVbUxeFbHLnD617LYnUYquOYAncIergy7lx5LwJPeloaXV7r8mXsjaV7iQJg/HTMSekCgRWFwdqJy4U1BH/mw2CgxtyJeQeeQb2o6vpbeIscZLGzEtHY9qjdHjSUFLC+qWzwhfV2TtS0GHa68ma/IC0p/1jtekYq4ljSufmXhH7F2GYn8L2AH3L1teFTQHv/VRUVDtzT0WNtxZXjWY+P+PFjPgL9u3tMFx0hxd7pXXs+ub6lxV5DFqDS2ofyqJzluflUSCN5cZWFDHBC+ok8mkzoE01yGU9JY6GpY9h2WS483ZD7ZuafhcEG2Lncwan2L1wwRJPdnf4bqI8noNGkRQWTHmiW5RA3hBGSgtuLcP2/EGarjQNKPJQfXhgZoGyPq9ojyBE8LYCcavpgnF/YF1uDv3YmDeDj3DwsWRAlzZyIB4O7RbWh24IiSFkolnj0mxB7TZQwLRWLgSbdCz6Wx+Ol2chud30/lqvljNZw+2U1Om+7PC2ek8vAvnq3C5Ort4aCJV5d9EXa7Op6tw8dAeJG4h+O9x5a5Zrj1MVd5j/LwjrA4lJAxj9AcK786SLf/B8j0XBZR4i0IEx+1pOwUv5ilcDq9Viai48azpLz4RjbXA3mB7HzPG3DzrvLkW5ERFTVbBcS0rcGOlFF8h0Xuju8Q2GH6iG7onbi9+ux6BFaYqqbAQMk2h3Zum6u8bWlApRdtRdIt2mTvtCSKOxGwwJErgbjUdcWqWThPgCmy/Eyt4GxglO51Ppv2W6/Xv96Nr4CAJG91UMQqNPjaCo62bqsr0H9ehvL752ALe3nhOuQr6Knf91E9XyeLumn19+HL+8nC3eTc2fR9i+oTmmNpgktp5lqpIQ1GyYS/3CWJ394pMlSmyDIucvysqB77RoqSJcfyff+HTlioaU0a1dUZpV9v1YNx36HnT+bGNKzchhYxUTEdNxWlABaE2qkqQBe0+dT0eNLZOmnmaDIZMduibK2kTq7v3jDlPvNpWSFFGzTbVYgO8bRpz0E+4hkFA9S/v3fjrv4X+SqSYFwAA"
+  }
+}

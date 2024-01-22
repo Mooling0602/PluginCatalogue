@@ -1,0 +1,34 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"7ff47d2aae03a22a9a519e296b773efbe0d5dac974f435af304338b7ccaa2cda\"",
+      "data": "H4sIADJErmUC/+2XXU/bMBSG/wrKNa2T9AOoNKFtjIlJLSqUbipCkeOYxMyJI9tp1Vb97zt20g86gUbo3biqcnLO8zrH9mv3fukUkju9IyfROlc9hHDOmjHTSRE2iUiRpLlQ6JLPWRbfJoVkv2mG+l8vbho5L2KWKcjgFCuqUPvUO2l1fN85PnKwUlSr4OBsVIKNRJFzgaN9iTKqDiOzPM9wSo85DilfGc1Ep3xfcUfpnzQ0jtHUa7pN1xBZBKy1rGlcoRMhIbZ0uIBCo/Qcu6nqnHn+WbftwnMmIhrYoNO/GHbHvwacPN11+qOrzuBpOLMzMsUay79mxEbX7SoUlURkmmbafk+B1hrn009tQ4llxSnF7Dy8OscGud/8N3fSFDwKzsUMYMHbBdGmeEuC1/VJEFkioRMKDYUsuzZipnStwdnCpf2BtlqWghZLGtWhVaUwvFkGI1va5V9Ci1ARyXLNRFZroM8AhihkjDO2wLWJALAgu0XrAGyhIdApLNpaiLJyiXLJppjMV+V4CGVTmID62D2Eoep5Tg3mDvLthDBNAxyldpc/Yq7oan8vk+5dOlaTn5eLyWjY7o/IYjC6mlsYjgPjTiZvaycw+THVAYwqZZqpxLxNMbM7aJ19c9s/2lZEEj/qtT4855JWVrUTJJJiDd+CTabju77XcE8bvjvy3F7b6/mnE4PKi5CD5gt5nW7Pb022hwNk3B/w9CmhqO2fuSee3916axXY7+y3+TX/wcPv44T44y+kNeDRxXB+PfrcAtf0d/sliyxQIqW2qziLVFB2r5mSyM6jPR8gMys43xxM9MPEP0z8w8T/UxOvNmCwzsZ5zhmxPUaCaKobSoOnptU60TapMo6oxC5MzD/pnhqThnVgb7tEFJnxVq+Mv+zLbeO3rjspb8rRq1m+zQqlmME3BRutd95z15zqsotet9HVQ3l6hZjzd/9tqDg71+wFyw9Crjg75FBEc+uiq4c/t0q7HU0NAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "42907126": {
+      "schema_version": 4,
+      "id": "run_some_commands",
+      "name": "Run Some Commands",
+      "version": "1.0.0",
+      "link": "https://github.com/FlyingShuriken/MCDR-plugins",
+      "authors": [
+        "FlyingShuriken"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {}
+    }
+  },
+  "repos_info": {
+    "etag": "\"b4e725446294fc871b8902d70fca1cd434a1c60ea65a05c4ee1aa2b90fd8e441\"",
+    "data": "H4sIAEk9p2UC/62YbW/bNhCA/0rgr0si23HSxEDRAes2bEDSl6VDkWEQKIqWGFOkRlL2HMH/fccXvdnFnNr8klgn3sPj6Xi8Yz2i6Wh+dnV3O7l5czu9PT8bcZGS2EpH9+9/Xn9gvzP8690L+vp5hfny5cNj9u/DM57dP2dvR2Y4Kogd+9P7zxclqzLKlZEvKsbi5uUvbEN59kdeSbokPNodW0q6QtqMXCCmCEjEmhMJz/WICRi1zzBq1sjru8n07mY23rX8082fXx8Yfv5yff/42/XD86e1UUEwD5JxJZkZlWtdqnkUOam6zKjOq6RSRGLBNeH6EosiqqJmjnertzNDyaTnuMmMaJdYUk9zCECqaH8FuS7YrjE9tX2FhWBMrAEWf/+EUavckeD18SSQ1JHQOQGHwqitdQ1V+ijjrGJt/4FbLUuBiyVJj6F5VTDPBNK2jiQphYNWicKSlpoKfpShA4AhCpkhTl/Q0UQAWJCx8SiAVTQEsoKgPQrhNOvIbkW82Tp7MKEr+ADHY3cQhqo3pc0JX2C8/SBUkxilhd3ldv9vv3dn7CWUlLSfyACUKMgZo1muz/oZSshlL+X8/+qsiw9Na4iH3HQQFFmKwS3J5nSagdTmb7OrMOxdlAiJtJCn4we0evBoZ9MEFafPYik2YQoRwMOWYk8QpSryuvA+TLUw1e4kXhWJT4qBJuj2EFKKZpyQ05ktqY7aHJ5IxHEeAN6Aav/LRQTKAgQEcikzYSI5nQaDI0uqI5Ujf47pOIilhm1AQ7QkizBoA+rQWoaICWuytDHRgOE81RAfp7MbUFQ3aIZ4VqEsALslNcVDhl6IDGKzR7n8ybWkSRUofXawXnWSBDG7Y+0WPqHY7oS1TikKqkP4w3KGmyUU3MT13gRGECQ7N6BB5ncHjH8V6oT55ky+YwkTkgYU1T+USOeNk0okSQgfGU5UJwjKvMvLyzonyJUlBZEhcoDD2DNS4hxKz5OJdQOCuqxA2vYSC2tyCs0FEyg93eqW1MZMqHJkECMl9OSngy1lwC0oI0oLHuL7tajBDFxouqD4VT3W4UkGtPqdohyTc8TYOQSnpphC3IOuP50SwkIcTQYDS0IF8b0VIyjEgdqA6sjX9ykpmdiEyWk9lk0DkiANzRzShjodTycX49uL6fhxfD2fTeZXsyd7FVKmw1Gzi/HkYvLmcTydT6fz2fjJxaLKv4Wa3MzHt/Orq6cm+/s1wM9Xt4BmkfbIU3lP/cdOef4KZcwgCo9rQdv5V/z4HjaHprWEaga0Oew42ym/mKfJZFjeYFFx48UpiNdIQ8G9I2zqImPHx43O3ZGdIxW7HAFyLSviZaUUzwTrHWmXoQbiNV3SHXVbgHVttVWmClfQaJgLk+6N65YbQ8c2j0gpmts5v2iffdOeIuBQwgYiURLuVzMgMooJVz0fInNxZVL5EnzfWU5VrElRsuEt5JokvviITZckFgso3P+pqBzMrUVJsVnYX3/D04oqmlBG9ca4u6wSMKG9G/BW9az1kua7+S+WkgWqmI5d22RABaL2q5VEFrR1ZT0aXJycu3EaDURmp/XNldTFQveeMe+Jre3YizJ2wa+FuXb0N5yc6DWsYeDefrnayCfb/wCPgzFTVRYAAA=="
+  }
+}

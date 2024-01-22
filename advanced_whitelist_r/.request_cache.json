@@ -1,0 +1,73 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"f75f42ec49569d47699204c6b616642e46de9c0d9ec5cd77a86f1a52ca38cfd2\"",
+      "data": "H4sIADFErmUC/+2aa0/jOBSG/8qoX3cgtnOPtBrNqgziAzCDmMsyXVVO4rRh0iRKnDJQ8d/32GnSC4XSNlmtUD5gUuf4Pa6dntdP4eesV2RRz3nXG3Oe5o6i0DQ8HoV8XLjHXjJRMpYmuXJy/jUOk1j56E9p7DH/+zjkLApzfgUBEaM5yxXLtFTbwHbv/bsezXPG82HT0kqpKzIUaZRQfz1D2Zs3kmX2IaYT9j6iLoseRcoxn0TrCZcSvSYFpyMFH6NjVeiFPihVScWiFXycZNA360XJKIxFnlOYQnaRXIc8YvUYYmnEIDaG13His6Hs7J33vxjfflxE3u2ZdtE/I+e3v37LvZhSTrMneyF7q5UqcpZ5ScxZzOV7KZQqx4fpn5pQGWVznTKZ3IIXd1dI5sr6/Les4Xp4kERRcgdCw12TKfXQhU4Yj/bVgaEzJeFjBgsJMfJ5GMHe7jExOWwmf8FiSqUcFjZj/u5a84EwtbsYZjWTT3spWbi5l4Uph0dyj0muDBd6STaicfhA99SD4VJGfhp3Hy6HifFsCo/oHgLluJmSZuGUeveP5Vw8Fk5h2fcVXRMQmvw+ZULkK0TLbYAaMKT+RH6aAxrl7HH1U3t1Mvx11788jf/6llrap8+fLvtSh46GovyIkLpgwGaPGB/CbCYhD/OxuDmhOS9TPQn3MxrwKi28TjM2L0RLnV7GKIe3QEVkjyCiHiF8hLRrRBwdO6p+I6TSwoVKNt4YpzoIOQjfLOo+RPxszldKTcVGGsGGvaicVcfaen5cWc+/zYm9vDhPEx1N5YIdTzxfLqOs9xAaF1FU+wzrynJXlruy/MbL8vyjNqyiaZpGoSfXVkk8zvhRzqFcTubPBpdB8wLhl7IPok+1sC7qL+y+PKR6SRGLskl0e1vFtR0V3ZTnW//FKCKj3Cy5g7c0rFMddjytZMozqrKlWD7+U3qSS6Po0KP+XGZxOH4I0yZ05zILXTfx74XgoNA9FAwKLWAMWmYZokVItu6gsJEKrRXYGK51bMO1y4J3zucePCnNmZtuWhq2SldrGJoq6XahaS1Lm9BEaqetkj4DTeTHEfjmmNbxJjE0XcXoOWf27i9uv+Dzh5O7/Z25ynGgMy/PfcvaLYfu5sjVyEPceE3jMCeuxQ504VqnSQdeiB7uvrXW7s5bD93HdevBTTnu0myahqC+l95GmyCI7AZBZH8IIsJsiXaNNYfoDibPQVAdpzuq5WCrbQjSNYtg0zAWlXDe8RIE9a/OLk9fA0FkNwjqymxXZrsy+38vs41BjW6RjVAjj2HPV9CyMhqboWYtymwdaoiypfi1BTWkJagha1Cjej60NoLWoIQCtviBOihMw9JK2HGLUeMIg3WEcTsII6VbR5jlLG0iDF5GGJm0Q5jOWztvfXsIEw5vNyEM3g1hcAMIgxxCHIK2IgySqPNfIAzCmrWCMLLjZYTpX12+BmFwhzBdme3KbIcwzyCMsQlhTPPFAoodzXA0cwvBlFF26wSDlS21ry2CwS0RDF4lGNN2XWiZGwhqMQXNaIJmdFXXgWl01YZ+nVhFEfriCkOcQTD6Q4TYQdX1dKjJfFX2WELGBRk9EH8BgksGd1UXDbJBLH/EfQR3LJu5Cd8kphORykKB3zBMGUQnxLDagKm5dMswtZqlTZhCiyPEPGkHU53Ldy7/5mDqe+Tnm2AK7QZT6ECYQvgaGw4yHay+CFNlnPg+U1uDqZacGbXkzGjNmV3iVf8kYbgEgwtiG2zUUH0i+gNjUAQB8oQ7enbdBiqtWuGXpXvLSGthuJZvmnAHSBD0LFWqGtKWqdBwXaPyX8M09BXT3mT18tvOhUfDtR8QcQTwVg1f/uMHnJj+BY4eVuUHLwAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "90421693": {
+      "schema_version": 4,
+      "id": "advanced_whitelist_r",
+      "name": "AdvancedWhitelistR",
+      "version": "1.0.3",
+      "link": "https://github.com/EMUnion/AdvancedWhitelistR",
+      "authors": [
+        "noionion",
+        "GamerNoTItle"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "For outline-model Whitelist"
+      }
+    },
+    "54821766": {
+      "schema_version": 4,
+      "id": "advanced_whitelist_r",
+      "name": "AdvancedWhitelistR",
+      "version": "1.0.2",
+      "link": "https://github.com/EMUnion/AdvancedWhitelistR",
+      "authors": [
+        "noionion"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "For outline-model Whitelist"
+      }
+    },
+    "54801486": {
+      "schema_version": 4,
+      "id": "advanced_whitelist_r",
+      "name": "AdvancedWhitelistR",
+      "version": "1.0.1",
+      "link": "https://github.com/2X-ercha/AdvancedWhitelistR",
+      "authors": [
+        "noionion"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "For outline-model Whitelist"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"a28dc69df89a5fc731ccec4fdb65ca873c8c387043159ddec4f4c09f17135546\"",
+    "data": "H4sIAPm2n2UC/+2Y3W/bNhDA/5XAr0ssfyc2MHTrOuypSBd0G5BlECiJkjhTpEZS9hzB//vuqG+3m+NID3sIUKQWyfvxeLw78piPWDDaXC0W8+VqvbxdXl+NhAyoa1tHD+42+nD/k3j/a7ofYRdJKLZ/H+yI8GnwW8wM5UybB+wNM87dasiPH38RTArn60NTxXbE4MCQcE2hRe4FVfCdj7iMmGghcLxVZ303u11O53ddHe+tju+D7NPPEQ4lACbKzRTH3tiYVG8cp2jV44iZOPMyTZUvhaHCjH2ZOJlTsd/tvl0gJVIlp5gEm06JKStpBQKQ2mmpHJuEn2rRGt8aGUrO5R7E3QumcGqpBsFE9AoESOWONDEFo0H30S4fNuoydaxEbv8Dm1mIBvspGlyEKWVAIfSHY+4omsqClnnaVyw1MOwy1TqSiJIqIoI9k8tRIGkJqNVlklYCRekOvO4y2UIkd2zU+IdjoYFP2Q6s+wreiSzizCG1YXvfMo21OkStS4LERqSN1eOLfftfYj+g9W6g/McfPjzQEAxLg6dsNQ9mT9mChqunLAyn5AvC1VN2u7pbXKHU1Wz8N3yvJxOQWU8XIH87W9wV8aC2reTy38axW3NGaQSeM/I5jmMhSNvSQ28YMnL8W4WbD9FMPKmIkao3vQPLO592MkNJ0nsSC7G5Usr+1rUQe1hondGXxcVZqGXpOgJFlnhlihyG30Qg0ZpFgtLeyBqUO3U+9xSMivuzK05e/ip8gUT9XYEUidXj0usNg7GOBeWOjkl5oBl3CD0RjZwuWdFwEDJyGrJRA3iDVVhZb6i4cMYa8Ize6Irj5BWZExFlJOqPrkHVPSIiz1QNoXFJKhKmMIp52TD5smG1biveEEo3qNN70EDotDrtQShhZgBjWEw3RgZioz9/wceGIbJxxekk+uI4KbsGOk++OlFZkQzii8hx8m9SYuLKQilRdAADIcbJPQI3wfF4nMeUFNePhKoBAr+g2PNQ+TFcUvsC84oDl6+EGFtRhFbhAEoMLknQW+caVHvLQNeOjnekUF335lpIB5swTrWRYoCtq0mdCYQ0LGT+i4qts3N0YPk7zaD/mnB+DV5pmM/A36GcLc8ij/IBDiKkwIJIQsu6i1MywOFZcXKnvL4HNOXyMEgaa6Fs7CtKDFR7xCB0NpnNbiZT+Pd5utwslpvl6tE+b6TB6ajp5GZy+3k23yzmm9nssfBCHbcHzW8mi5vJGlHT1WZy91il+3IJ8POltSEu0R5wOm5Jf9fIbs7L+hz871WVaT37Try6so1lQlO4tVQvRpo94+/punuJ8WUm0H4TaN4TA/fpk8bq9oOcTwcTlw9KRLtFXoB2ozJatqVK/kl9c9LaJKVO855t2Ym4vWY1tbIVZtrPoIzA95Kmp6iBK0WnNnkoJau3NgG5pcnbQUsQcMTjnSaZUlGupiYucOnMp0LTFg6fqDB5byGwG82Zdg1NUt59RNxTr7xnuFgDyTCEq/lfGVOduY1MmY8L+32U+IG6SXmGL464Hvgs3yJGf8D3jmnmMc7MAbcizTxQr34NKG3QWkm5hmpPy90MaEgybtyiYkJQQrShyoYTVQmrDZ2POi8tqBBhwpBOE0ZgezGKFZ7S9HNe2uloC/UkdYuwMHJLReWbsL9GJug8oINhVvn8ePI49vYe+/Ye+/Ye+/9/jxXU7CEldXJzuwKt2mfHfwBYV+Uy8BkAAA=="
+  }
+}

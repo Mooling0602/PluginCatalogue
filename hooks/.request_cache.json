@@ -1,0 +1,146 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"563f6f49ca2eb3ca03306cb5ca692a139ffe0a0b64ed5c41288dc4cbe4020396\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "119153663": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "2.1.1",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.9.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "116083828": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "2.1.0",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.9.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "112008671": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "2.0.2",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.9.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "111509508": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "2.0.1",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.8.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "111340181": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "2.0.0",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.8.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "110074756": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "1.1.0",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.8.1"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+      }
+    },
+    "109017009": {
+      "schema_version": 4,
+      "id": "hooks",
+      "name": "hooks",
+      "version": "1.0.0",
+      "link": "https://github.com/OptiJava/hooks",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.7.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Automatically run commands when server events occurred."
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"31e8093f87d1c7a7943809a5c4b347922a55f04116c029fad58f3edee604e4d8\"",
+    "data": "H4sIAPm2n2UC/6VYbW/bNhD+K4a/LrFsx00yA0O3ocOwYkW2IUWBDINASbTFmCJVkrJrC/7vOx6pN9doYwYIYunI59HxeHe8Yz1m2Xg5up3f3d/PZtPZ1WgsZEZjlI7/iTfrdw/vP+2nz3+P7RApqJXnUm60FawqzuNG+lAa9p5sSdQOl4ptibGDK8I1BYncCargvR5zuWaiD7MA/Oxsejtb3N/d3Q2V+YjK/MofDp9RGYAYouJKcVTJmFIvo8hJ9WTNTF4llaYqlcJQYSapLKIqasnfbn9aWJq18kTuK1Z0SlkyT+c4gFNHfa1zU/BTPXqA/tSV5FzugCC+5CNRC+s4mFiHcACsjqTJKVgOxo9oAqbNhQohpMYfMByyaDCiotllPB4EKlnHONaRoqV0dFWiU8VgohQXKjeAWi6p1kSwAwngAihSWL0uhCLEYukW/O9CsMPUEYZQuj86HVLKtmDiEMITsOUz+xID9yPMRJMzQ2OSFRiXGLHHl3t3F/UZba1vMb+MijRTo5JXEPAjkxMzKpXcMpg2QsxoJdVI55TzERAWRGQRqEBTRVamk1iO5qXcm1yK5nXigkJtennm26bBnTmjuSX5nlnPYSMEWoYN3QcRWFxt/zfRlEK0kkQqYqQKYhwQ1INX/IChpAgiRiCmPfsawtDam2ld0Zd581kixOs2VkRVJD6lhXN24UG0ZmtBaRBNC66jNs8miog0D+NrsLV/cntI1mFbSFxSS7hMgghgPEJwHemc+EPExKH6WDqLHbIpugpms9iOzajAXUTFFO5iwwUnloEdDaJrsFHdsHEi1hVZh9G14Ob4XZMDVaGaebRLPsIollThuafD987yJFS5Dn5aGbyCzh1QuNqiYCZwoQgd+u0r+Ky/fcVpBaHZrMEOkqNLu37oFXn3LLkvt4P9xmKj+oeSmLxZfUkUDVy8hUZ1QqCUmUwmdU6JO14LqgKDziHxfFBpDhVVCEndYKFwKIjBuneFimVQCHNJsiDdWnC7y684Vge7WkKjF8SFwAFVwTjVRopA87foAamQhq1Y+qIK/yzvgKB+q5lI6RXh/Ao8yLCUgT9C6+RzdkJ5YMK2SFAcOmZf0XNKAg+TBltHvmTMaMnlPjhV9OAYd4pC657FxFii+XR+cz1dXM8Wj7P5cvpmeTN9wla5zL6adXc9nz1OF8sb+Js/Oe+B8n4waTa/nk39pMXtU5M6vdrw+K0mwy4FDwKd9xA/d/OX5+enHPzmxa1M+5WtuKj9yWVBSziVm9sEzQ72+f7H4SGdykpYeyxAvCMGarsTYXO6W56/sOFBdqJjF58gN6qiXgYt1TNNzYm0SwgD8Y5t2Akcy4iuf0Iw02kFZaxtorsR1yM1ik4xoJWSzUWMgHjvcmPWAwIdSfhAJEsq/GoGjJylVGiK90TQE1kLFG4zmrumD388jv70s6xdy+yLv8CBke/f4fgP2HTiaLtrpg/v0tvH3/nz06c3h6fH3w5j2wMTe3Vik/UGkkBnOaZjQ4uSD++4djTxNUBsewC5WkEp+7liarB2I0uWWsP+O7a9LWZG+L12fbJLlL4JxhBqPQA75fF/8LRlmiWMM4MWKqsEltW2sd6UPRN7SeNs3s0yuiIVN7FrK9DURBt3IVBSVbDWA+rx4G7AakiYMGQgsqHeX6VizoW7cc69AY/YhRZl7OLSyA0VTdAIanawioFX9KvIRj47/g+rwshjwhQAAA=="
+  }
+}

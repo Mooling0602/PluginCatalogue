@@ -1,0 +1,43 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"9fa9b62b9133895295f1826483d4c25ad908685d1815eab4de912ed31326631c\"",
+      "data": "H4sIADFErmUC/+2a72+bOByH/xWUaTqpWoLNj/BDmnbtdet2U9t1l93ttlWRQ9yElQAzpl0T9X8/2xhCsoZLA9FejBdVVWKer7HJ58uj8nnRSUnQcZXOlNI4cVUVxX5v4tNpOup50UwlOI4SdQ7mgBjqCFOKyXCEvOs0Zh8FGCU4USF0oAWB43SeKR2UJJgmwwapaobk8DQOIjReh2dHk7oFFi9CNMPPAjTCwT2vNqWzYL1WqUY1naKJeqP1YK/PUf6YQYqCfJlSOo0IO7joBNHED3mNjN1FHvWjMPk8iuhlca4BbcfWbI39HUZjPBQHO6fHp/2LmQPOjl8a54PJ3fnxm+diE24QReSHTRBH83VKE0y8KKQ4pOJy/FCFpt63X9w8NzhjQiQlKyWWv3JTOTBRVy/iqXnELuOpebzFeqI4Xj+dn3UVBUF0y9DDGuXVgrJE+uGkASSjLNSITtktwIeLG2fiJ7TedAVhIX6x9RfQhO0FweNaWMlgE74N2VwX4nuS0dNR4hE/FifUq1EmcXREJij056g+mpEEUXy7a5EEgaPwDbv/67EyxEKNiX+DvLv7bIYe9m/YbjXAX2NxPL2LMecdRVRsnk/xEI1nIkauUJDg+9WceP9yeH17fP721bvw0DZen8wmI4FBkyHPPD5kmVXsHplgOmQTm/nUT6b80xlibM78YfSYoCual2V/xwTLDCwd9AhGlF0B4iM7GtD0LrC7OhgA09UMV9c/cVScjgJWb9M40wXw07LFsBGfm+heGU2Fmm5Zug20ZVznR9bW8nBlLf99e/atvDJHWZUjUaWbrVNv5o0JHyR6CxsVpkFQtDO81gay6RbTsGzLMKAG15P/ov/3x7PA++oZZ/MLcDp4833X5E/VvEbN7F/OfKvW+fh0lztZI8xXCPWyW6JqRrWkNJnMObJ+EEvS43NXnrhLzMpTm0rVYiYbQ/QDG7c5ReUXZZiPZk8pge+JNVQjj2LaTShLt5ncdyoGyS/2OMPO+TFoOY7O85JtsHiI9aI05DGn9fWqhISaq7Pwcz5lz7/jqlE6EKNGJLpl1zQsSu36DJsD5IOsujnb7i+zxjFCQbD7s78ElJ6b535cDykBJeQoGt9x1sHBK5bCyh9TFE4wC9+DA1fZdoXYBzEimFMB4/Z6Es9umGaEyupD23aMhoVKUvcnVKsF9iJUbL1LQiULtkLVClUrVK1Q/SyhOiRfzx8QKplVWwqVHF0pVJSkm30KWgOou8BwDavSp+Q40zX26lMaYD96Ka3zI5U+9d7783WlT/GG2/pU61OtT/3iPmVbzkM+BY3NAWkPQN/VNRcaFTq1HGXtT6dYiqmbo61xnZK9pUmdkshcp548Uf6ZIvpbIo1q/IV8CQ8Ugq9Y/42Iq2Qghe1u6tGUYGV0p/yOAvxd1/S+4odby1fMwl6FIONfsX12leRbwG42JUnjOCK0JhlysqA3YYiwB3NDlCs2Y7e/SIzijm1OGwEEtt5vWhsz6h61caXAHrRRbEJZG7OCrTa22thqY6uNP0kbT7ofTz78oI1FVm2ljcXoGtqoD4DtGtwcq7UxH2eCfWojNAzbAUZJG+WRSm1891f4pkIbsy7camOrja02/tra2Ld160Ft7G8OSIP/f83su4ZZpY3FqL1po0gxdXO0NayNRW9pThsLZKP/heNUwB0rwzemUw602O7u4bVGTt3ra42lAnvRKdCzV19r5AU36FRu4kuHMnWgQ8fc1Eov4On8cH46uIa7t9K8Rs1WWp77/2lTaejj2ml+Zp2Gusao11ILWM2mWnCabKtLaP3GWrAe31qLU3dprsXJTbXX0mx2bLBVbwumzgOWIiNgS0uRo2tYisbtwwSuqW3xsqChuYaxZilNN0d5SU02R4lsuDnKV1Qy/P3lf7yCoeX0LwAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "123773802": {
+      "schema_version": 4,
+      "id": "better_backup",
+      "name": "Better Backup",
+      "version": "2.1.6",
+      "link": "https://github.com/z0z0r4/better_backup",
+      "authors": [
+        "z0z0r4",
+        "alex3236"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "mcdreforged>=2.1.2",
+        "pydal~=20230521.1",
+        "pyzstd~=0.15.9",
+        "xxhash~=3.3.0"
+      ],
+      "description": {
+        "en_us": "A plugin that supports efficient backup/rollback with file deduplication",
+        "zh_cn": "支持文件去重的高效备份/回档插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"42fee7a5a7398b28b04eb75c63754970996fc968f4509f0a9a1b0b86740b5466\"",
+    "data": "H4sIAPm2n2UC/6WYbW/bNhCA/4rhr0si2XGTzMDQDeg2BGu6dvBekGEQKIm2GFMkR1J2Y8H/fcc3yXLWJC6/tDHFe3g83h3v2I5JOZ6Prq6v3txcT6+uz0Zjxkuc2dHxb9l69e7XX376yH7Yjs0nVGMznmOtscxyVKwbYT4sG0qz8HWX7lI5S55MEpJskDZTlogqDCN8y7CE3+2Y8hVhvbCZblW4vrmezSbTyVCvu3efrv746wMtHorZh92n9G5x+9mIIOAjmTWSmlmV1kLNk8SNqosV0VWTNwrLgjONmb4oeJ00SVjj7eY7u/BKeo5bzAwdEwXxNIcApEp6zStd02MlDqb3E5ecUr4F4ez1CySdUE8gbHU6AYTahOsKzsh83dutE6VPUsYKtPY/MJdlKDCdxOUpFC8C6hiH2LeJxII7WJOrQhKhCWcnKTYQNCQuV4iRHTqZBIIWYHQ6SdAKGEm8AWc7SdRJtIkNmeJx79YvMNmAYU/HHYkamn4UNlh/h3nW0ETjDJW1jUIbn/vXevLTSC9xZ3sj+R4rNSqJWo8ahVYQ+Az0kKOyEZQUkBFGS0KxunD+LNcHCeL5PVoDf1EJg3rJSl8mJFbccNb4MQJjpFvzbwiPAoIP5VwizWUEd4BpBz/tMhqjOgJvxW0u4zzGilbcZnOlGvw6130GZymqCw/W1LnPXLHkPjKQUmTFMI6AdYg26VJrLhErqhhqILT+L3fOaBVzzMjltpzyPAIDsxKLaBNVIX+T6CxONwM1hCFT4mUk0xB6ppZRJ22VlPakAxEuMw2nHgENhKQNTIrYqoHUGQHtEOGOXqEdlnFaeoZLa0xLkjexWa2nHFz/eZyiPeS4pIiGujvO7r+uiY7augUMvT2aavzzCdkMxGXLQBikYJfi/afoHP+/S/jCPdLDDCFpvxFIV8EeAkkcZQ4DSNocQd10cXHRVhi5677GMipsnby9l2RRQRH39ag2EKC0qZG2ZfbSKllC3U05KiP07BCdJ0Rf84OTF9BhRhCt+ABYm5pTcxZ1OB1jgGZck6WpbF/RajxDH2Dat4qwAp8hSs/A1zQpCPgv9HD+fsgxjbocjDxsAlp432xQjKIusUBoE1/4llhQ/hiZeA4gNnIlhv6hzJA2uGk6vTxPb87TbxeT2XyWzifTe9u9i/J41mR6PkkXKUy5mU/Te+dhqnoyyaEmk/nk8j4kZa88/PlyN2S2ZS8dVR3Ifd9LzZ+TKij41on9V7fihn1F51bxGguoEkCMQcjYxnBnfk1mN8O6oeANM6aapDC+RRoq0+PRUHIYHT4+6srdlBVSmQtwGNeywX5MSP6AC60O2j8z3CeWwewtWZOjmcJWN0fSRBUNVOPmEaD/4lrDoOulzQZS8vBy5Hfu02XZLww0lFM70j1hCcz8djrgzOydFJgpbB+3oPszJqjdwYRnsrvbxei9n2VMK8rP4XnrdvHyo5NfQCUBe/g8VlwtfqYP93++2d0vftyNTSuPzJuPSf1rSBr9lojKNK4FHT7MbXHua4/MdDJ8uYTC+9+GyMHeNRekMHb9+x/4tSGK5IQSbTcrmhw07Ppwb+YDa3k7Bc8JPlPiJWqozlyLY82GiPUbgWVNuqNsx4PHijM3T6PBkAnpQ30lcd7Yf6fUm2Jve+ZaZC7mNF9jFl7/GNZb2MTAYQ4r0zCe7v8DFS1j0U8VAAA="
+  }
+}

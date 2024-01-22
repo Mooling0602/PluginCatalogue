@@ -1,0 +1,82 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"635cfe671a696178d2da4ca70e3278daa831839d3166083dc10427852cd7b848\"",
+      "data": "H4sIADFErmUC/+2abW/bNhDHv4rh14tFUiQlGhiKYtmQvki2BN2wtR4ESqJsrbKk6cFZY+S7j0dJju0kbp1YwIrpjR+ou/9RJ/FOP1Af1+O6SMbT0XhRVXk5tSyZx5N5XC1qfxJkS6tQeVZaF+8uERXW5Q/nN95F7KsilZW60QcTJUtVWth2uCNsTMbfjcayLFVVeifVtRpRkK/zJJPhvnwzWr4+xPpNKpfqu0T6KrmHeItqmexH24ryJf1Kzi08wRMEWnGoVTYRIVd1tcgKPbgeJ9k8TiFIo7gx5w5FzHap/p9mofLM4Pjy/Jr/9vtVEvz1h311/hZf3s1NBLmSlSweJd+MdtmpS1UEWVqptDKnUFtdjDer7ymozItWpwlm0n7wcoJkl+uvThoYRlmSZLfa2fv6ANbG6UEhTufHK2intZVVC6UTpo+ayz2Py+qoyRiHtfnS6TIapU5docJjVFoXPZ3bVM9kbe7eRqz2y6CI8yrO0qMmtuMISlkxl2l8J49W0o5GwKyoYxyNA3iqlb7ZjnJtPNZWXsQrGXy+b+IHKl7pxB4vt+cKatXnXIH7r9rOJDqulCfDpVmFkUxKdb+75m5+9D7dnv/8zs1/+eTSd1dXF9dGR849qBlgslnp+nLOVeXpeSzjKi4XcHAptTRItsabcuHdjFYbz7CQUdXNQP/PC9UWk63BoFDaL/QkWI4JIvQM4TMs3iN3arMpEh9AKq/9RMd+xo6iKUYfHiq2tvj4ZzN1XybJawp4K/FQ+O7i/LWarcSDpp+Fn0FsVnMeUf3JfDSrGXaZ/vR9MaujCMtZMUvPRjBO8ax2fd+d1QLp8dqNAkePUyec1VQpUCDU1yNEahtuSzhKbK5/Oyg046AQhTqK69JgrG+P07RPQTgTNkUn7p6dbH/Ncy9CP70TTexNM+wCDq1zaJ1D6/xWW+dPi5BfPm6d7UJ/QetsPV/WOu0zRM4we4+dKSJdS3yidTZ2HFonElOC91rnaVpBo2cJ5joCs63C1w7spfXtTlqrlffPk1m6mTRJmiyD0FwwU6K1SVonyaYtqKGaDtV0qKb/0WraLhSvs5Z5nsSByaGVBZWqzspKl7Zle90rY9Qu7LCRvYMx6jBYwqG+vuZZMMjqFEocxej56thUPc0W/EPzGBketHKNlV9kt/qUvE2olz8JdhLN46D1TGG7Pzm+tI3lpPjSaj7gC42U0nghkAERVwMHixCgDCURHCUAK27AdkGEce6CDVLgBfbc98GGRVpBMEAiGhnQwUp2WMOwY8NRpXUc7lLzWysIV7gATMit4qUaZXVl/olTQo6NbIrpySGnke0TcnYi9AU5eAtymoAD5AxteWjL3yzkzC/ekqcgB78YcvBrIYe+R2zK+NSmhyFH2/EpwlMm+oUcppuYTbcgpxk4CDnl4lo+AzkD3QxldCij/3O6oewpunHIwarYVDt2CG42VrxXuMHWfkHrg2pwD1SDt6kGtlwEDoBWsBAd1wgVurAJI4E7MAUGibgCZnEdsAFy0dQRdATk+D6Qjg3M4jDidps5TxATwbB1oyL5vHJDRpxIBtSDRUNAI7+ebzaJXKEMKaFGd1Sov+u4UEu4mTsjzmyxd1pIAVoRZH7bPuwSCXxKdCIMu87p94ca2T7RaSdCH+iEdt6t6AIO6DT0/KHnf7PoFHFf7aMTevGrFeh1r1Y07d+G/SHKOyR6Fp2MHbOnmPSLTtQV3Ha30KkZOIxO12w5oNNQRocyOqDTY3TCBFHyJDvxL5RFXe4QOcROGyvaGzuZIt87O6EeXmhDj19oYz5wiGP7qEMMboek45hm34Y5wDrcIUBLREQaOlAU6jP+FxwAIxnULQAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "95879153": {
+      "schema_version": 4,
+      "id": "hibernate_r",
+      "name": "HibernateR",
+      "version": "1.0.0",
+      "link": "https://github.com/HIM049/MCDR_HibernateR",
+      "authors": [
+        "HIM049",
+        "sout_Nantang"
+      ],
+      "dependencies": {
+        "online_player_api": "*",
+        "mcdreforged": ">=2.0.0-beta.3"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b3"
+      ],
+      "description": {
+        "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+      }
+    },
+    "95556634": {
+      "schema_version": 4,
+      "id": "hibernate_r",
+      "name": "HibernateR",
+      "version": "1.0.0",
+      "link": "https://github.com/HIM049/MCDR_HibernateR",
+      "authors": [
+        "HIM049",
+        "sout_Nantang"
+      ],
+      "dependencies": {
+        "online_player_api": "*",
+        "mcdreforged": ">=2.0.0-beta.3"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0b3"
+      ],
+      "description": {
+        "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+      }
+    },
+    "95489638": {
+      "schema_version": 4,
+      "id": "hibernate_r",
+      "name": "HibernateR",
+      "version": "0.1.0",
+      "link": "https://github.com/HIM049/MCDR_HibernateR",
+      "authors": [
+        "HIM049",
+        "sout_Nantang"
+      ],
+      "dependencies": {
+        "online_player_api": "*",
+        "mcdreforged": ">=2.0.0-beta.3"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"917687d940a8cf1726de30f4f24fd5e3b6fbc7fccdd52320943d303bdc0ba7d5\"",
+    "data": "H4sIAIlPqmUC/62Ye0/kNhDAv8pp/y2QZB9hWam6VqXqIZW7K6IvShU5yWRj1olTx2ELEd+9M85rs6UcWyOhkB3P/DwZ2+Ox6wmPJ6t3vuvOfW/qzo7eTXIZQ2Ckk6tgsz7/dLEsPm+2E2piGZD88rvzq+ADD0HlTMMVNSWVEEHX/uHi0p2fOc+oFYrf4zsqJUyUgBK5zUHh73oi5JrngzmpN86dzt3FbDkf+3Z5/pP/y28fRXT3++zj+bfe5ePaJROGfKaCSgnSSrUuypXjNNLyZM11WoVVCSqSuYZcn0Qycyqn6+P9/ddzoqxVy2k6I9E+seAtrUEgsnQGz1OdiX0ndtQHxUQKIbdoHLy+A6c3Ggg8Xx9OQKPakToFDBi2PplP56U+yBljUJt/GC7DKDF0CuJDKK0JukMT4ql2FBSygVVhGSleaC7zgxwbGRJJqjXL+SM7mISGBkA+HWRoDMgS7nGyHWTaWNSOWTLRw1PTfwT8HgN7OG7PlGj6oTDL9WfUM4HmGgIWZ2YVmvX59NqZ/Nxaj6GPPtneVnNwXXpOGWlDglGF+LbyZ/GUxIl/WyWJG91WixkkJIEFti5nZ6TjAz5PXdRfTJmHT99f4tNbos7pjKHOIgyR4LvRguQhPpceMKNPmgl1vphPkexPPZ90Tme31dnC+LBHbtaV2uwkqpdjbQb6hWAQ7Evj9RLDMQAibeDBCkT2NT27xRphKmChVExLZUUegerRT9ORBpZZdWAAJrtKaRdNAzA7TFlW8Lrl9CLQcMp+0eZVFrb51J49rFhWlnydA1jhekjt9Ek/VCyPUjtux6jbt2bM2dpuyFmTeUMhQysQ6jkGUjtlytqdTge2/hGWGGOqgsSaSoyBqpXlqBtHlRn1jolbrsYZYIXtGE7dUQXL1xVb22F7SFdNrNkjKFtPW0qT9HKteFjZ57yBs1OshLbODpj9EugNsM2ebKKQZVxbBsAgxvP/Dbg0X//FJoFtNu0YoyTdbANt0xvsA8920h45rOcbMZz6q4LptItKwRRYBoUQTh0yrPpOTk7qFFhTHmSgLBdzQzD7l4pSLEJtYHXHwIIoY9ocFBLjaIwnByFZbOVrD+lnxRuUBaNZUOBJ2YppACNkxgWUWuaWw9RTRvBcap7w6FWHphf5I1D9vuR5BEdMiCOceZpHHOcznkfbPSQEYbmBEAE/hGXQHp0EMMvNrmPUTls6x1AI+WCdknYwZj0rQHEcME3AqTudHbvTY8+79hYrb7qa+zfmPqKIx1rzY9c79s6u3eVqRn83zWwr0/9Qmrsrz73pUnbrPr6+5nxHn2Y2pjLdsfxmsFu9bBcJnGcHnyr7Xu/z/3UiTWUGBVYV3ZVOyR/pfeqNi4xIVjnFy3NRvmUai9p9aVefEOnzg06b7TRlZdCseJRrVUErK5S8g0jvSYdUMxJv+YbvmZtCaDiJGmNeRhUW8nSzMbQ0p8zOU9ekBqVkdx2WY+YYsnC8Y4g4FoqRSBaQt18zIgoeQV6CubLDUyRFIGuGpb8evLh+92OrRZEt4r+7S7uL6y9fpbUdlE6H3b30i/zrH8Tdza+Lx5vr7x8ndEHB6CaLtoMNpo8hcrwMNGSFGF83biFsq5OATkEySbBY/6viavTtWhY8osD+McmiWB0XoqK7SYon/mxvLiZ/4u97XvKQC65NIIoqRO/7834bsZ1ItpJuUnXTKYaEVUIHzcHJhJQ1/RWgMt6Pcz0ZXc8cNXqajUS05He/RfFmog7tQrRhejKn8qwImvWo5QbybnHkoLf4EaOx361uO/n06R8iRItvRRYAAA=="
+  }
+}

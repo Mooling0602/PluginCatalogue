@@ -1,0 +1,79 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"6ea3da096463e368959ae55b798ed0b59571c47bfab0487fe6a237c159e481f1\"",
+      "data": "H4sIADFErmUC/+1Z/2/aOBT/Vzx+RIXY+UYS6TTtRnt3k2jXjfbuOk7IJA5kC0nkOHCA+r/fsxMKZf0yVtBNUyTkgv3e5z0/2x/7o35aNQoeNzzUmAiR5Z6m0SxqjyMxKUZtP51qnGVprp29+dj6yPiMca1XxCL64KfJm/d/wGjMaM5yzXIsgjsmbpygBs1zJvLhQXG1ElTCF1mc0mAXvuzNXx5i9TqhU3YS0xGLb2W8iZjGu9G2ojyLL+hYm+lt3CYSLQoAZx1SFqsQk5RD36oRp+MokVFMTK42trptuQbR4XeSBmyoOhu97qV9/dd57H++Wpx/vrJ6y9OFqv2MCsq/qr3qXRenyBmHJAVLhJpBoa1jvJ79YkqUMa9wymCq6k+upoTMtXXez1RsbRamcZzOwXH4reDancvGP0rG+/qDy0pLxYRBoWBMrfI4ysUeiSjzlfoDRVIIORSMs+DbMSoHSGWeQBYrtWFLqGKU+zzKRJQmeyR1z03ipHxMk2hJ98QBN+WuDtC3uylz6cdmsLX2cCztV1rGoxn1F7dlbJ9FMyjnvmA7jhJLLDImna/ASpU3EmxIg6k6bSGNc3Z7/3R9OB1+mXcvzob9L0ZudsOerjYsnOShJAdpsjnRsIpjJoaQxjQSUT6Ro1MK2BKzst5mBrRxDTgNxToH+J1xVtHGVqfPGRUwHyotGzrW9RaWnz7RPdPxLPdGQmXFKIbgD9oZHu54FrnZkDNYfDoQ85eAmmXZuuvaWxxXdexU9s29yl6dR+8eq1PrWtWpnS2W0kQR8h0bKbZnNW/WvFnz5v/Mm9WRGK6taZbFka9qp6W+YKKVC6CwabXWQhlVBzgoYZeyzzR1SRYBrKp64PlpkUgqs1zrSRYEdnPgc1PyQvCkVcmVI57OYUrDu1AveN2tMaonnvYYg93+U14VIxrHL3oaVxhbT8pllL0YtcLYQh2lwUIxZpSkHI2KMQqjf1k+4IOkhaIkEtDAciY+gy8oYXMkJrBGQWkAtohxnvIczScsQbDRUK7ioizl0hdB5DAal+Y0CJBguUDlOayitNvtBuywQ0mUjuU6JjEPLlEq3GNKlPshjidR8Ob6rELWEqW+auur9oeXKKPi94sHJQr+fomCXyRRSEvHfdLxdMcz7SckytrO0j3SOa5EMU1XJ3iL46qOJyXKe2N2+rREwbsSJSniuBYpNXPWzPnziRQ4TA+JFMd5hgaB3vTOoxpl2+rYGgVrj1HYcTQKPopGwdsapdl8q8QEClM+pQJNaI78CU3GLDhBmaoCGjFE55SzV82mVBfQFi4xg0HRCW02KGzL6QwKk4U2fHcMf1BYIQ6hNQICNhYJ5ahjqx5HtsQ+QYPCGYXgZ/sM+myCwwq+FDAfQR8FNE6TO/EDS09BHMVwa+YpWqQF8mmCWABySlplMQU9BU5V+jmCjc4XYgKsVkJCLjqD7DrUH0FrOybE7WCYh6VTyNSybZmJ1cHQGvdnJvM14QRB1hjLGRpMzYpZssXgYbnYlBUhME8ndIn0KPvKFiK5EtF01pNsNs/gtkNvVbpwyTWbHtpjj8JYBouikbZc1Ha7WtvDqT7TxYbh2gdXfWvcI6q+nRDHUX3knupbh6xVX/12qd8uP57q63V9+2p6nd/8eba86V9avW5vedH/G38l/cj3Sz/yMulHWthtYatPbM8wPMN6TPpt27mecdz/Tpkmdjsdw94QXdWxW97TxUX8Lh79dj3x9etffeM8DrqXuNf9Ypwve/qjOrAsWnvqB7wWgjWZ1mT60wtBwyUPCkFiYOs5WnQ9Qh6WgjtWxhGlIPlaCm6z2OG1IDmKFiS7WrA/YWhG+QJUFs8F+lDO/BVM6D8L+A9e7CYAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "55629961": {
+      "schema_version": 4,
+      "id": "multi_rcon_api",
+      "name": "MultiRconAPI",
+      "version": "2.0.1",
+      "link": "https://github.com/FAS-Server/MultiRconAPI",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2"
+      },
+      "requirements": [
+        "mcdreforged>=2.1.2"
+      ],
+      "description": {
+        "en_us": "An api to make it easier to control group server by rcon.",
+        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+      }
+    },
+    "54492100": {
+      "schema_version": 4,
+      "id": "multi_rcon_api",
+      "name": "MultiRconAPI",
+      "version": "2.0.0",
+      "link": "https://github.com/FAS-Server/MultiRconAPI",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2"
+      },
+      "requirements": [
+        "mcdreforged>=2.1.2"
+      ],
+      "description": {
+        "en_us": "An api to make it easier to control group server by rcon.",
+        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+      }
+    },
+    "44097736": {
+      "schema_version": 4,
+      "id": "multi_rcon_api",
+      "name": "MultiRconAPI",
+      "version": "1.0.0",
+      "link": "https://github.com/FAS-Server/MultiRconAPI",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "An api to make it easier to control group server by rcon.",
+        "zh_cn": "一个使用rcon来做到对群组服进行简单操作的api"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"9d403a5aec3e79cdcac9dc18508338bc06729a0ba810b0603701862f219dd929\"",
+    "data": "H4sIALmdomUC/+2YbW/bNhCA/4rgr0si+UVxbKDoCvQFGdamaD2syDIYlERZjClRIyl7tub/vjvqxZYzJHWYT0OBQnVOvIen4x3Ju7LHot7UGXn9ycAfjgZnTi8TEZ0bae/j23frG/4LDz9MtuTbl1WYLT2Q+R/vf9t+env9qofDSUrN2IJr9iUU2ZvP1yiPC87nzcv3b76ef6VyRaV7PC6XbEU0jooJVxQkYp1RCX+XPS4WLOvqo4oxbjwZj0d+f/zA4s3NcrK5HbwvyLc8iT7wVXAf+p+2ofdp9m6I6gTmI3JeSI4aida5mrpuJVUXC6aTIigUlWCjppm+CEXqFm4z3+vVqxFSFrLmVBOj6JiYs5pWIQCp3O6XJDrlx4YcqHQHx4JzsQbI/LSJ3FZxT2HZ4nkUUCxdoRMKDoQRO+MKpvTJRhml0vwHLjQcBe6UNDqVVKuBWRg4u9KVNBcVsAhUKFmumchONrCjjDQhFyRjW/IsGigbCNp2srJRQm26goA8Wb3SKl2TauFmV9kRUrYCZz8PeaSORL3JTa7fHLjJLALTdE6i1GSyyfHdKZH/YMOIaLssqPwmc8BYRwsnJUvqMO1QohiVKMEMloI7CymK3FGG5wQbB1Pb+ce5K0bU8/A5IPCMx/FdMfYHV/j6rrgcX/p3he/58M4fDGGcH8QTGBGTETxpOMIxXnRXXMVRAM+rUQjy4ApHDn3QvRyFEXJ9lF9ejcDOKgPl8mC7e9zzZukfcwfSnlq+RyGuISBqSTd2JASU+GwyOoQ9gwRCEi2kHbpDKjt/mpk0JandDIZgNmUhLD1qCOakUqqg35dijxMNSLWZnBVpUG++LwDf5zBRii0ySu14LaV02zMikCQLE0twAynrX9XKk4XlwpNqaw64COxIMNA1lNJVCanPRj23thC5COliJY3tsQjZY7W0XXtjqjRr30DhfNYQB3bcBuKWDZaTbFGQhSW3pTQXkAXZUmlta42p9kA4hFhQvMAWuAcd3G4Ca3P3nONL00tw8+YiABop07Y+MIxuIrwEGOP2ARwF1rtrA+ns2tXBUL96iZPhP2epKxj7sEOIW/6UE500jsmJpLZ+QYZbBgSuhBcXF2VCSXVtSKm0zesKYc40GSZwVbWilQ0E7kop0abGiI2pERQdXJDIztqW0sbGS1wXOrGQQz1uBzWEDjNlnCotMtu1ajEdeiY0i1n4XfXW4xN0SOVrxbKQnhHOzyAANQsZxDXUtfWpElBue6QgAj6FpLSutTjUJJZOaiClW9+tI5pzsbHfnw44JrUlJRoKO6KROPAG/XNvcu71Z95o6nlTf3hrWh151B01gCHnA3/WH0z7k+nw8raKOZUcDYJ/k5k3nPavpt74ttnBa/vh53eVgfhx5qhSyYHqz3vF6ROKIYdoO738bOddZc+rXROR0hxuG03HSLEt/h4Nu5ePUBQZ+gzbcWui4cp7JGxuLcj5vNFJdcAmRM2rzAe5lgWtZbkU9zTUR9L9ntMRr9mSHamb69G+YDXKTIUFXPOxNbJ/U9WijaF9s0NIKZpeWwYbyH5Djg4UAUcC3hGJnGb117REDz+dhTRT1PQHodJED6TVqrSdyOuZ82s9Cv2aR3833cHr2dN9unoC5TbYw+5ieDn7wO9vf/e3t7N32x52Mgi2xfBgWMIesvccU3NN05x3e5trGtTXlTnWSCKO4Rr/V8Fk59u1yFmIjv2jl4aRPM95gY3QP+HViikWMM60+fK8CMDctg1QO/3AdbXTmiCqwyeiMYHInFdVlHEhYSaEcipT1q5r2ev0bc6qcZp0RJjkh7ZLVgXm/j3ntVt2plBP83mVf1osadakAoSTFinGKtigmTG93B213X50hX90hX90hf+/XeGM6jVsZJ0j5LDMbeW7fwHINRIquRoAAA=="
+  }
+}

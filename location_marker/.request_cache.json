@@ -1,0 +1,61 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"2321580df2cedea8a4c82ffb286f4e36c541b6a45b0dee483349fbf5f53c03a8\"",
+      "data": "H4sIADFErmUC/+1bbXPiNhD+Kzoy037oEVvyC8bT9npXkpvrlNBcSdrLXYcIW8E+jOWxBQQy+e+VZAyE8JICnvtQzZBJLHaflVfys36y9ueHyjCNKi6oBIwlmatpOAlPeyELht1Tjw60lCQ009of/ryKQxprv1MPM/5HE6d9kvJvI4IzkmlQr1lG3YBm5TWo4CwjLOscF1jLUQX+MIko9lfx89HsCDEe3sR4QF5HuEuiRxEwYINoNdxSmJ0BGO5pI3hqnCKBFvocZx5T5GvIAprywYdKRHthLMKc4ygicfVdSjAL5l7IqdccR7f5cUx90pGDlWbj0r7++yLyvn4wW23PbDXeykB4hBlOn62DHC3yNMxI6tGYkZjJcxlqRYw3o5/kavbSGU4eTC7A1pUVkJn27AR2JPGZ/R2NIjrmUJ3/HE6b+y6Awri3NxD3fdAoCwhPJjeSe6IXZmyfqUm/B/mLZ1RCZTy7KfH3AJt58smNYz6vB7njc8xhN/PSMBHbcZ9pPvEXgDTt4Tic4n0Bub/EkdfkHv7STwCQEd+r+yDkjg9akoYj7E0e89l4JBzx3O+NuoIgQNkkIQLlipvLtQgZ6WB/IK/sOxxl5PHpBfzxrNMfN1pniKKWZ77HLTaROLjXEUwkTBb0wZe8R1iHz2cQsjALxLcDnLE8VmFfUBHIuQgs/P0U37FiIvw4ScmMqJYGPXFy/KSwsKwgHRlV3eafNrRdHbmWcyOgkmE34jPYZGe6yLhZFARu8flI5SYH1CCElunUkLWg1WJkJcFvnyQ4CfpwXbLyMNU8V6cDz5cplXWAm8XDKJpXH6L4WvG14uv/EV/PrrpOYY2TJApz3tCoxwirZoyHGMx2CJNGM7Lwc9ipGIN1Q9KTz/eAvI/16DAW9GmbcBfzmq6h3+S3wP5Wq5x3uykd83PqzEMdcA9bYMxuZLUtnPn4T16mujzxB6mAGcbSvfM0TA5GnWEsoXapPxFwVXAe3hMfjFMa90CCewTcRWGScD4Bot7i2AdhDG5fvYqoBzKCUy+4BSnJhhH7kn6JAaiCjySjEd9f4MSs8G1zpIJn1py6bdj1Y8urArdEdbUSojxxBedltwiptJWq1apW/7+1VbPh2VeD6+zmr/PpTfvSaDX6qDn9ZK0VWPAwgQXuaAqavzY+AnSq76+1YFV3qtBu63UX1VxobNJay3aOC1GpWstEVo3fuCykVjGwmu6zSSv6Leq+vw48dP3OMy4iv3E5uWh70+bXq52yCyrZpahcUbmi8qPLrlqtXl8nu5BdN7exMKy5nGANc73uWrGyS9ZdUNtCmuXoLliK7oLLuqsoma+OqJgMByHHdI6umArcEhXTSojyFJM+r5hFSKWYVJlVZVYppoViappNfiFfNHrrFZN+mGI6SCShKnTa0HAR/9hbRNLcznaRVapIMhCykGnUFrw6G3iJSGpOuECaXDSaxmaRdJpMlDZSpK1IW5H2Gm3EyD3Tkghzq11qyLD09U0oZxfZmi6qbdRCy1b1krWQrj3nxnIkkF6KBNKftp7e+j4I6IinSm4DIJpNHpe6/dkxoyAgUdIZkCzDPV4TuxPwyzWOqx/iEY2GIoroQVXBO8J45QVhfEfBOCAxyNtV4jg34JGID+4xSen3GeB7KhzgBIzxJKEhD5QNk4Sm7JhazLZss2ZaR9diM9wytdjTEGVpMbj0aGARUmkxVdZVWVdabEmLoYv2J/1iegnXaDF44OOB8CAtBqtIb0PTtQxXh1u0GJQ3CI5r2a5RL1eL6Y5dh7C+4NXZwIu02LjV+GQ122fWZi3WkUnXlSRT3K24W3H3wZIMWYa9tkG1kXJnVGq5pr5RkXGruuhOiScE9FIVGXz2VOASQx5PTMzpvQ51w7CW6D0feCG9t8/GzWkT7qJ3qOhd0buid0XvpdE73EzvkriNmmvBnfQurGrfhN5hWfRu1h3DWaZ3OfBSer+0Wo2muYvekaJ3Re+K3hW9H07vtmydPKd3Z9d/TEwX1rbw+9wKoW/C76isvgos5ZUeuPpKD1/Tu7AH7sKIFK2NrHhZ55bxTIiRThDyZacxXzaa+mHM1+FWdFz8MMNd7ljYAWEn3gHKBgngqzAi6RyL76hBJ+FpEy8O3QojjycZDMEYc58BTUnefrld9GNu5RPjPmE4jMB3YETvSbTci3ni8GOfTMZ8dj/nXhGeTgZY9nzEz8kJ+AMzLyBZfnQCZHHOEc7D+5VTiCkDHKzPaXSBkPug3KeJ+0Qc2z8s5hXgJJksvQIlz4Fvjn8BJl7aE0dCAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "111548725": {
+      "schema_version": 4,
+      "id": "location_marker",
+      "name": "Location Marker",
+      "version": "1.3.2",
+      "link": "https://github.com/TISUnion/LocationMarker",
+      "authors": [
+        "Fallen_Breath",
+        "Van_Involution"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*",
+        "mcdreforged": ">=2.0.0-beta.12"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A server side waypoint manager",
+        "zh_cn": "一个服务端共享路标点管理器"
+      }
+    },
+    "42573255": {
+      "schema_version": 4,
+      "id": "location_marker",
+      "name": "Location Marker",
+      "version": "1.3.1",
+      "link": "https://github.com/TISUnion/LocationMarker",
+      "authors": [
+        "Fallen_Breath",
+        "Van_Involution"
+      ],
+      "dependencies": {
+        "minecraft_data_api": "*",
+        "mcdreforged": ">=2.0.0-beta.12"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A server side waypoint manager",
+        "zh_cn": "一个服务端共享路标点管理器"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"cd04d227e04765b89af6291ab99d5f82cd6971018391842566a9c91e8088dfee\"",
+    "data": "H4sIALEJpWUC/+2YX2/jNgzAv0qQ17Vx/jZtgOI2oFtwQ3vtthQ7ZBgC2VZiNbLkSXKyxMh3HyXLjp0eck2VlwF9uWsk8SeaoiiSWZOEzVGj1x0Mu8Prduei0WQ8xDMz2ny4+3n9SH+lwfhmi77+vgrYcvvw8tx7eAn6MHfb1MtRjPXaex4gRTh7QGKJhZ6Zp5TOiunJ5z+eGUx7r9clgqyQ0qvmiEoMI3zNYGrUyJqULwirymsBo1x/0O/229c3rzTePC5vNtPuLyn6mkThmK78l986X+4+tx/uFgMtjmA3JGapoFoiUiqRI8/LR2VrQVSU+qnEIuBMYaZaAY+91Cv2+7S67WvKQlhOvrEeOiQmxNJyBCClV/2OSMX0UI2KQHXpnFPK1wCYnbKJV4rtGYQt3sMAsczjKsJgOJjfGRMQqU5UyIhk5j8wnKFIMKLA4WkcKwQqaVfZZZ7ACc9xqS8DQRLtYycqVxPVLC4WiJEtegcLRA1C63WiqBHRsngF7neicC6TeeZSBZtdrkOAyQpM/B7ggbDmqU1i7vRjxTzG9EThGQpjc2PNXd693cu/ERhCXB6HFv6pAZqtsGhIEuLGGm0STphqxIihhY04XCwrYeT4dxozH9te075nrKMQzxA0aok3biQNyPS/xa0J4FYinwukuHBD10hZ7afZSWEUu+1gCCbgce5oUUMwb4CUKX6bQx8nGpAs7w1LY9+GtzPA93cGSUkWDGM3XknJvDIK+wKxIHIEF5DM/pWfPFo4HjzKg6BPue9GgoWeoWSejJB9fdTMWUPN1ZA6VuC5O1ZD9lglXM/eqCrM2RdQeAUV+IEbt4B4WYGliC1SiKlu3JJSPPILtMXCWVeLyWMgU4L46RlC4B5UySF8Z3X3nMPU5BzcpHh4QSImytUGhlG/COcAa799BdcDztG1gNSidv4w2KlzvAzf3MXWBu5upyFe9kOCVFQYJkECu9pFM7zMR5CCtVqtLMIoTxtiLFzvdY4wb5oIIkgNnWhZAYFcKUbKZPJzo2oIqT3lKHTTtqSUvnGOdKHmCwnUuW5QQ6gxY0KxVJy5nlWJqdEZV2ROgjfVNcc3qJGyT5KwAF8gSi/AARUJCPg1VI72VfExdX1SNAI+BcXYVjYUI9cHsIBkns2tQ5xQvnGPTxWOudoCIwWFFFKa2G1325ed7mWvM2lfjdqDUa8zNU2EJKyv6ulVne6k0x/1bkb94TT3ORm9WtQeTjpXo05v1B9Miwhu9Yc/31R26Y8zT5WMKqI/7gVH3xEMKHjb6eVeue+Kva9WjHiME8g2QJLBbTLV6Fb/Gg7r6UfAU6atdg3Da6Qg6T0YLPIWrcPTRkW2V4PkLL/7MK5Eiu1YIvgLDtTB6D7q1IbXZEkOxE2CtC9ZjTCRQQqJvm5C7GfyarRQtNMxQUIIXjSy7FfbcBpWJIGHfFob4glm9nNKZE9/Owkwk9i03qDYNMef0Mteq11t9Y2/PDfGmGGBaOMp9UGocZ8LNlZ2qUzCf21nbPx0XwCOXya7ufSqW1Zbe8HVZExfpn8OttPJ8rapmwtI96b027GEMLM3LZEzheOE1tuKa+zbjGamyyg+n0Om/09KRM02iick0Jb/62/4tSKS+IQSZYyRmK8tmwPFQVTMaQ1ZeJb1qRDPUUrVLC+uNClGUtn2JxYxKY87a9YaKPqUEWEK1Yb07a9qLEjur/t5Sq0xdqaCj5NZfjEVX2JW9CvByxSPtQuDDooY5bPdQd/row370Yb9aMP+/9uwDKs1xKz6C1ItdIuJ7u4/ey9LtRUaAAA="
+  }
+}

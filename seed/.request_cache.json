@@ -1,0 +1,90 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"fc235b8c4c75619aa26d8ceea4324171850a81e61417cb3a5a49d6c9b39680e6\"",
+      "data": "H4sIALelrmUC/+2aYY/aNhjHv0pGX0y6FWInkJBIU9ddey+qabd2t01qr0ImMZBeiFPHgXKIffY9dgwEjsKAoGlVJE4XnMf/x3li/+Pf5T7MGzmPG77RGAmRZr5pkjRqDSMxyvutgI1NTlOWmbepiN6QCTF/pzSEtpiSjGam5zi2hTpO47nRIFlGRdarQM0spKRonsaMhNuiRWt2qvD8RULG9HlM+jReyCwjMY63c5S0v6IqyNCc4JbVQlIjCqH3MpEsRy5GjEPbvBGzYZRI7aXQKh4jB7e7rutCQ8JC2lOtjT96D8NXtz/Ht4+f36rSTogg/ElpVeuyCnlGecASQROhBp2bK/EXkx/bUmbItVCRRdV3792SmuuiHlEpGTpgccymINA7Jom56rbWiJLhKRrQbW4yMaJQOTiv7vQwysSRA1Jd5uoXFE6pZFBETsPjdHQnGNI0gdHM1ZQt5PJ+FvAIAlly5OA2ukotxockiR7JCVrQVUmopXRcV9VF9qUTmH9Hdi76zM2URxMSzBbFGAIaTaDEpwhudZZ6YpZStbIgUpU8ErRHwrFalwMSZ3SxuQTfve49TF/dvrn+7ZOVtW+myaNaQrDme9I8ZMh67cOdHVLRg6GMIxFlI3l2TDJR5FrGS/cw1p1CTgZimR2+p5xqayk1BpwSAVdCZGTDQpbdRHbTsu+w7SPPb+P3UirN+zGk/UocbsPn/dqiIeLDWa5fyIC/gMFgz/ZKdqZbtmr5cqOWvcfwU7kuGYg3i7q0xkGoaqa8GU4meRyvHgO0ttPaTms7/d/YqV4/vWU0SdM4ClQtTRYIKpqZAH8b6zkgVJBe6mEh+yjbbGRb0jDhTqvdYMDyRPqcYzkHLBKsD1nvi41kuDeqMMg+Z1O4pN4q1dGbwmVPvTM0n5jb4mPxwOiTOD5hs6x7ljaej1F6opbuWdLqs3AmRW6iL0bGxtTo58Ps73t+n8ifq6sbsGPjekSSIQUXvrryjYOVgZaUcCqTYKhBq7XOBjcuKFaatPUqwGGtKIvMBIlXkwVDyw8YDhAcNJcHMcmHI312xBgnM30C5u4A1kGov44o4UIfcxY80OUXOqNy+GgBE/68a7Bd5MKFVIRSWq16lNoUrhalcBmldKIapepnf/3s/4ZQKg6d5g6UwqegFD4Tpaym5dxh5Hc83+7sQakiDvvy414ApTwXuw6yO2v30w17QWqWJTtBCtcgVZtpbaY1SG2DlOV1vF0gZbf3+iP2Ude32l/lqHKUcwGOwiWOwtVzFK6Qo/AmR0lqevbM+GtExPeZBqdQoZRxn3s4CO9zx+22jf7M+InE9Itt2Y4RJYepKgU7N/ESzCDFr3RqXMM04VE/F4xnRZK16BimggGeE3FjEPFMGMEyGCbRCSnPZUEEpVIsCIdrzd4d6D1khmCloQ8YNzgdANkxDt4prwJGDw+lq6tqKXKJNv8hRcLxGFa6MslVzvPR0vFcZHWrQstC7QJouSFcLVrCfCuhZZGoRst6N1Tvhr4ltOy/fb0DLfXaPw4tdafz0BJh37Z9Cx9CS4hrA1o6l0FL27GxW0ZL1bAfLSPH24WW8rFdo2VtprWZ1mi5iZYdeydaYnzAH8H39ryiK0d1LoCW4GfmE2+rDi31Q6QStNRaS7TErZdhaMixGwEJRlQClNWCm228u6NfBCAdPNlIaLCBIWgcczKtDt30azw9ogoBTAPAyQCGzgQwXMFrPMe1sG1XxlpK7RKsVRaumrXKr/GKRDVr1duDenvwLbHWn7/c7GQtdAprnf0ar3OHPB8dZq0izvVx9yKshTpdzyv9pUk37Gett9eT3axVv8arzbQ205q1tlmr3UW7WMs7ZI+O33H2odYqqnsR1ELmE2urErVQhai19d+Q8oWZvqjvzsUoeCBmpSRV0lOxpf839IQvQU9osfj4Dwpm6wlQNgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "100611939": {
+      "schema_version": 4,
+      "id": "seed",
+      "name": "Seed",
+      "version": "1.2.0",
+      "link": "https://github.com/OptiJava/Seed",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.5.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Get world seed without op permission.",
+        "zh_cn": "在没有op权限的情况下获取种子"
+      }
+    },
+    "97176035": {
+      "schema_version": 4,
+      "id": "seed",
+      "name": "Seed",
+      "version": "1.1.0",
+      "link": "https://github.com/OptiJava/Seed",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.2.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Get world seed without op permission."
+      }
+    },
+    "97136317": {
+      "schema_version": 4,
+      "id": "seed",
+      "name": "Seed",
+      "version": "1.0.1",
+      "link": "https://github.com/OptiJava/Seed",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.2.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Get world seed quickly!"
+      }
+    },
+    "97058991": {
+      "schema_version": 4,
+      "id": "seed",
+      "name": "Seed",
+      "version": "1.0.0",
+      "link": "https://github.com/OptiJava/Seed",
+      "authors": [
+        "OptiJava"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.2.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Get world seed quickly!"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"615ed7d6b5dfb3a4bb8fc948b93202685f1718be31abf9d669c3f3b3c3e5796d\"",
+    "data": "H4sIAPm2n2UC/51YbW/bNhD+K4a/LrEsO3E6A0OHrUOxYkW6zcWADINASWeJMUWqJGU3Fvzfd6SoNydoYwJBLB35PDoe74XHekrT6Xqymq+Wy/DNanU1mXKRQmSl07+iXfbu/sOvnx4X2dQMkQKM/G+A1LxvK8aiVnhfavqB7EnQjpaS7ok2Y1vCFKBEHDhIfK+nTGSUD1EGYD8azlfhzZu7u7uxKp+tKr+w++OXP81chGgio0oyM5prXap1EDRSNcuozqu4UiATwTVwPUtEEVRBR/52/9ONocmkI2q+YkTnlCV1dA0HcqpgqHWuC3auxwAwnLoVjIkDEkSXfCToYD0H5ZkPB8LqQOgc0HI4frImoEpfqJCF1PYHDWdZFBpRQnoZjwOhSsYxTnUgoRQNXRWrRFKcKPiFyo2ghkvIjHB6JB5cCLUURq8LoRZisLBH/7sQ3GDqwIZQ8nRqdEiA7tHEPoRnYMOnn0obt59xpjU51RCRtLBxaSP29Hrv7oI+hc74BvIe9OQgJEsnCidMDogUlZ6IclKCLKhSOG/WuLXcDTLFtxdnbfv824bje3Z5ARpYnCHYwZMP3sBq878NhgSDjcRCEi2kD+EIX49eLb8GUvjwWpzNWUJ4WcribKpWqoLXeeJLPBauOjfnVRG7bORN2Ts2Qa/KOIAPS4etgy5BxpLwJPeia6G1e2p2j2Rem0eaXBQzEfvgcTiw2DpQOXGpX0ee2hg2Ax2TSdj6khloT6al3/5ZtaTdv5YKi4zGvfRha6FB3ZIxwrOKZF5sHbatlxk5gvTUy4GbbMO1pHHlnWx6+KD0xp6q9ejzOu7P1pQTu9SioNpvlRY5dld/OuNnzyiNwDN7tdBRLmySrBvyz7Ivcrtzsa/DGGhQ/1ASnbdLL4kEv5UbZFDHBE8cs9mszoE0ZbQA6RdpDdDWApnkeO7x4KhbKJ4OCqLt4XRr1UrxtMoESX0067Dd/vqXz9F+ltiK+VBZ3IipoAyUFtzP8h14xMmFpluavOoI/hLtCF+/VZQncEUYu0LX0TSh6IfY2rgMHQPzS88GiGpjP+sO3AyIX+FooXXgToQplEw8+WaHAdoGmwTsq9OIaMOzmC+W1/PF9eJ2M1+tb35cL5cPto8t02ezbq7DcBOu1uHter54aPxG5WeTlteL5SZcrsMb/Htoc6XTGh+/0QGYhdi0r/IB4Od++vrF6QlDj3ltl9F9Y88vaUxyUUCJ1bdt8xU9mudwOS7Giai4sUWI4gPReHg7E7ZV3PB8esJ2xhamnKioiUqUa1mBk5VSPEKiz6R9FhiJD3RHz+D2uNC3RRZMVVLZxmk40vQ+Q0ULKqVob0g4hnmfDtMBEOlIzEYiUQJ3q+kY52bpNAGuwF7gYLdjLFA0e9HeAX38fTP5w80ydi3Tr+5mBUe+f7niPqCClra///n4Lllt3rPHh39ujw+b345T05wSc6dhEvQOo7+3HFWRhqJk48unA8Su4EfmjC+2WzyufqmoHK1di5ImxrD/TosktY2x+b0uWWVurNwr4DczxP2H73uqaEwZ1dYgZRXjKrpu1O3FwKLOlq1vuQkpbEnFdNS0CdayROmmMe87ZWVNP+rRjUKEck1GIhPVw0VJ2nhsP86Ys9fJ9pNFGTVBqMUOeBsjHDQ277uRWw2Ph5389D+ptYt3SBQAAA=="
+  }
+}

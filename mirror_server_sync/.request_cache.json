@@ -1,0 +1,55 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"bb8abca4cd8db3798e0cc00e322695937deda3c5841981669e6d3d61b0c37cc4\"",
+      "data": "H4sIADFErmUC/+1XXXObOBT9K9T7lqmN+BBgz+x00qSZ3Yc4u0ma2U294xEgMC0GKoTz4cl/3ysJbOKmTuPaedj1QxR8uffcqytxpPNp3qlY2hlonQnnRTnQdVIkvTjhk8rvBflUZ7TIS/0qKSuSXhRpwinTTxPGcnZB2Yyyi7ssAKeUkpKWuuMatokMo/NW65CypLwc7wJeV9giS1WkOQlXsyhrubVM83cZmdK3KfFp+iDSTvg0XU3aSvajaTiJ9ZnRQz3ZsSQEuCaz6GDFJzkD27yT5nGSiWSn58Oz92fHf3evLy4XMa5nYcPxbPid5SEdS2Pn9PhP5+qvYRp8DuzT+4+3w88xkgszI5ywbxZGWpuWVSVlQZ5xmnE5oUpvcryb/WoLlJjVOCqZXIu1Sy0gS321/mcaueoe5Wma3wDQ+KXJ9EXoEifJ4k1xIHSu53xCoZHgIzdFnJR8g8Jk2Fz+g2ZKpBIay2j4cqw6EEq7yaCqudz2CrLyy4AlBU/ybIMiH4ULvJzFJEvuyYZ4EC5h5Gf58nAZJuLpDLboBgAqbq4XLJmR4O5B1RLQZAZt3xR0BUBg8ruCCpCP4C2XARhhTMKp/Jojkpb04fFXe/5h/OXm+Oy3s+Bo6NkfDn8/cSUOiceCg4TLkjFgtWPKx1DONOFJORFvpwSwBWbtrdhHU/SjCf7RrhYAISMRbyqB3wWjNTm1jAGjhMOsiPDsmMg0uwh3De8SOQPDHWB0LaCKyk+hhO/4me7AxtfLcwE8Pm337FG4uoM9bFlef0motWGlzYftNh+7w2j4bdOWabqq571pEMpllCcBOGZVmi5OIbrn6j1X77n6P87V9ac2brxJAdQUyN7qecAp75YcCHNa7w0unWqCCBXsvbBZliMueSGsvrzCBnmVCeI0LO8ZzjWtAVJcWhXhWi9Xevksv4EpjRepfv7i2kDVt1d9LV8+/KOOKp+k6Tb0QA3VujnfJ8W2wGuoFrifh3cC9RftfRVrJ8ntYMRGmfjraodhCOyiJVlICwpDxjU+gaULNZ5rlAQTLaqyQOwN5Q/R2ps301KcwrADc3EkR7DSFaMN6MHBCRwq2tGEZDGFs+TgYKC9fKXUlaBspgEbd9tKD2FkWXhnSk/Bv4bSe5Rp50oPtZSeyrxXevvbw/728H9XesfjWx49qfTQzyo99FpKz71E3gB7A2S9jtJzsddHXkvpKcNapeeYxHte6aG90ttz9Z6r90pvO0rPsJ9Seo71fcpdUKm5TuitEO7OhR7S19LlToUe2qXQQ22hd5KwkmvnqgVCkv2RVkD02okSatpRPi1SypViqxzHoqPK7VsERmx6YAlCLN41Qu9HfApKvwhHl2JwcZE/qmxq+cKCwlGFTWLA6DjeV2VDMGIfRuxjAec5FkREFLwc5ERt6LoG3EeuAI0EXIQtAWrDcx/jAJ5REC2StSCjCIm31HVgtMWz4zt4g+JaBTXCV8SEtMnkGZH1OIeq72mMCU2LtY2FJ9NGspw+jHYQiv6IqfZlgV7fE71ybUjadzBYXN8GT5cS14Sd/C+ITef8Gh0AAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "65853389": {
+      "schema_version": 4,
+      "id": "mirror_server_sync",
+      "name": "Mirror Server Sync",
+      "version": "1.0.1",
+      "link": "https://github.com/VisualSpliter/MirrorServerSync",
+      "authors": [
+        "MRNOBODY-ZST",
+        "Power-tile"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+        "zh_cn": "一个简单的MCDR插件，用于同步Minecraft地图文件"
+      }
+    },
+    "65758908": {
+      "schema_version": 4,
+      "id": "mirror_server_sync",
+      "name": "Mirror Server Sync",
+      "version": "1.0.0",
+      "link": "https://github.com/VisualSpliter/MirrorServerSync",
+      "authors": [
+        "MRNOBODY-ZST",
+        "Power-tile"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "A Simple MCDR Plugin To Sync Map FIles Of Minecraft On Different Servers",
+        "zh_cn": "一个简单的MCDR插件，用于同步Minecraft地图文件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"d7a7d6f1841e50532189d94f7bd64104bf88642902ec605a4acd9b3aa086590a\"",
+    "data": "H4sIAPm2n2UC/+2YX2/bNhDAv4rg18WW/CdzY6DotgbLBjR12ngbkGEwKJmyWFMkR1J2HcHffUeKki0n6ByPb8tLYlG8H4+n4x3vyg5ZdCbB6M3oKuqPhv2LoMP4As/taOfzfLW8nv4yTd5/3HTMK5RjM35LpOTyHss1lvdblph3aUHpvJ7wO1EFoveCEo1l+Nx0IckaaTM5RVRhGOEbhiU8lx3Kl4Q9wRgpq9bVZTS8ehMd6Tq1uv6E+NfpJzMVAR7JeSGpeZtpLdQkDKtR1VsSnRVxobBMONOY6V7C87AIa/a79duRoSyl41SLmKFjoiCOViEAqcInimc6p8e6HEg9mZ9ySvkGUPMXLxc2snsQYcuzQSBbhlxnGIwJk3bWLETpc1SzcqX9Bxa1KAXWlXhxBsxJgnLGc3ZlKLHgFbOIVSKJ0ISzc9RsyRsgl0vEyCM6FwjylmM0PEfeyhkAXoOvnkOoBMvQnrtku6u0STBZg+3Pph4RDFRvhQ0B0wOT2W8CAnO0yO3Jtmd+98Jz8WwcWeDmSxnGj8E9yQXFwe3768/BHS0gkgQzHpjpwS0Swc+/UqyCaRrcEoYTiVIdTFlwTdIUS9hCUNHd0ZGrg/j0bevYL3SCvgb6b5Y+hRVakCGu8NYL0HBK87c+mQkcfxRziTSXXlZoAcvWo11QY5R7WciCbNjl3I+1LchmIKUKfNqBOQlseao5nqzIYxdj/a2xP5xIKbJkGHvBNrAybBJDLBFLMj/8mlW6X5WPoKUfF0FVRI4pj70AYX5oYWWoMuSypJ770tfgDatNlzj1RjesPV1LT15iFZfWS2o2JG4NHuMFX7PCsqZTxJYFWvrBN7D6qrJEj1j60tzRqmDLtCRx4S/W7nkHV6LYl/J73PGFyyNe1JcHEMyJ9mQYi2qfI4984+9P1jADvqJ5zWoliyotuVce89Kzi7mSyZufGlZYfieQzmprCSSxJ2MZVFjGCC6cvV6vzDCqrjc5lp6CREWy+VUmGdyHfUDLmgUXvRxpW96kVvEF1DuUo4UX3RtY40UerzUtrxEFpV7YFtRC5wQu9ZozT5+zobUWYVyTlCQn1YAnrdMClu8UYQm+QJRegMdqkhA4D1B7u5wWY+opoRkSbAzl2BWBFCNPybhmlaErIRZYUL71FvoOcDZOSIw0FJ9IG/AgGgy60ag7GM2iwSQaT6LBg+3XiEV71rAbjbvD/iy6nFxGk8H4ofJOlR2hxt1Bf9YfTfrRZDR6qFOF2wb8fEmparZqE6XKDgg/7OUnp8knFPzy7IK50WLN/lPRnfEcC7gVAYDBYbTV/aN56l+Ox+Nh+6qU8IIZqw5geIM03OiPBus7llHnbquzKuVnSM2rKALjWhbYjQnJv+BEH43uw1hreENW5EjcXub2Vb0VJiopoJgxzZ79m6pSrxXt2zBjTOEs5zbuovTiQBBwKKatIS4wc7tpiJHZOkkwU9h2PaHytm4haHfYiw7brTcffwtuMMMS0eCuiEEo+FAJBms3VYnFV9ejvLn7UAO+feTc4io8XHLfUL29Tr6f3dAvD39cPj7MVm87pl+DTEfQpKQVhKa9ZYmaa5wL2u7obnDsblZzUynyNIWC5e+CyJZtNBckMYb/8y94WhNFYgKuZ40h7G6bvon7DgfWdHas/cp51AKnqKB6XtWNBpQjYr1KYJmT5lOXnVZD6qKap1FryESGQ3UlqXx1/55SZ4mdbWLkYl4dU81XmNVtY/AwzXPjvqCDJlb1cnfUW3xtf7+2v1/b3/+f9jfDegOBrZVlDiv1Jlfs/gFxueRpqRsAAA=="
+  }
+}

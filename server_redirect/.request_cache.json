@@ -1,0 +1,59 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"dc39cacc1b893968b2f70f527939060867f02b07228a4b99958b25583865b611\"",
+      "data": "H4sIADJErmUC/+1X0W7aMBT9lSrPg8QhhSTSVFVrpWpdO7XrqomqikziBrdOHDlOGCD+fbYTILBCmwIvWxASirn3nJtr+9jnYapljGjukTbkPEldXYcJboeYD7NB26eRzlBCU/1LpD7fYKb/QCxH7BYFmCGfi/8JgilKdWBaHdsEPVv7dKTBNEU89fYNrRe4kiFLCIXBOkMxmu6FZXoSwwh9InCAyExSDnlE1gkrRO+g4DDUc9A22qbEw4FAWrDKrmV8SJkYnGqEhjiWREvURYpldh0AeqZ4jmmAPDWoXZ3ddO9/XRP/+WZ8/fzy++rOH6upyCGH7K+pUKPzRmUpYj6NOYq5epVMn3Oc5J8tiRKyEqcgUzOwdXIlZLXttRoog58oIXQkQLx6RPoicYmC4/BjKCJxqlM+RKKBIkItgxCnvHZRKmmqfkQLFU4q2slQUBepTBNljWJR0VQt8AIwG6Q+wwnHNK5d4EqyRKMshDGewA+hiWQFojZf3WSVJLNRLhZk7fQia6onDOfQH8+KOnyEc9Hsj0GupUtEPk6QhPgpYlXzMUceDCK1a58gSdFsdX/ennsvo7PvlzcXp70r6wKiHCscGHpSZ2TIUhrEHIeIe6KYCHOcDuW/EUx5wTWPX5WZo/tFesDgE5/XIZ4ThkoNqgz6DEEu3gnKSM00zE4LGOJ7Z9iu2XOB0ZdQSTYgooBNcY4LQH+p+CLiYW8nSgEpdNmxu1ana1c0sxxZ6/DpSofz/uVoc7daRbPbkR+oniqZF2FxRsjieEGNGDdi3IjxPyLG5aby5tEwSQj2VU916nPEWykXmhiV64GroFIIggJ2IsdMo+scS5UVk64uoT7NYimOwHhLVh3XsPvF9TV4R9SA0ZF4JW/BtNPtc45SXkH1LYI4eywOoQEkZMdbfIlSufdOcLIH3BKlgjugwVjpoZjsPdoaw7Z7QnwPYWtK6APbmlWWQ9oaUDmiS9bG1jQnaXOS/je25vorOn/V1oDdbA3YxdYYTgt07gzgWh23Y222Ncs4yz0+vK057vUcu2NVNLMc2WprniZO9y1bAxpb04hxI8aNralrazqv2RrnLVW1XMvc5GpWoqyDuxqgb9HDQ7kacCBXA1ZdzeMfmgrkua0ZAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "129864368": {
+      "schema_version": 4,
+      "id": "server_redirect",
+      "name": "Server Redirect",
+      "version": "1.0.2",
+      "link": "https://github.com/CmmmmmmLau/ServerRedirect",
+      "authors": [
+        "Cmmmmmm"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.10"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0a1"
+      ],
+      "description": {
+        "en_us": "An plugin for use with ServerDirect Mod in Minecraft"
+      }
+    },
+    "125779834": {
+      "schema_version": 4,
+      "id": "server_redirect",
+      "name": "Server Redirect",
+      "version": "1.0.1",
+      "link": "https://github.com/CmmmmmmLau/ServerRedirect",
+      "authors": [
+        "Cmmmmmm"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.10"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.0a1"
+      ],
+      "description": {
+        "en_us": "An plugin for use with ServerDirect Mod in Minecraft"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"f605963742b378772b3c8092f0c5b68e030b1142accc32ce025881aa4d8d7a96\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rhr2ss22ltx0DRFSuQAUu7pE23IcMgUNLZYkyRGknZdQT/9x0p6s3tkjhSECQWxXt4PB+Pd5cPaTRcDmaL+cViPF+MXw2GXETg29HhZ3+z/vD7bze/vp+/H5pXJAEz/gXkFuRniKiEUJs3q4wxv3z9S2J/rkjmfT8zlXRLtJm3IkwBjogdB4nP+ZCJNeVtghGxyryezi4mk/m0reHHDzezP/76xML7m/2n+823j7fh3ogQXINIP5PMzIq1TtXS84pRNVpTHWdBpkCGgmvgehSKxMu8co1327evDWUtHadYzAwdE1PqaAUCkcprax/rhB0r0hBpT14JxsQOIf5pC3mVYE2hfP0yCgrmntAxoAFxxsGagip9slJWKLf/0ISWo9CcEqJTSU4M1TLOcsg9CakogFmgQklTTQU/WcGWsKEJuSacPpAX0VDYQoxuJwtbISMNW3TIk8ULqdyzxyvcHwo9QqBbNPbLkEfihqj3qT3hX3GuNT7V4JMosafWnufDKR7/g/AQQfWFoDjHsGL9WW4aAePxfVhDPr6I4T1ljicwnmUY2Ab2XVkGkZu/5SkJ8RySQEiihewKb7Hy1qNdSwNJuq5hGTbYCdHZspZh475SGTzPeZ9iWpSqTgnPksAFtl7w9QkhStE1B+hKrDi5V8XgQBIexp3RJSZ3nwovIOvOTkCK8BcwEXRl4VTPcnJPxcTdQNrvQUtDNpg2WMKqD7DB1GAtu/uBVVdaPyixeBdq9Imu5BLj5SWYEb7OyLozueKUF/6aPIDsQV8HKiIk15IGWS8BskY1MoqgB5Vr0nGq0g+5uCetOZKE6u6WsJT20egHbfz4O7wZ6CH6lphWXC8uD/eqn9vjh+u4CqIPJzQYL/8pJTouzZMSCd2tYyheHhBMz0ajUR4DKdKMBGT3015A7N0nwxgTxo68vMRghpUQbXP9lVU3wuSfCRJ11bjiVH7ST3rR8osUU9euWMtoURPKQGnBu39rFajF50LTFQ2fVf88tUSLlb9TlIfwimBCj+6oaUjRz7HSdDdPAKz7tWMguB2SgKt/GJDuF2WJyT2XnUeQMrHvI3I1SPbASyAaCy6iDXM6np6fjS/OxrPbyXQ5ni3fnN/ZFkQa/f+si+Vkflf4n4rbkyZj/L0dL5ZTnDS+K+O72wF+fGaZZjZorzMVN4R/rkWXT4qGDD3vJSVitfaWv7TCjEUCKWYndXmp6IN5mkzni0U7YwlFxo0BTV9sRzRmzUeDZapjFLne67i4jWOi/CIk4LiWGbixVIp71OJotA5HreEd3dAjcZtT1XWwFaYqzLBWMP2L+k1R4DYVTaiUomyIuX27QBs1BBFHAtYaEilwt5v21mkIXIFt3GHpat0gZWfno3GzVXj56evgEjhIwgbXWYBCg6tCcLB1U1UafXMdtsvrqxLw+MFyiyuvuWSzLRjObi/Z/d2fbx7ubjdvh6YtQUxvy9wqGww7tWWp8jUkKWs3JXcQuMzHN4WYWK2wRvg3Qy9q2kaLlIbG8H//g09bqmhAGdXWGKndbdVucFZrWPPIr9xjBCuSMe0XtZkBJUTpot2Sgkxo9WXnw1bnxXzJhHJNWkMmDDQVlrTw1vo9Y84WB9sMSFK/OJ1abICXbU8Oeoe7aDlAM08uxyeH/wDFfSZ5UhYAAA=="
+  }
+}

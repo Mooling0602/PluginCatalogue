@@ -1,0 +1,61 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"e5bb21cdef8c6714ec8800d8572e56d68cbc83245d4a8d363786cf202196d8f0\"",
+      "data": "H4sIADFErmUC/+1YbY/aOBD+K1HuSysV8kIgCdKp6h7XqiftclvRvRPtiRrHBLdOHMUOW0B7v71jJ7ws27J3WfjUfECQycwz9th+xg8f1maRM7NvmHMpM9G3LJTRdkzlvJi2MU+snGRcWJe/Dd6RGc9jEunfrSmX8IoRJIiwvMAOHN8OzReGiYQgUkxOB2qViAq7yBhH0SF2aRVPxF+/TFFCXjA0JexOJZvLhB2m2ktxHFyi2Fo4bbdtKygaAcgmn6pRIec8B9vaZDymqUrxGjFG0tZFTpCcb4PcIPSDwO7Bc8ojMtFG83Jw3bv5+4rhz2+94Qh7w8ErV9d+gSTKH9ReWzf1KQTJMU8lSaWeR2Ftcrxc/OoplDivcMpkuvBHV1NBCuvBBB4p4AP/GWeM3wLU5H+ns7axOyCaxrWBIHZtcTknUExw0vshpkLWGZqOW+svqKiGElDdnEQ1wKpIGNxtCuNa651eYhZTgXOaScrTOsO8F68AYWujlK5QXUCI1zj6LNaI13EKgCxgr9ZBKAPXVpbTBcLLu3I0mNAF1L426gGCApXLjCiU9+Cu14JKMkFRok/2DDFB7g4PMO69T27E+K/Xq/Ho2rscxF+vVq+6GgzFE0VFym9HIbDuMZETGFRCJRVz9TZBQpYJN/6KiIwLLo1dYJSjmdwMA56znFQstWfEamowJaQ8Tdd2nZYdtJxwZDt9x+/b7lhBZcWUQeof+QV9tzfetQDw+HCK5lKiWZ7r+67tOTs+rQyHlf19OWR/sOmbmzl2by5w54pFg+vl1QovgTa/HlYLitUqi9VOcKSLqVsAvE8LxrZNhzR03dB1Q9c/EV1Xp26y8UZZxijW9bU4lkS2hIQUSbVDpHaqyCIqYVfK5vcC31NEDHtAX18xL1LFn0Cf7mPcC5zaGZdX3+ioV1d7TXN+C5OabHPVvb9uAKpLrPU9qrz7p+xLU6h3/ft+BbB3W17R7GmQFcAe5JRHS83E6AsxgCeMTzH0gAQo+pMxo4RFBk21HRZ9RmOwMWJwfbgQM2E3nEQl+aHXCd3gtCqpAj2bSrqPfxaV5OyrpCpfo5Kattu03UYl7amkznB0vRqO3nrfUUlOXZXkPF0l+VUPtnvHVZL2c+1+JzinSuqGYejvq6TS8B9V0uhLF6jyRyrJaVRSQ9cNXTd0fQ6V5Om/xh+oJKfjdx/j3rDfOaqStl5nVEnOfZXknE0lOadXSc6BSlL9EZSTASEJkh/zj6n6VMU1siVW3dKQ3Pjz3S9uxzae/ZtgQPGfb1xh1t8AeqWAiVkaAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "42772041": {
+      "schema_version": 4,
+      "id": "mcdr_pycraft_bot",
+      "name": "MCDR Bot",
+      "version": "1.2.0",
+      "link": "https://github.com/MCDReforged/MCDR-bot",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "cryptography>=1.5",
+        "requests",
+        "PyNBT"
+      ],
+      "description": {
+        "en_us": "MCDR Bot powered by pyCraft",
+        "zh_cn": "使用 pycraft 的假人插件"
+      }
+    },
+    "42599971": {
+      "schema_version": 4,
+      "id": "mcdr_pycraft_bot",
+      "name": "MCDR Bot",
+      "version": "1.1.0",
+      "link": "https://github.com/MCDReforged/MCDR-bot",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "cryptography>=1.5",
+        "requests",
+        "PyNBT"
+      ],
+      "description": {
+        "en_us": "MCDR Bot powered by pyCraft",
+        "zh_cn": "使用 pycraft 的假人插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"9109449dfa0e0d66057498deeb580b99dff4b1d273402db69cb231cfe3622d3c\"",
+    "data": "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"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"a0583a4a898d4a5155cff49b2381033ebf8f03fc5837e69a995a421030b0b65e\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "68689766": {
+      "schema_version": 4,
+      "id": "mcdrpost",
+      "name": "MCDRpost",
+      "version": "2.1.0",
+      "link": "https://github.com/Flyky/MCDRpost",
+      "authors": [
+        "Flyky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [
+        "mcdreforged>=2.0.1"
+      ],
+      "description": {
+        "en_us": "A MCDR plugin for post/teleport items",
+        "zh_cn": "一个用于邮寄/传送物品的MCDR插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"2fe5b23351a8ef21985b4f91b3d036ebac3f5bf8cb847b6a90714fc3c9c481fc\"",
+    "data": "H4sIAPm2n2UC/6VYbW/bNhD+K4a/LrH8EruLgaIb1i7A0KRpkWxdhkGgJMpiTJEcSdm1Bf/3HSnqzTO6mPmSyOQ9D4/Hu+MdyyFJhsvBdD5fLGZX8+uLwZDxBId2dHj7/sP2E/2NxjfXe/T1yyZm693dw+P07vl2fPewfjs04ijHVvaX918EV9qMpQWlYT3xK92td0F3WkiyQdpMpogqDCN8y7CE3+WQ8hVhDcxIW1UmoN31bDE51u/z4vevdzR+/jC93X+e3+7//GYgCOiRDAtJjVSmtVDLIKhG1WhFdFZEhcIy5kxjpkcxz4MiqNd4t3l7ZVhW0vFUi5mhY0ZBHFtFAZQqaBTPdE6PdehIN3Ipp5RvARq+mD5oMC0BYauzCQBTBlxnGIwFkwe7baL0OapY+dL+A0tZCgVWkzg5g8QhQBnjCYcykFjwiquIVCyJ0ISzc9Tq4QwRlyvEyB6dSwQ4izcanYOz8gaIN+Bj5yArQBnYOIl3h2r1GJMN2PRstiOkIdM7YUPzEcSsjYnGIUpyG3k2Jg8v9N9eXCe4sbjB/DwwkwNBCwjpQcrlwAgOYK3cua1cd3LA93dkrXliTUPyf9Y4hQ0s0DCs8c6LwOBK87f2+hhCCkVcIs2lF2OPoOz9tAtojHIvYgu0KYlzP2tZoM3GShX4ZU54ksjiVePirMgjl3f8OVvHRkqRFcPYi6YBl0GTDCOJWJz58dXY0n1VZ4hWfkeIqiwUUR55EcB8YMFloDLkMr0OffUxdAbbZ5M49WYz2JZNS89TtIpJe4o1F1wuGk7Ui67GBmXNRhFbFWjlR9eA62tyhfZY+mrm0FXyYVqSqPDPPS2+c+1Gvsq18ONL/BV01dVid5vnRHtu1EL7fvsKPuNv/+E0A77ZrMb2kmOVdt3UK/LuSXJXBnv7jcEG5Q8C6azevUASe27eQIMyQlCEjEajMsOoul5zLD2DrkLa+0HGGdRCPiRljYXCIUfalqipVSyBmpVylHjp1oCbU37Ftdo7VQFNmBeXBfaockKx0px5mr9B90gZ1yQl8Yvq8ZO8PYLynSIsxheI0gvwIE1iAv4I/Y3L2RGmngnbIEFx6GZdIU4x8rxMamwZuJIxwYLynXeq6MBt3EkMbXUSIm2IpuPp+HJ8dTm5epgslrPxcjJ9sj2sSPpSs8vx4nLy48P4zXI+W07HT5X3qKwrNLVCC0s1Xc7mT3XqdGrD5/faA7MVexGorIP4qZVfnpaPKfjNi5uQZpUNO6txyXiOBdzKdZuvyN58TyZv+rd0zAtmDGKGt0hDcXc0WF/vhuh+p7PqtsqQCqsAhXEtC+zGhOTPONZHo21G6A1vyZocwW0d0TZQFkxUXEAda3redqZqkmpFxzaipeT1CwmDgG+TY9IBAh2KaG+IC8zcbhrGqdk6iTFT2D7iQFNkT1jQy9lo3H0lurl7HNxgaPERHdwXEYAGHyvgYONElUi+uSeXm/uPNcH3o8MtroLukt13onjxcEOfn/6Y75/Mu5Vpb5F5ADHZfA1ZorUsUSE0qIL2H6i2OHJFQmiaBJ6mUOv+UxDZs43mgsTG8H+BgRmOJUr18G+Y2BBFIkKJtnYRduNN9+qOpGNYZ9LaxZxzJThFBdVh1U0YohwpXXXwAsucNOdeDnvNvDlvRJhGvSET4V3dJakct52n1JnlYJvPXIRVOGq+xqyOFYb1FnbR865u8dj4yOFf0gEycWwUAAA="
+  }
+}

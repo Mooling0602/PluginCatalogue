@@ -1,0 +1,40 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"4ddf965c8d2e0897a04f4b4b64f50f3caf364d30ac985866582a4bf1ecfe97c9\"",
+      "data": "H4sIADJErmUC/+2WXWvbMBSG/0rwdRM5tpPgwCgrXWFjUNhHBynDyJZqi8qWkWSH1OS/70h2nI+yDqe9Gr0KOT7nOcevrFe6b5xKcmc5cjKtS7VECJdskjKdVfEkETmStBQKcX1FpdyojAj0K2OqpBKecIoVVSj0XW/ue55zMXKwUlSr6M2YqAUadFVygckpuo2q1+GbywLn9ILjmPKt6ZXpnJ92OujwIlvjFNXTiWs4jABh18zIU+lMSIg1DhcpKwz/ANaXTN2ZGwTBYgqBQhAa2ajzM3pMr2+vHr+uwrVVu8Yay2dq2+hOkkpRmYhC00Lb2SvUwy/rD4HBpLIDtV2s2C8uoGEeKTxMM5P9IDgXa8BEA1uhvnKPYUV6JgYqGyR0RkFFSLGLnzKlh49lqxr7AzpakAJNJSWDUV0dDLYuYKbGftEtsYpVIlmpmSiGj3hUbXBCprhgT/g8HFRbit1vg6ttlSmnNXyaw+vbsgaVktU42WzbSRLKalD8TOZJvUHqTUnt1oNkuwJM0wiT3O7dB8wV3R7v0W+fosf19e3nxR3xVXDD/PS75eA0MiZjUnbuAMucUh3BLDnTTGXmWY6BbIgnuUTiB71rCf9LSTvHOQgmkmIN42OT6Xiu549db+y5P6b+0pstPXdlUGUVc+j2t7xwOQ1Wey+HjPs3OCRaGArnfjibhf7eHLvAiYgfj0Ssq5svh6J09LERZ5InxK6MdW94WlSc98cFfTfbd7N9N9v/ymy7DRbtsnFZcpZYXZFINNVjpcEI8+6r0DapswPSYp9MzJ8FC+OssPD2ZpmIqjCGOF/8y0rDpeuv2jspeTFrbrNiKdbwRlHf6cyb5a7eXi/RcxPc/m4PlRhzfvYVvKvvr7BPrHwVr6vvebEgGwPq3oqMWDHykOciox68wh8p8X6FkgwAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "96395593": {
+      "schema_version": 4,
+      "id": "whisper",
+      "name": "Whisper",
+      "version": "1.0",
+      "link": "https://github.com/ltBerryshdo/Whisper",
+      "authors": [
+        "ltBerryshdo"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Send some private message to others in a faster way.",
+        "zh_cn": "更快速地对一群人说悄悄话"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"c39feb51dd4814a93d6d1f0207b3656ca21795669c9d8dd5f21406a307c36f56\"",
+    "data": "H4sIAPq2n2UC/6WYbW/bNhDHv4rgVxuWWI6dRwNdty5AMCDtgi5pAQ+DQUknizVFaiRlzxH83Xck9eg1aS29SSyK/5+Ox+ORx2JEo9Hcu7i5mVxfX04uT7wRFxEsbevo43K9uv3j96tP0Ww1Mq9ICqb9c0JVBtI0xTljy6qd6Xcg5U4lkfBbfTJJN0SbHjFhCrBFbDm+mnvFiIkV5Qdao7EGnE0uJufn51dnXbOerFnv1veLm63pS5BO5DKXzLxNtM7U3PddqxqvqE7yIFcgQ8E1cD0ORernfg1/u3lzbjArWYLcV0zTITKjJc4xkKn8A8MTnbJDU1qag96xYExsEbM88lN+rWwwlK96YlBZ+EIngF7ELnvrDqr08WZZVWH/oR8tSKFPJURHo0odGmaiZV/4EjLhiHmgQkkzTQU/3sSO2uCEXBFOn0k/HKotxVh3vNqqjBw2GJrH652s8O0aC3d7Z0kIdIMe78k80Buk3mV2hT8pt6QV1bAkUWrXrl3V+6Niv50eIqinwwh/9d7/dvsRYvQrRF7GckwQ3unP3g+fcJIYI14MROcSPJVnGYPUmPij9yfwyFMiBa/MNl4KSpEVeFp4NrKVhxxUE6VBeluycwtHrlt56XVP2bl6aRSG9C1Xvwjwrdpg1rDrTzHiwvytll6Iq5sEQhItZH9sh1J0Hu1XNJC0P92qbeYUYoAHrdruHErl8H2h/zLNQlS9unieBmVaHAhulhRRiq44QH9WTSj8OmsHkvAwGQCtAEX5y80wWQ2YYOISZMBE0J+CnXxLKHyVkHKH0stBlhmmAXSREuJhSANokFoOmWNrorRzXAFxX9Q43/2ZFcAvKiQjfJVjsuzPrAnVjr8izyAH2VgiXB7jWtIgH5jGGkjrFBEMMrNhHB5MhjLdhmgHn6ZUDxm31XeDfCjUxOX/wKZhUHasAJ2M6xJ6+WpoRv/qF8rCYFhoGYBf/JQRnVTOyIiEIb4wer8ICJ6uxuNxkQBx23oKcshadXK7B8kwwZNeb1JRAfD8khJtz+ixNTHCQzsTJOpvZU2oY2Dodt6Z8wwL1/5Aq+7wUspAacGHzEuN6JC50DSm4XeVJy/DO5TiraI8hBPC2AkGmaYhxbjFKrDcDQJgQ7YCI8chkBTKeoQBGbJhVYDCL8+1EWRM7IblmhbDLleJZQXWPEQb2nQynZ1OpqeT68ez6Xx2OZ+cL+yFQBZ9pdd0+ng2m19cz2eThYstlbzU6Wo+vVxUWbi0HX9+s1Iyg7JbjEpasl8a0fwVUcgwqo6rzOrvbfjxJV2ChViGp4HqHkXRZ/N7etE9HIQi58ZHE2zeEh0mh43VqcJwHnY6cRtiQtTSrWhs1zKHsi2T4guE+qC1ySOd5i1d0wO5Pb40xaAVUxXmeMw2NwXNG1frtQ1NqZSiuoLimBya5Bq1hIgjAes0iQx4OZru0GkIXIG9JMOKzs53xk5n40n7Ju7uw5N3BxwkYd5DHqDIu3dCb1N2VVn0b3mldfdwXwFeXzXlx5Xf/mRzAff+Nrx8vGNfFp8vnheP6zcjU/wTc5FkNoI15pHGs1QtNaQZ614AbiEojyBLU8OIOMZj9z85lR3faJHR0Dj+r1EaRvLUXQbYbIuP5RWBS74cQkliPfobnzZU0YAyqq3XMuuWukQv3dty+0EAlo8RxCRneumqIANKifs2xnhK65goRp1rkBPXT5NOk0kI7XFJ6oK6ec9Y6bK9LajTbOnWrBZr4NUy4qC3OIZOnLRPsVX72f4/X22HINgVAAA="
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"580fb073db26f588d2a4838d0d95e54a822b368d28923f9712fd1fdf447df110\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "121923560": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.5",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "401U"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
+      }
+    },
+    "119198583": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.4",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "401U"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
+      }
+    },
+    "119198683": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.3",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "401U"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
+      }
+    },
+    "119198835": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.2",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.1.2"
+      ],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
+      }
+    },
+    "118004669": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.1",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.1.2"
+      ],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件, 可以点击召唤bot并让其执行系列动作"
+      }
+    },
+    "44238413": {
+      "schema_version": 4,
+      "id": "carpet_bot_manager",
+      "name": "Carpet Bot Manager",
+      "version": "0.3.0",
+      "link": "https://github.com/FAS-Server/CarpetBotManager",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.2",
+        "minecraft_data_api": ">=1.4.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A carpet bot manage plugin, able to spawn bot and make it execute actions",
+        "zh_cn": "一个地毯端bot管理插件，可以点击召唤bot并让其执行系列动作"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"a0218ee311873175a381cf4fc057855b73711c85765621ba3784fc93c31b94b9\"",
+    "data": "H4sIAPm2n2UC/+2YbY/iNhCA/wria5cNr7sH0ul67e2triq3VY+qJ6oKOY4hXhzbtR04iPjvHTtxINyqLEs+VSutWHBmHo8n47FnsiaNmqNGbzgYtoftXu+q0eQiIjM32hx/uFs/sF8Yvh9u0dffV5gvtw+TPwbjD8v1eDt+27TiKCFW9mekJDE/CTNGHC2Iss/mKWMzL/Dx/ZfWF6JWRAVPyUpFV8hYyTlimsCIWHN4NGpkTSYWlFcZVsUZeTu8ve0POrffWb55WA430+7HFH2VcXTPVuEjHnze4vbnyV3PqiOYD6lZqpjViI2RehQE+ai+XlATp2GqicKCG8LNNRZJkAZ+vnert31LWaiCk09sh46Jkha0HAFIHVRXEpuEHRtyoFIVngvGxBogs/MmCkrFPYXyxcsooJgFwsQEHAgSO+cKqs3ZRjmlzP0DFzqOBncqEp1LKtTALBs4uyxQRIocmIYaKyoNFfxsAyvKlibUAnG6RS+igbKDWNvOVnZKVpusICDPVs+1ssBtNbzZ5XZgQlfg7Jchj9Qt0Wyk2+8PB25yL4EaMkNR4nay2+O7cyL/yaQRkfLVWMB73kDRCnFMGqEwjSQXvGqsAehGELai/kED8ahhqG5hh3YSOpVSKJPvELU8SEf/7Rn3ak6Za4mnXHwSFDiKxS3J5nKahWT20+8+DPsbhUIhI9Tl+Aotq/x0sxmCkstncRSXSIWowcOO4k4YrVPyvK1xmupgutyFPE3CInHWNMF+DyKt6YITcjmzJGVBmedDBVssrgHuQVnxLY8ItKghIFCeZkMmwstpIBw4UhboGBVnnZnVYqllW1AVrci8HrQF7dFG1RETzmTlYsKD4ew1EB+Xsz0oyDyaIb5I4dnl7JLkLxkLtCWqFpsLVJ4/uVE0TGtKn3vYwU0mrMXsPev4klQXW/rDH7QSaurwh+NUN0tdcBvX301gB2rJzh5Uyfz5AVM8quuEeXKmooqpJyQtKMh+kMjE3kkSKVKHjywnyEIE18Pr6+ssJii/liRE1ZEDcow7IxWO4ep6MTHzILiXJci4umPuTI6gEGECRZdbXZLKmKnrOlKJEQn1+uVgR6lwE8qINoLX8f5KVGUGLgydU/ysmuz0JBVa9k5TqCiuEGNXEJyGYgpxD/VvcTqFhNVxNFkMLAklpKjLGEF1HKgelAXF/T4ikolNPTntgOXSgCLIQDGIjKV2291Oq/2m1elP2jejdn/U605de0RGValeq91pdd9YqUF/1O9N81jU8ZEQoG4nncGo14G/qc/+xRrg67NLR7tId+Tp+ED9x73y6BnKmEEUvqx0Ledf8ZfXvrFIiIQfvuuk6dZ+H95ULzdYpNz60A6vkYHr9tGgvxVZzm8bE+cHdoz0LM8QMG5USooxqcQjwUYfFMZ2eJ+gKtJruqRHktJdwI60qcYpFBq2wVLq58Wyt7Tt0ohSwjfsOGSZfRaPDohAQyGrDAlJeLGcCpFRTLgmrskIJbB1QZK/Gt+1HH+aNH4tpKxjZfTNtxg/TU43+4oJdOCxhy1KfDO5Z4/TPwfb6eRu27TtEGR7a/YkWUKC2fuC6pkhiWTVBumahMXdZ2aLNDGfQ93wT0pVZe1GSIqtX/9qhsIZkeBItSRLbVP1b/i9opqGlFHjHCDTEKwu2xWFpw48WIz4YCrCKCJzlDIzyys550lEXShJohJavt2sWekBXeVyBlWG7OY/XIKieYDunzNWeGfnmgiJnOX70Ygl4X5LQFAZkdiYBRsMdaZnu6MW3muH+bXD/Nph/v92mDkxa0hklbx/WEb78e7uX/Mu5ggNGwAA"
+  }
+}

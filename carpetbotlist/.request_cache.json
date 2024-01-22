@@ -1,0 +1,77 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"aad85ba4d00458fd807e558df0372e1026c9535c4e3e47567eeee5ab2bb58d69\"",
+      "data": "H4sIADFErmUC/+2ZbXOiSBDHvwrl61WG4Zmqq63send1DyaVK5O7db0yAwxIDoGCwUStfPfrGfAxicka9RVvUJvufw8zQ0//yu+LVpnHLUdqjRnLCkeWSRZ1woiNS7fjpRM5p1layF9onD4MaJ7+QeNplMi9r92/2l9JnlH2JWV/RgUDx5iSghayZmHdQjZqfZJapCgoK0anSiFX+jxTmcUp8XczVdbiqNkWnxMyoZ9i4tL4iaces0m8m3gj4Y+kYiSUp7ijdBQuHPkguczOZ7Nk4zQH26IVp2GU8IQ76qswQ7VUVbEw/E5Sn46EsdXrXhu3/1zG3v23+VW3N+/1w5lYpylhJH+2TsK6nL2yoLmXJowmTDxXKS9zfJ7+pHGVMK91qmRiWfauPJd8thY/PqU8IkhjsIHc6ICU8ip6LRUl4QekIHohp2xMYVLBTeyTEJb6sOGJyIX4gLkVYgXMc079g+TqWBjgQwJjW4h3olIt3cLLo4xFaXLYULcUuGSahySJ5uRwSVAQSuLNPUhBRHIJOoXde5hGFbqQszyaEm/2VI3Io9EUVuEDujsaXJbNMsp1biBArErE6Ij4E/HGByQu6NPua+0ZN5PbYvD3L/NB/1rr3d9ove5/D0KMhCNesLjfurTADggpG8GwJhGLirFQ4YUJdx75/WXEVp1qi3ApSHNp09fPScCWI4PfWU7rgrZh9HJKGDwl4Z4tjLDSRlYbq31kOApyNDzgUlnpxjCa1/wMR7UH63MFPL4f//yqtGVNRYZiIGNdiGvD7tT/PLuKf4/dX2/HHr794qmXsd+9nve63x4v7y/w65NZLUZn4vlikcV5Al5JGcer84w21b6p9k21b6p9q34XR0tvkmVx5Il5llOPUdYuGJTYSb1bmHCqi4hfyc65TbFVXsF82AyiYfbSMmHCbltvlWnTQfqgarb9vV6m8HLz9AGeabTKdZweeSlXN8ry61X16d/qpHNJHB+LQWq5jS59HmXHTFDLbSRwU3/GldvSsNRNbEl3aTLKYjKDuY2SIL0Du0axD3fdwHZTBl8wQXBVDB1uBVQZlnBwBcPSCnwXrpbmwdWmKthNIDXYYCfgQFDGtnlSDqxTnIkDt7OdhQPRuv2oszcc2HQGTWfQdAbv4ED1qn8xu+p7L3Mg+hgHomNyoGL0FcXBlqNaezmw8lNVR7POxoFY11VV3SjEteFdHDi77N/Mob4+vMGBqOHApto31b6p9ufiQE2xlBc5ULW0N8o0L79oDweuvZTzcSCSX6+qJ+dAdGoORLscCFBHAfBs5Et3VZzUS31OgoaKTM6DVJPu5IoSpcfHR6kYE5gx7gGUyPFPCbRhaRoWXHWkiRiXgIX6HBRdAtCoBwjDlaqWJA3zYVJlNuG+qWNrMxd8txSOmabQowHZGskq2sCGx22WwUevEK6n29U44HQLYeufCEZNDEPWTgqjVYpzwehWtjPAKNqC0Sp7A6NNe9K0J0178h4YvZz/pvTuQ/QCjKKPwSg6MoziPjKheXE0cz+MVn76ss85C4xiEyvI3oDRyvA+GO3de7Ne/0LfC6OogdGm2jfVvqn254NR1bBe/lNStZW3yrTuqHgfjK68tHPBKHoJRtGZYBSdGkbRcxi1EcdEW9EARpdn8B086P/52cQfXSoAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "43061606": {
+      "schema_version": 4,
+      "id": "carpetbotlist",
+      "name": "CarpetBotList",
+      "version": "2.1.1",
+      "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "authors": [
+        "ZeroKelvin"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.0.0-beta.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Help you manage your carpet fake player",
+        "zh_cn": "帮助你管理地毯端假人"
+      }
+    },
+    "42553330": {
+      "schema_version": 4,
+      "id": "carpetbotlist",
+      "name": "CarpetBotList",
+      "version": "2.1.0",
+      "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "authors": [
+        "ZeroKelvin"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.0.0-beta.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Help you manage your carpet fake player",
+        "zh_cn": "帮助你管理地毯端假人"
+      }
+    },
+    "42272109": {
+      "schema_version": 4,
+      "id": "carpetbotlist",
+      "name": "CarpetBotList",
+      "version": "2.0.0",
+      "link": "https://github.com/BelowZeroKelvin/MCDR-CarpetBotList",
+      "authors": [
+        "ZeroKelvin"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.0.0-beta.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Help you manage your carpet fake player"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"a2b8f1f40d2f6d65e6aca7c4ac3a77ee1902a8f10150033949fc9570338e9d0e\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/0rqr4sj2bJjx0DRoc0wYFvSrkiHNstgUPJZYk2RGknZswX/9x2pN8vLNtfhF1s68Z4jj8c7kkWPLnqzi+H4ejK6GY7Glxc9LhYwt9Le3e0Pm/fsJxb9eLMjnz+uI77a3j98Ce5v8f/20+ueaU5SsG3f3X7svyMyA/1W6F+o0ubrMmdsXjd5C0xsHkGKn4GtKfeeV8kkXRNtFJaEKUCJ2HCQ+F70mIgpfwZl9GyXr4NpEAymw+Nx/Hr92+d7Fn39snt/e7e7e4i3RoWgISLnuWSmVaJ1pmaeV0rVVUx1koe5AhkJroHrq0ikXu7VNt6sX48MJZYVpzRmRMfEjFa0EoFI5T0zhESn7Lg3B3rPaCwFQxni5meY9BrtFkV5/AIUahee0AmgU7HZ3roH5/W87lnNwv6hby1MoZ8lLM7CVbrYQRNP+8KTkImSmocqkjTTVPDzutohGKSQMeF0R85HIsGSTC/PI1hNg4A1Ru95jFK18OyqjLb7skcR0DXOwgu4RwyD1dvMpolPqGBnhWqYk0VqV7zNBftvXiP/kmMW0MyW4Tzlo+Vk+ZRPxsPpxatXodAMG1485dcTGKN44odP+XgS+CgJwTQk5nfsjyaoCiHB5+EAn6fT62m5luTqIIH9t4PsNJ3YcQP+P4efyvMszFBXsHUGNazC/NZLNsLMQEIhiRbSmZUOtOi8WqMaSOrMmIXZ/CyEO+9bmC1cSuVw2lo6GW6Zqlm9PE/DKh27tdOuXqIUjTmAM3QDLLymloSS8ChxZ6PmFdVTGTskdhc6pEziIROhMyjqeBZYeCohVZHVc5f9NiYMr2tBwtKpBcNrLWjpMHrsAKSNnpqP9V9jJDkzUfO8orbACI9zErsz0QDrvU9MdiBdjqAilomaa0nD3G2ebpkHO63Q5SBa5PFezrGJcr9gPZWmVDt0ksV115pjG2Y9/MOOEbisBjWvU3DK8lZ9clzfnjVYndacxrDhecV3GdFJ7bmMSHDoOIPzipDgLvfq6qpIgJTbpxSkw4RS0my9llGCG3BX4KLm4aYyJdqerpZ2AAs8bjFBFs7G0ACb6HK8bepEU5Yz5oxvYR18ShkoLbjDKW6IHUNcaLqk0UkH0pNtdaDFG0V5BJeEsUuMZk0jiuuF8riqjSEwh4XR0HCAJIXqTMqAOCzuNa/wqmPMAjImtk7T5QHS5hQJROOJmGgDH/pDv++P+oPpw2A4C4LZ6ObRXi1li26rQd+f9gP/wR/PgtHMDx7LqFXJYaOg70/6/vjBH86GwcwfP9ZlphoKPn7rOdoM2RZclRxQvm8Zs9MZEcN4fdGpvunNmr/4diARKWS466pv8xTdmedg3N2ERSLnxr8DFG+IxnPEkbDevRnOh61Oys1DQtS8zDMo1zKHSpZJ8RUifSRtk11HvKEreqRut4ntnYNVpirK8Rhl7qTaL+UdQt3RwCYhKUV9D8oxR7X1YXGgiDgSso5IZMCr0TREc/nKaARcwQHOXA+a4rDChND2nKq5hjRj3QvfDYTV/mduzoBiucSjx585lR3bWmQ0MgP7/Q98W1NFQ8qo3hp3Z3mIXWhuTKpxHvS26mc9b9WMLWBJcqbn5WmwudYeXv1lFxXIlDbuLHqduynjRkK5Jh2RWYeHXZa0jIf2O2OVN/b22iLN5uVi0GIFvI5ADnqD4+hM2uFWuom6/d8u5UCR0RcAAA=="
+  }
+}

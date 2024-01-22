@@ -1,0 +1,84 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"98a31c2f01627bfebdbf8a2933385ff71f44be447ad20bd450c28d608eb67f12\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "88875338": {
+      "schema_version": 4,
+      "id": "chatbridgereforged_mc",
+      "name": "ChatBridgeReforged_MC",
+      "version": "0.2.7-dev032",
+      "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged",
+        "pycryptodomex"
+      ],
+      "description": {
+        "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+        "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+      }
+    },
+    "58518201": {
+      "schema_version": 4,
+      "id": "chatbridgereforged_mc",
+      "name": "ChatBridgeReforged_MC",
+      "version": "0.1.1-dev024",
+      "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged",
+        "pycryptodomex"
+      ],
+      "description": {
+        "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+        "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+      }
+    },
+    "54058513": {
+      "schema_version": 4,
+      "id": "chatbridgereforged_mc",
+      "name": "ChatBridgeReforged_MC",
+      "version": "0.0.2-dev022",
+      "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+      "authors": [
+        "Ricky"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "mcdreforged",
+        "pycryptodomex"
+      ],
+      "description": {
+        "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+        "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"47a2f430f896c64df46410d6c4fcf80e74a3ff47553addb3523a96471edc00d0\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rgTxuWWH5L6hooOmwJsgxp2hXp1mUYDIo6W4wpUiUpe7aQ/74j9WZ5XRJX+pJYFO/h8XR3vGPWY2Fv5o1fjabTV5Px6MTrCRnC3I323l1cbt7zXzm9er0jnz+uqVjtbnfXk/cXdPBud/2mZ6eTGOzcnyNiflIsXMJHWEi1hNC+XaScz8spH4d0tf3F//rMRLE1MXbegnANOCI3AhQ+Zz0ul0zUBDvdKTianJ2Pp8PJoda/nf/++ZbTh+vB7d2fu/cXlwMrQpBP1DxV3M6KjEn0zPfzUd1fMhOlQapBUSkMCNOnMvZTv1zj7frNxFKWquDki9mhQ2LCClqOQKT2a80jE/NDJfam1xMXknO5QeH5yxfwK6GawMTyeAIKZb40EaDB8O2j2zrT5ihlnEDm/qG5HEOj6RSEx1AKEVTHOsRj5itIZA5LA00VSwyT4ijFGoKWhG5IBNuRo0ko6ABWp6MEnYCVhDU621GiuUTmu5Ch28d8fQpsjYY9Hncgamlmm7iI/YTznKGZgTkJYxeFLj4fX+rJ/xPuIVQfwAV28cqTC68WOPEYhqIi1E7zNoj2nEt6lDOr6nc6pZFHtPeOCaCKLIyHCq9BnXgh01Sq0AukOfGkKuRMhH6tv+/nwaFWe9nmaYO5r/X0jizvObs/g/Edw8JWsG3LsojM/i1Dj2Jgk0AqYqRqC2+wssajW8sAiduu4RguY0rZ2rKO4Q4OrVN4WZQ8x3QoXYWjSOOgyJSd4OtwJFqzpQBoS6w4mV8l9UARQaPW6BKTFb9yLyDL1k5A8vwacBm0ZeFU33EyX0ekONLMvAMtLdlimmAFiy7AFlODjWrvB05d5fygxOIha9An2pJLjJ+VYE7EMiXL1uSKU1YRS7ID1YG+BSjPkMIoFqSdJMgatVeqBB2oXJMOa6BuyPmh7MwRx8y0t4SjNEOjG7T14//g7UAH2bfENPJ6fngUr7o5Pb66TtGCdOGEFuNnPyTERKV5EqKgvXUsxc8CgrVgv9/PIiB5mRGDah/tOcSdfYpGWJ225GUlBp9jYlwTsXDqhthVcEnCthpXnMpPuikvGn6RYDvdFusYDWrMOGgjRfuvVoEafCENWzD6oubquSUarOytZoLCCeH8BN3RMMrQz7HEL06eAHj7Y8dCcDskhqLR4kDaH5QlJvOL6jyEhMttF5lrj+QCXgEx2N0RY5mjwWh4Ojg/HQzvhuezwWA2Ht27O4wkbM4anw6mp6PJ3Wg4O5vMxuP73P90dDBphLS74evZcDobDO/L/F7sAH++sCe0G3THmY72hH+sRWfPilKOnvct/Wi19lp8azsbyRgSrE7KKyHNdvb3aDpoVitUpsIabzzF8Q0xWDIfjpaFjkV92JooP4sjoud5QsBxo1IoxhIlH4Cag9E6GTWGN2zFDsRdRVV3wU4YW+cUOwV7NVK/ydvbUtOJSxtKyfI+TWBWqbN1uCeIOBLwxpBMQBS7qYj26pEzCkKDu/PDxtVagC8TfjruD/avGq9uP3k3oLGD8a5AgCLc+5AGKOzd5ABvXUjoJPynuKi7ufpwU4Kejq9CC+031t6/X6Tnd1f84f6Ps9393eW2Z+9CiL00s6fLCtNPbWOm5wbihDdvNjcQFBXQ3DZkcrHAXuFLylTDSkYmjNpP8BcW/Uz2/saxNdMsYJwZZ5zE7bq6fCi+y551C7uWjla6WAgLknIzz1s1S4qJNvlVTwIqZtXXz3qNWx/71QkThjSGbFbY11ux3H3r95wXJnl0dwNxMs+D1cgViDJmBJgNbqPhY/tlczk+fPwXz/82e7YWAAA="
+  }
+}

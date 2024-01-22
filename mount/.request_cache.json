@@ -1,0 +1,87 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"9595c95a54f9da5356186f45d4610ae778f71729ef70dfbf27cb56dec7d03d37\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "142146176": {
+      "schema_version": 4,
+      "id": "mount",
+      "name": "Mount",
+      "version": "0.3.0",
+      "link": "https://github.com/FAS-Server/Mount",
+      "authors": [
+        "401U"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.7.0"
+      },
+      "requirements": [
+        "pyyaml",
+        "jproperties",
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+        "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+      }
+    },
+    "96370341": {
+      "schema_version": 4,
+      "id": "mount",
+      "name": "Mount",
+      "version": "0.2.0",
+      "link": "https://github.com/FAS-Server/Mount",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "pyyaml",
+        "jproperties",
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+        "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+      }
+    },
+    "54492937": {
+      "schema_version": 4,
+      "id": "mount",
+      "name": "Mount",
+      "version": "0.1.0-beta1",
+      "link": "https://github.com/FAS-Server/Mount",
+      "authors": [
+        "YehowahLiu"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [
+        "pyyaml",
+        "jproperties",
+        "mcdreforged"
+      ],
+      "description": {
+        "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+        "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"4f8b536ab5b2258e038620b702fbd0ceea2fa4159a5ff9ead228e49febb58d13\"",
+    "data": "H4sIAC5uqWUC/+1YbW/bNhD+K5q/LrbklzSzgaIbkNZf2jRbXWzwMAiURFuMKZIjKbuO4P++I/ViyUuymv425Etinfg8PB3vjndX9EjSm3mT8WQyng6vb668HuMJDq2091u4Wd9+nuOvt9Nfe+YVyrCRf+I500awyikNa+mHX770v2C5xdJvFghJtkib1ytEFQYJ3zEs4bnoUb4mrAs0ELv1zfTmZnI9PNHn0+37/efNdL8cfcjRHyJN5nQbPcTXd49xcLd4PzZwBPshGeaSGkSqtVAz3y+larAmOs2jXGEZc6Yx04OYZ37u1/u9276dGJa1rHjKjY3olFGQiq2kAErld78k1Rk9VaQF6S5ecUr5DkjC8zbyG+CRhbC1GwsAC5/rFIMBYcXBmoIofbZSFlTYf2BCy6PAnBIn5zJVMFDLOM6h8CUWvCTMIxVLIjTh7GwFO2DDxuUaMfKInNgAbEmMbmeDLcig8RYc8mx4iSp8G2rx/lDqEWOyBWO7UZ7ADaPeCxvkn1tmsodANA5RktlItjF+OMfzj5kiwc15NCnGy3KqiZfFnrKrPcI09zjDIErMEzgHi/EPpefLTSvNvPzF1uRPqmFo/steT6N9CzUcG7x3pDDIwvytgyaGsEQRl0hz6cjZoSg6j3YLjVHmSG2hNtNx7mo1C7V5X6kcf5/DPkNlGVQTECzPoiqHXcJ6jAGkFFkzjB2JGnjhN8k1kuDAqStjjS6qX+V5orXrcaIyi0WUR44UsMK38MJXKaruDx2662QIDbrLJ/HqAj6DPvJp6XyiVjlpT7Rmg4yk4XQdCWu0X9R8FLF1jtauhA28voHX6BFLd+0qfJmamJYkyi/JTEeG1oUeuSt4JDgtEC4iFPVtB0szop0/14K7nnwRo/G/f7EagXu2q9Gd9Fmm5urVRbn5SfqqFL/AiwzaL34USKe1DQSS2NkEBuwXEYJqZjAYFClG5XWcYekciiXW3iMyTqG8cqMpajSUGxnStiBeWeUSqJApR4mjfg28OfGLruHOCQvoEx3ZLLRDlhGKlYYq0PUgGnyHlnFNViT+rgbgGeYORfFOEShOrxClV+BPmsQE/BM6rCqvR5g6J3WDBeWh8a7KfYqR86VTowu/KjoTLCjfX5BEWgQ2GiVGGroJpA3VKBgN+8NRPxgvgtFseDMbv1na/lok3VXjfjDqj4JFMJ0Nh7NguCw9SaXtRZN+AGw/LYAnGM9G02WdWCvF4efLvYf5HHtZqLSF+fmImD2HiCn40BldTrPTlp3ZG6U8wwJu8XoUocij+T2ddC/12K6feSMQ75CGyvBEWFcDhud+r9PyUkuRCsuYBbmWOa5kQvIHHGvV6qqM+JgnOqt3ZENO8LbuOAETFedQB5umu1lc9ly1ooENcSl5PcRhkAGOWTNpMQIbimhHxAVm1dc0jGPz6STGTGE7eIL+yh6zoP3xIGgPtuZ3X705Zlgi6t3nEYC8jyXQ21ZLlUi+VVOh+f3HmuDlMKk2V357y/ZYK36zmNOH5e/Xj8vF5m3PtNDIzGNMkt9AyjjaiqhQ40zQ7lBth6OqkghNj8FXKyiR/86J7NhGc0FiY/c//4KnLVEkIpRoawxhv7bpgKtzaFmzsmPtV5VHJXiFoEcPy/7DEGWIWK8SWGakOemi15kRXJXrNOqITGy31ZWk9NXje0orSxxs45qJsAxCzTeY1dEBDqZ5ZtwXdNDEql4cTkY8rxPI1wnk6wTy/zuBZFjvIJF1bpV2f1nLh4d/AD9Pv88DGQAA"
+  }
+}

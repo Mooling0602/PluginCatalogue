@@ -1,0 +1,55 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"095f6b68f21dad6f2fb67f9d20f241f9d3313db1909a3536fdbb5b8be4513713\"",
+      "data": "H4sIABSrrmUC/+1XXY+bOBT9K2ye2mgCGJJAIu12P9pU04cdaTptV9OukAMOWAGMbJM0E81/32sD+erMtMlkH3bFQ4Ryufdcc2wf+3xed0qedsZGJ5GyEGPLwgU1YyqTcmqGLLM4KZiwPiVUkr8IZ9b7hC0vJYRTggURFnI9fzhyXbtzYXSwEESK4EyIVgWngMsiZTg6BK6i4jng61c5zshFiqckvVedEpmlh3128B9Hlji2kOmYmggaQf2ml2KmlAnjEFx3UhbTXMFvsDYVo+Fo5NmuD/9zFpFABzsfgnn8+ur3ML7isWZ5gSXm37Csow0ZpSA8ZLkkudTjLq0G+9Xi575CiXmNUzXRLD85bwpyh9pjyFK5M5ambAkQwVFtrE3dFoTm8UkgULe2mEwIkAcJer5jKuSxQ9I1a/0A9jSMACY5iY4EqqtgUMscxrPWy7fCK6ci5LSQlOXHDm+vVoExHuOc3uFTwKBWY+iNdWStrlHFZAHr8NjqqmhtFZwucLi6r0YREroAnk9CPKhWgHJVEL3HIFXzDrkBjjK9Q2c4FeR+fzNevwnmy9dX7/rXyZXfv/zTi99rHBwHSklUykYFYHZjIgMYSkYlFYl6mWGAVpCHyRHHM9k0hf8FJ7W27ARDTrCED8Aqs+PYTr9no56Dbuzh2HbHjnuroIpymkK7R/KQM0b27VauIePzc0+BCslC/aHvDtyRt9XAJnLA4m97LC4vZ5NdUip4MwsjPSlanSGel2m6OQxIq6atmrZq+h9U03onBU02LoqUhppPi4WSyJ6QoHNZvRKkTqo3fVTB3qlY37X7SjhhuvXtMGRlrvTO+45QIjR2vNvqWhk9meXrrClnS/igYNPolOthU1zdEa1dhbv/uzorpjhNT7s718Xb++cdLU5Hq4u3aFMWrRRMd0a/ggpPpREmJJwbhHPGv/AvefWCk4wtCDwKzb1RcJYVUhgvbhKcz8WF8euEcSLkDSdEGD+9NGhu/AiHRakGo/qo3wsVVb9PeGX0fjGqpJfN6253AunGH9AyJnA4dLvjH2oCwQJzAh+NTNs0zc3HZ7BU9U5vlheCNfxs14SQ43quj87nmhrEf8U1HYCf2zWhXdfU9GpdU3vOt+f8/9E1vWUf55NvXRM6xjWh57gmt2d7PXt4g+zxANzQ8DHXtJs3aNzV+V0TGvjI9v3+jgbWkadc09vB6t2bQ9dUH4ytdWoltZXU1jo9Zp1AXx60To7nfk8vQQedh83Tg2p5bvOEavO0J3TndFDorA4K7TuonjFRTuka5lH5pBSHpHJR8An/ABnJAMmLGQAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "115810884": {
+      "schema_version": 4,
+      "id": "showshowway",
+      "name": "ShowShowWay",
+      "version": "1.1.0",
+      "link": "https://github.com/WhiteXero/ShowShowWay",
+      "authors": [
+        "WhiteXero"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "获取玩家的头，或者展示手上的物品"
+      }
+    },
+    "146835397": {
+      "schema_version": 4,
+      "id": "showshowway",
+      "name": "ShowIt",
+      "version": "1.2.0",
+      "link": "https://github.com/WhiteXero/ShowIt",
+      "authors": [
+        "WhiteXero"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.1.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "获取玩家的头，或者展示手上的物品"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"fa71f9bd49bab5ace0fc354c0a681ed6749ea51e32e03ab3cac0866c6d12ccdc\"",
+    "data": "H4sIAOS5rGUC/6VY227jNhD9lYVfm1iy4zqJgcUWRV/alxTbXbRIUQiUNJZYU6RKUjYcwf++Q4q60Jts1/RLYo14Doczw7mondF8tnm3Xi8fH+7j9f3NuxkXOSRWOvuY7Ipfnn5bfSyfDjPzilRg5H+U4vCrNpJtw1jSi/8sqYa/QIpoXFBLuifavN4SpgAl4sBB4nM7Y6Kg3AMahN36cf34eB/fPfj6fLb6/JwVT7IwSwlSE5k0kpm3pda12kRRJ1XzguqySRsFMhNcA9fzTFRRE/XcH/bvV4alkI6n28SIzhlr6tg6CqRUkad0qSt2rscE4a3dCsbEASmSi7aJBtxIQnkRRIK4NhK6BDQeLjhZM1ClL1XJYlr7D61naRRaUkJ+IZFDoVImOk5tJKEWHV+TqkzSWlPBL1XPwxoyIQvC6QsJIUOs5TCaXYq1GAOGPcbhpegO1Eb2LmXHU6dFBnSPdg5iPEMbQn2s7SX+jEut3XFtQvLK3lB7d08XxPkkA+Qw+ABRHBOGDV+5m+SEb2tvrfcqt6H5v7O/jo4s1HDs4BhIYZCt+dvHfoaXi6RCEi1kIKdH0XqPdgsNpAqktlCbrIQItZqF2iytVAPfF3xvUFkGNQQ3b6rUZaJrWMeAJkrRggMEEg3wNhpSZCoJz8pQxh7dul+dP0kR6k7S5aOUiTSQAldEFt5GqiSuCugkXCdDaNA+n4TtFXwGPfJpGexRq5y0Hu3ZsOxo9G4gYY+O2p6PEV40pAglHOB9IS3IC8hw7Ry+S01cS5o212SmkWFSmNNwBUeC80J/FWFXauyZq4rq4ONasB/JVzGa+PuK1QjCs12P9tJnl5rdq6ty86v0rpm+IooMOmp/qIkuexvUREKwCQw4alOCLcp8Pm9LIF05rkAGX8UOa+uIzErslcJo2h6N7UZFtG1st1a5HDtdJkgeqN8AHzx+VRn2PFxjjxbIZqEeWUUZKC14sCMGvEfLhaZbmn1XJ/8Gs0fRflCUZ3BDsD3FeNI0oxifOCe5vJ4CC07qBovK45TsWncGJLjo9Og2ck1nDjUTxyuSyITA3kYJOLDnCdGGahkv727j+9t4/WkRb+K7zd3Ds52Q69xftbqNF7fLxad4tflxsVmtnrtIUuWri9abxXKziJ/7xOoUx5/fHijMcWyxUOUE89OI2LyFyBjG0AWjy7DTnl848JSighqr+DjtKPpinu79qp6JhhvDxCg+EI2t4ZmwbwfM3r8fddlVtZKopLu0KNeyASerpfgXMn0mHfOEJz7QHT2D275jHMksmKqswT7YTM/jm27o6hVd2Dsupei/w7gzu8SXT4BIR1LmiUQN3J3GPzrNgKuJCYn5bGGy6A7v5Kg5VYmGqmb+J6YDpK5UJ6aJF9st9qD/NVR6e2tR08wc7O9/8GlPFU0po/pozF03KaowjJjunBNtz/zmHnPYkobppGvwDVFFqPVaDbKigynbmTdZ33TrNPFE5vJM1ZW0i4XxPWPOEic7GVZ10kW5Fjvg/bcsDvqAZ/AcNu3dBvnpC4VQ9sUNFAAA"
+  }
+}

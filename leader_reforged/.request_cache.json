@@ -1,0 +1,165 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"5e7633fc843077fee444eb1153b10d39a192eca144340787ff6e4f98b47e85fd\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "62033448": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.1.2",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "61114588": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.1.1",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60208791": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.1.0-patched",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60207466": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.1.0",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60187180": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.0.3",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60036293": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.0.2",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60003579": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.0.1",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "59966226": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.0.0",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"a737ef72826662c9841a77f83e50e4db471a53c5eb2d0953c50236f1fbe92de9\"",
+    "data": "H4sIAPm2n2UC/+2YS2/jNhCA/4rga2PLj7xsYLHNYov0kGSDbYoCKQqBkiiJa4pUScpuIvi/d0hRLyfYdVzemktikZyPo9FwhjPViMSjlXd6MTtfXl7OL068EeMxDszo6GuwTj9/+fXT/I5sR3oK5ViP32AUYzH+ihMuUhzrqaSkNGjmbwnDkUCJGl/d/ua/sroQZIOUXpsgKjGM8C3DAp6rEeUpYS8oWsooNZvOlovFbDodqvrFqPopu0tvrvRaBHwkglJQPZspVciV79ejcpISlZVhKbGIOFOYqUnEc7/0W/jHzYdTjUmFBdW76KF9ZEEsrmYAU/ovVM9UTveV6Um9WJ9wSvkWUMGbt/Nb2Q5EWHo0CGQrn6sMgzVh0c6YhUh1jGpGrjL/wKIGJcG6AsdHwKwkKKd9Z1f5Ahe8ZpahjAQpFOHsGDUH8hoIjosYeUbHAkHecLSGx8gbOQ3AG3DWYwi1YOWbkxc97WptIkw2YPujqXsEDVVPhYkBX3omM9+EKBygODdn25z63RvPxWuBJMbth9KIK0+SvKAkITj2EIs9Ydd6G1AeFnnw6NWcEw9Z9/YU93Ik1h7yqJma1CdHrHsB6vvGMR/ox+pq5o/sfADKNxwNXOMnFzyNqfTf5lRGcPRRyAVSXLjYYMCrBo9mP4VR7mIfwzEBl3MnljYck3ykLPFhJ+UQrsHJ9liyMg9tbHW2RXcmkZQkZRi7oLasym/TQSgQizIn+AZV2V+1d6DUiXOgOgqHlIcueLDcN6zKlxmyiVEFjrTVdI0awiGguYJrVAdXwo1/GLWF8Y8GDYlaga+4oDcov2rgFLG0RKkTestqLiYpesbCkd4WVkdXpgQJS2fBtcP1rj+hI9U72v7dyh29aK4JIJcT5cYqhjQ8Pu7w2s9fbKEHHEXvBjXIDXUSslPustCre9nKyJWDapRf/VQglTWmKpDAbiylSX4VIrhUTiaTKoMVZpMcCzeRoQaZXCqiDK68DphVg4LnHClTwCRG7RgqGspR7ELzltX6j7vry8BfipJSF2jDGZBzQrFUnLn5ki1ssAfjCqqG6KAK75BtBrzqoyQswidQcJyAqyoSETgHUHnYDBZi6iZ9aRC8FsqxLfCgnnGTeBtU5dsKIcYF5U+uol2PZoKDwEhBWYmU5s6n8/l4uhjPlg+zxWq6XJ1dPJpOTBG/smo+fZjNV7Pz1eLssfZLme0tOh1Plw/Ty9VisTpdPja5wb4F/HxDEapf1KRFmfUAP3fiq4PEIwoeeWwh3OqwYf+lls54jgu4/TSNLkme9e/zi+FlKOIl07bUDbgtUnBZ3xtsblGac/+ksjqxZ0gGddSAcSVKbMcKwb/hSO2NdlFrMLwla7Inbq5rXZluhImMSilN86abqWvvvqI5EYI3PUIGYacL73FPEHAopIMhXmBm36YlzvSrkwgziU0fE6ppbQGUFnS8mEz7/dPru9+9qyTBgnvXmGGBqHdfhiDs3dQAb2MlZBH/Y3uPV9f3Nw3o+wfOaiH9wd5dr/T2c3T+cE2/Pf5x9vz48MuHke7EmGaITkVriEudjYkMFM4LOuzWbnFor1KBrgZ5kkBh8ndJxMBKihck0p/gz7/gaUMkCQklypilMO/b9kTsF+nZ1Vq08TC7IMYJKqkK6uJQg3JEjH8VWOSk/ejVaNBqOqnXKTQY0pGhr64gtdd285RaS+xMjyIvgvqgKr7GrDkn4GuK59qRQQdFjOrVbq9r+N7afm9tv7e2/0+tbYbVFkLbIOP0K/N2fPcvHWviH4UbAAA="
+  }
+}

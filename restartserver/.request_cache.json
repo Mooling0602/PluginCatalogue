@@ -1,0 +1,38 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"56b9c29cfe211be5ac3c09d65628d1a761fd81b8e3426a7e7f8599fb8a64d271\"",
+      "data": "H4sIADJErmUC/+1YXY+bOBT9K6M8T4LNN0hVtbuttquuVLU7rappVsiAIWwJRrbJNBPNf99rQwiTNmkzTV52kSIGzD3nmmv72Gc+bSYNLyfh1WQhZS1CwyB1McsLuWjiWcKWBqc1E8ZvfC0kKZGNbOMdhVsu/6J8RTm8LykRVBjYshzPR643ub6aECGoFNG5qY2WV2Vo6pKRdD9D2yrOkmXzvCJLel2SmJYPKuVCLsv9hINEP5BCktzAMzRDiq5IgahPqorWyAXj0LiZlCwvKpVnQLrDmMhxXNPE0FCxlEa6dfI++py/ePPrevp69VaPwYpAH74aA926rVAjKE9YJWkl9Tc0Rk/+fPVMp8x5R9Rm0bU/OqyK81HBT6udis5YWbI7oIlOTGX0yB1NUeVPpAHkxmByQaGKEKInQV4IeXq3NGqj/0AdNZGaIJymJ1N1OOjYXQV92ugJ3jI2sUh4UcuCVad38RFa0TGek6q4J0+jA7Rm0cvvZLRGKThdwdQ8Hd/CNkbNixVJ1g9tTxJarKDiT+TcwytKua6pXnoQrEegkDQi6VKv3YyUgj48XqPvXkaf7168eV2/rIiwXwX/4BvNQ/JIiY0K6fUBxjmnMoLOLAtZiIV6uSRArSi74Ec6M+2hKSeZ3HYBnmtOOw0aNCacEgmfQ1TkxESmNcUm/G6wFVpW6Fi3iqpu4hKSH4rzQhvf7hQfIj6dbUdpKQ1sI9MzXX8gmtuWveL+MizuHx9/f8u+U6vZMkn1wGmRh6CqKct+c6GjFo9aPGrxf0qLuwUWbaNJXZdFoutqsERSORUSdHHZzQqpgzo5SFvae9WGsePYSmlh5PVBNGFNpQQSu9+RVtsKMbptj7Dp0ShTR8Wc3cEnRX2mnzqBblnaY6hxUBMf/m53oJiU5U8e4zuW3cH3vqjPQNux7Ghjlq4V37xxHTODq4XwvPFjmsKVIKTafW/e2DRz1dWHa5ZBDJ9X8JzZ8Oy6GmliQHpZFit8qu5d3543jkXhrY+yVOERXJ3ASzVLou59E7BekCg2V+XzUKA4M3sb2fIMmd3YBJSfJVT1OEWKmdg1jMD11fm8mekFnoMwuoA321Jf1pvtZbmQN1PTHw/29i7p6M3G88B4HvifeTP2p1Pse7NeH37Em/FWZ4TWmWjVY4+aM8mbQ94MT5F9g9zQ8eB3xJu1cU6IvNAyL+3NLMsPYFNzhv/QaluOebNX0y/Wh4PerKvVaM5GMR7FeDRnTzBnyLWDb5kz66i0eiFCIQ4OerNBlIkv6c20/BmHNfEC5qzfnc5rznranTlzaGBrW+ZoQ0WGdg2EBIog4AP/BSdIh5WYGgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "140272680": {
+      "schema_version": 4,
+      "id": "restartserver",
+      "name": "RestartServer",
+      "version": "1.0.0",
+      "link": "https://github.com/Crystal0404/RestartServer",
+      "authors": [
+        "Crystal0404"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Restart Server"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"33b8c85767f923ee0e3d99a9c0cc2a96bcd3a7e3e9d4b4be8753312c9e30b6a3\"",
+    "data": "H4sIAPm2n2UC/62YUW/bNhCA/4rh18WW5ThdZ2Do1nQYiqJYt6UYlmEQKImWWFOkRlL2HMH/fccjJVnOkNSRXhKL5H08nY7Hu6unLJ2uJ9+Gq/Dm5vXr5dVkKmRKIxyd/hZts3e/fCh/EiSb2ilSUByn2hBlfqdqR5Wd2FScR83srTrANF+sFqvg0cpSsR0xdt2GcE1hRO4FTK0n9ZTLjIkzgpVBZcLl4ubm1XIZ9lX8jCq+Pcw+7H61awnQiYoqxe1sbkyp10HgRvU8Yyav4kpTlUhhqDDzRBZBFbTwN7vvcctMeZDbxQ6dI0vmcY4BTB2cKZ6bgp+rciJztnojOZd7wEQXbhW0kh2GieyFGJCsA2lyClaEJUc0B9PmcrVQqsZ/YEcEWW9QNL0Y5eVAMestxzpQtJSOWMU6Uaw0TIrLVexJW5xUGRHsgbwMB9JIsdpdLo1SVpzuwDUvl3didYBnLDkcnSYJZTuw+AuZZ/IWaQ4lnvPP2h1pzQyNSFrg2cVTfbzI9x8HiZS2H8WKf0xSRTdgW5pOSl7ZIIF+rrYnYeTpF0PTPr2p5T1nn2cwATIsbEsPQ1kWUdu/zdlJ4HiSWCpipBoK77Hq3iPuZSgphu6BDAyDUg62LDLwMtC6ol/nzc8xEaXbYyOqIvbxbhR8d2KI1iwTlA4ltpw6aENzrIhI8sHoBlP7X84LSDbYCYiLiDGX8VAWLA2QUwc6J/5iMtEIWlqyxfTBEHTGAFtMBzZquB+gugr9oMHCtAGfGEpuMEHdgDkRWUWyweSW06QBGXmgagR9PchFSGEUi6tRAmSHOkkz4hFU7kjn+cs4ZHdvojmKgpnhlkBK/2iMg7Z+/AhvB0aIvg2mF9fd5eGnxrk9/ncfX12M4YQWE9TflMTkjXlKouhw61hKUMcE0rX5fF7nlLg0o6Bq+Gl3ELz7VJJDAjmQVzcYyLAKYrAA2KC6KVQEXJJ0qMYtp/WTcdKLnl+UUCcPxSKjRy0YhxVSDP9qLajHF9KwDUu+qiZ6boseq36jmUjoFeH8CtzRsISBn0MB6m+emPLh146FwOuQgvqCiFMy/KJsMHXgs/OUllwexohcJyQ88IoSAwUYMZa5XCyvZ2E4W6zuFqt1+N16tbzH7kSZPlq1nIXXd+FibRde3zv/0/njRcu78Bo469ChbHz3bwA/v7Jssy+I15nOT4R/6ETXz4omHDzvJSVju/dOvLTizGVBS8hOQFbA+cKq9sE+LW/66UoiK2GtZztle2IgZT4bbPIcq8Wng8ndVZwTHbl4AONGVdSPlUp+oYk5G+1iUW94z7bsTBwTqq4IRmGmkwoKBdvQ6GZcddsousCooZRsOmX+pX2UTU8EAUdi3huSJRX+bfqvzhIqNMVeHtSt1gJJMosPs9V8cdo+vLUeDdtMbuHuBDUnPxqXa4HOE1g7eQ/XnhIYIwjHL1um//pW3O3t7O2fDfHpg+b1gTu6p0XXPPz4Lnl19zP/cv/HzcP93ftwahsXxDbB7D2zhUDUmZvpyNCi5P3m5Z7GPheKbGkmNxuoGv6pmOoZzMiSJfZr/PU3PO2YZjHjzKCFyioGPdsGhP84JyY+czb/mNINqbiJXLVmQQVxfZGSqoK137+e9jozV26dIb0hGxZO1VXMOXA3z7m3xBGbA0UZudNq5JaKpkMqqNnDO/S87DRvbsbD439ORsb9dxYAAA=="
+  }
+}

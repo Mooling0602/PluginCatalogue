@@ -1,0 +1,39 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"83463f17d62879036f4bd1ad45ab1278f34ed5df0bb379e7b3da84f785159619\"",
+      "data": "H4sIADJErmUC/+1XXW/iOBT9K1Geh8T54FNajWZLu5qRoGqHdlfMrBiTmODWiaPEgQbU/z7XToBAp+3SwsOseEAozr3nONf28T3flnqWML2j6VMh4rRjmjimRkDFNBsbHg/NhMQ8NS+oT9hDvjB7Z93r2jWJyByPKaMihwBGcEpS021bjbbdrOsfNB2nKRHp6NDQZoErGbKYcezvMhSj6UFYlh8jHJIPDI8Je5SUUxGyXcIK0X+hEDgwZ5ZhGUgCUh+gVqyyapmY8gTGljrjAY0k0Qp1He/Y7XbdQk14jrhPRmpQ73WvGrf/9Jl318svB/dWb/DJUQsxwwInTxZCja7KlKUk8XgkSCTUh2TmiuPj7A9XogRJiVOQqfq/uLQSclP0PYonQyecMT4HgNE+JOY6bYNBo+AtGJC2NLmYEigcvFeLH9BU7DkhlbJUf1A4hZJCERPi74dTJsGU5hHMZqm2dAGXjVMvobGgPNpzclupEosnAY7oAr8BC1IVhDpq+6WqFJlLZrD99kwucpZmnNAZ9vLHYg4eoTMo8VsAd5IlnshjIgFuIFKVnAoywn6oTucEs5Q8bp/E6/PR/bx7eeG0Pmct96x5328qHByMpJ7IkI0CwMoGRIxgKiEVNJ3KtyEGbIlZRleVRNuk+gmeiNUc4DlOSCkzlUEvIVjA92AZqdvItmqoXUOtAXI6TrNjNYcSKs7GDMifiXPrHdQablQdIr4d7tYoME3XtZu2hSqyWA7sFPfTVnG5G90/Vyoj9Hy1YkrA4W2UMba+OMhJZk8ye5LZ30xmy+MzWkXjOGbUU7U0uSeIqKUCFC8s94BQQeWB9wvYhRxrWC1XSiistOoiPZ5FUvksu1F/RTVdp4PQsOhA/RejGipqnPA5fNNozfW+BnIFU3aR5lPFe/y3uFfGmLH3NuAlTKVlXdD4EMAlTAV4zP1cIn7N4pgnQpM5mm08GN+T75H8nfFoQgNtQhnRQj4jqTZJeKj98NT4ViGKUOMu5dEPTfB1TFKdglcJWpN0QX6fUsQsg2tii2LrQWa9wuavQwwddvIBXVezbsElYh/DdZXQR3Zd2yxHdF2o6rpK1pPrOrUDp3bg93ddva7XuAlv0+HfF4vh4MrpD87r8Mt/Yb3Q260Xeqf1akGHMECtDqp3XPsF67WOa3cs9+jWy0Z1t+E6G20sB3YrfJ5fsi9s/Nft1LNv//ScPvO7V3mve4P6d1eLZ31YnJ9c2El2T7L7v3VhgjwI86EW59BHRbWi0K86sHrL+qUDs16TTpDE5/1XNco5tv9Cu/4LlO5I7gsdy32hbfcF8/8JUoRTchIaAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "44272100": {
+      "schema_version": 4,
+      "id": "renewability",
+      "name": "Renewability",
+      "version": "1.1.0",
+      "link": "https://github.com/Fidelxyz/MCDR-Renewability",
+      "authors": [
+        "Fidel Yin"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1",
+        "minecraft_data_api": "*"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin that allows players to clone non-renewable items"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"63043d9f9d8c6798d31e5d32dd315203a908714e1e195bb8034549cead05a2cd\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rgr0ss20ma2kDQFesWYGheGjhbkWEwKIm2GFOkRlJ2bcH/vccXvblZHUf6ktgn3sPT+e54x7xHot7EOxufjwbD0eXFiddjPMIzI+3dfPp9fUf/pOH1eIu+PqxCttzeTb9sQL653T5e9fRylGCz9rdPD6cPmOE1CgglaqMfzjNKZ8WKP0iE6bfN1n9xaSrICim9cI6oxCDha4YFfM97lC8IqyO0gjV8NB5fDAeX+3Z/effX11saPt9s7qbL4c3045lWQbADErNMUL0qViqVE9+3UtlfEBVnQSaxCDlTmKl+yBM/84s9PqyuzjVlIRzHbqZF+8SUOJpFAFL6ddtjldB9M2oK9aVzTilfA2B2zCZ+qVYxCFu8hQFquc9VjMFx8HxnXECkOtIgo5Kbf+A4Q5HgRIGj4zhOCUzS4bHLfYFTbnFZIENBUkU4O9K4hqpmcbFAjGzRG1igahDariNVjYrWxSsIvyOVrU7um0QKNztrQ4jJClz8FuCesuapTWpS+RFWGpcThWcoSkx2mrzdvT66X64DES5/Ca3/0dOrvJRmUAI8FSPlIR2VEkRoA/Z6insh5Qx7jLNTYWkUe2BZIvs2+sWyVlZ+7gPzExwwUQMP+fIQxzcQTVviTWuYZuT6b5FaIaQuCrhAiovW9AYsb3w1mymMktabGIipjZy3966BmFNCygy/LvwPQg1LlonGsiRw9bAbfpVnSEqyYBi3Rpag3C+LdyAQC+P27IKTu082FtCifSggW0EDyoPWMFjrG1Duyxi500vNurBTozWnSRZ43glZcyqyEh1EgzFYmGgouHCcKoiM1uiC4+cFmSK2yNCiPboEFT3DAm2x6MJiR7IFkylBgqybelmxao1J0IXRFWq/5ekIbU9e45EkIaoDZxhMM0c6Yut4/oGvBV1U44LTKPT2OHGPOjpPXtzIjSCdxKLm+PkvKVJx4aEUCdyBgzTGzwMEfV+/389jjGz7kWDRQeJbijkPRRhDK9oWmBccaL4SpMzwMDcGRzBNUI6i1jaXoDJaOmo7GtGRwlzdmmsgDWxCKJYKeun2P11JamzAuCJzEr5qrDq4RwOWf5CEhfgEhoMTiEpFQgLxDrOrO4sCTDs4iDQFXggl2I1XFKMODs+Ck/uufY9wSvmmkzJWQ5ncFxgpmOmQ0tDRYDQ8Hbw/HYyng8vJxcVkcPlk7jPS6IdVY1g4HZxNzoeTi7MnG4Uy/r9FgHr/VJR79wrw8bWToH5Fc8DJuKb9a6U7OaxrpsI3zaHl7iv25jk25glOoWsprogk2erPo1GziQl5xrT/hiBeIwX99J6w6H40536jYns4x0jObF0AuRIZdrJU8Gccqj1pVZQa4jVZkj1102ZVs7JRJjLMYIzQNyPVEzsDF4YOTPEQgheXawxqS1W3o5oi4PR8XhfxFDP3Ng0iJSFmEpsrQJhtTRCk9PSsP6hfPF7fPnrX4HyBqHefBaDkfbaK3sotlWn0zd3WXd9/LgA/Tyy3ufTrW9avGMN302v6/PT3xfZpurzq6YsPczOhD5clFJ7Ks0TOFE5S2rzeXOPA9UEzPaPx+RxGh/8yIhq+UTwloXb8P70kjOC44nAmRrZYMxwKNFe9f+Hbikjigm+iM1P7obyrcP6s+dlJiohzsRbhOcqomtl5ToMSREy8pVgkpAyCvNe48zmx6xRqiHR1qL+IIDaKq+eUOh/tzCVCks5syiq+xKzIG4bVGt6hERj1hrqQj3bfASXUXMvMFgAA"
+  }
+}

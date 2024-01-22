@@ -1,0 +1,57 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"c89dc02eb9207129fa2fee365fc88cb1a28f136925cf6cb72f61a7a6de3d62f6\"",
+      "data": "H4sIADJErmUC/+1XXY/iNhT9KxZPrTSQTz4SqV3NiFlpq1ZTrWZVaXZXkYlNsMax09iBZdD89147CTB0Bi0svLQ8IOBy7znm2jnX5/OqU5W8E6POTOtCxY6DC9bLmJ5Vk14qc6ekhVQO1ze0LJdqRqSjZzSR0ylnAt4LBRmcYkWVE3lBGHnesHOFOlgpqlVycmynBjYUVcElJrsUdVSdhmb1TuCcXnE8ofzZcM50zncZt5i+i0PjzJl7Pc/gMQJILalpW6VnsoTYqsNlxoTh2QJdl3hu3w3DcOhBQEhCExvtfEoes/HdzePvD9HC7sIca1z+axdstG1RpWiZSqGp0PY/VM4a/N38l9DAZGUDVLPY5u/dWIP5ouOH9c5kTyXncgEwyYFUzrpyA8NEdiQMVK4cCXsJXYQUewgypvThy7JVK/sGfbRACnpaUnIwVFMHC1sIWNPKnvAasZqotGSFZlIcvsQX1QZOlhkW7AkfBwfVFsU+fwdX2ypTTudwNA+vr8tWTlGyOU6Xz/VKUsrm0PEjMXfqDaReFtQ+epBsd4BpmmCS22d3irmizy+f0Y+3yeNifPdBhb8pFb5P6U1kcXCWGLExKa06wDZnVCewlpxppmbmtxwDskFscj8VBGuKtERtFSnxVLfk8L0oaaM9W8G0pFBGEmwyO77rB13X77rhvRvF/SD2wwcDVVQTDryv5XleHPhxGD1s1B4yPp9wnNSgThT6o3A4cjdy2QR22nr9oq3i77nabtP9jN7VJMDRNa3q5SmxO2bVHXJExfl6rNCLCF9E+CLC/ykRbh6wpM3GRcFZavvqyFRT3VUaZDFvToW2SY0ckBr2ycT6gygyOgsbb2+gqayEkUdvONynrLViBoOH+vJK9maNbNaklAv4S8ma6gevni2OvX86b2ni89d69kww5z98g29w1jfeJ1acBLfBWeNOJFkaQK+HPvyJ4IzIkijEFBJygZhAGMEk06jb7f6KEvPxp5+TK6RnWKOcYqHQUlYoxQKB5Jt8aPuclmgBa0KETacwQ4UGaGV+3ARS09fel/KL8HvoPfuGlMypwYCDxVEOPPixSQh66JoQlFdcsy4rkBnrWJArBEccFgJLhSEOZ5IKAjy2JOyhZr5/vL0e/3GLIB/4dSlJlZpzi6aMN/Dm1Wy0yUG+EzjmXHXg6J9wKo+iwWA4CoNzmLwW+8wmb4fmnCZvc2tpSS8m73K/uNwv/mcm76/x4/gVk+d+r8mDSY2aUY1AZlBbe7TV87q+e+8O4yCK3cEeq9fmheAK/fNbPT90g/5ouLF6TWCv1cumdLzX6rkXq3eR4osUX6zeEVYvHLivWb3A3yesnh+H/djrv+n0trOGZ3d6rvOWJJ7L6blncnruttMDe6aMBYLwrvfxwPk05ufrP82RUGriGgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "94284780": {
+      "schema_version": 4,
+      "id": "the_offline_ops",
+      "name": "The Offline ops",
+      "version": "1.1",
+      "link": "https://github.com/ltBerryshdo/the_offline_ops",
+      "authors": [
+        "ltBerryshdo"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Check the player's IP to prevent impersonation of logging into the offline server",
+        "zh_cn": "检测玩家IP以防止冒名登陆离线服务器"
+      }
+    },
+    "92403587": {
+      "schema_version": 4,
+      "id": "the_offline_ops",
+      "name": "The Offline ops",
+      "version": "1.0",
+      "link": "https://github.com/ltBerryshdo/the_offline_ops",
+      "authors": [
+        "ltBerryshdo"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Provides a method to protect admin and normal player's account in game server, which 'online-mode' is 'false'",
+        "zh_cn": "为未开启在线模式（正版验证）的服务器提供了管理员和普通玩家账号保护的一种方法"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"990dd57c3c402854cc89dcad4bfb1317ad3b7c5dd55a9c35e90889ca6cad9372\"",
+    "data": "H4sIAPm2n2UC/62YbW/bNhCA/4rgL/mw2PJb2sZA0a0LEGxIu6BIMMDDIFDSWWJNkRpJ2XME//cdSb1YXtDEsb4kFsV7eDwdj3dXDmg8WHhXH2bX0w/T+fTSG3ARQ2BHB9+CdXLzx29q/rtKBuYVycCM6xQCsVoxyvF/rsyrVcFYUL9n+jNIuVNpLPxn5uaSbog2M1eEKcARseUg8bkcMJFQfsQwMlahyfhqPJ/P30+6aj5aNT+v75bXWzOXIJ3IoJDMvE21ztXC992oGiVUp0VYKJCR4Bq4HkUi8wu/gX/afJwbTCIrkFvFDB0jc1rhHAOZyj9SPNUZO1blQOZo9kowJraICU5cym8kWwzlyRsxKFn6Aj8dWhGn7K05qNKnq2WlSvsP7WhBCm0qIT4ZVcmhYsZb9qUvIReOWIQqkjTXVPDTVexIG5yQCeH0ibwNh9KWYrQ7XdpKGXHYoGueLu/ESt+esWi3d5pEQDdo8Tcyj+QNUu9ye9IfcbL9AlRDQOLMnl17qvcn+f5zYSKG5rMYwC/el19vvsEK7Quxl7MCA8XIu5diQ3GmR7wMdCpiTwsvl0JDpD2rkEd47HEhM8JQiuxAXuDsKBIF1x6+TjBoebiNDchLb5vSKPUuBDeKDDOMMRceVd6F3dKFO1pyfRC5fmxL+zVf2qchvvRRXgT5lmJwa9idTzOQ0vytD22EcYGEQhIt5Pn4Dq3sPNrVNJDs/FUsxcZgIXqwsKXYu0ipAl53mF6mWphqzi0vsrAKuD0t0B5aohRNOMD5zIZU+s39EErCo7QHeA0qq1/OI0jSg0MQF5pDJsLzaTjZt6TSVymp7kgd9KKpYRtQFy1h1Q/agFq0ln34hFVZWp+owXhja/SP89k1yC9rNCM8KUjSA7sh1blJQp5A9qJzhXLxk2tJw6Kn8NnCDvKfsBe1W9ZxatUX213p1ihZRnUf9rCc7mHpC278+n8LmIFeonMN6kR+d8FUr/q6YZ5dqSqB+nFJA/LLn3Ki09pIOZHQh40Mxy9DgnnlaDQqUyAuLclA9hEDHMbekTJKMdc9m1jWoJXJPLWtVlZW5RjLFyZIfL7WDanxmb7SkY6P5Fjanw+2lA43owyUFryP79egOitwoemKRq8q5F5epEMrPynKI7gkjF2ic2oaUfR7rJur2ykE1sfVZDC4JSxRqkqOAenjQq1BpV/l9zHkTOz6iWkHLBsGJBCN1SPRhjodT6fDyXQ4mzxMZour94ur+dK2VvK4O2s2HE+G0/HD+GoxuV7MxkvniyrtTpqMh5N3BoWTppNlHf2rPeDPV9ecZpP2ylPpgfjPrfDiFcIRQy98W83brL/hby+aU5FBjtlM3bFS9Mn8ti2zg+TGVr84PsbhLdGYbh8N1lmR4dzvsLC2F3ZKVOAiBI5rWUA1hgX3dyy4j0bb+NQZ3tI1PRK36VdbVFthqqICywzTk2nfuFq5VnRio4iUom72cQwybRCPDwQRR0LWGRI58Go33a3TCLgC247ECtj6Qc6Gs9H4sAd6+/XRuwUOkjDvvghRyLtzgt6mmqry+N+qeXh7f1cDfny6qsUx7ThYsm11frmJ3j3csu/LP6+elg/rjwPTZiGmZWcumjXGn9ayVAUaspx1W61bCKvUKDA1HLoPlhX/FFR2bKNFTiNj+L8GWRTLoWu32KiNj1UTxgVxDpEkKz34G582VNGQMqqt1XJrlqbFUX2wA7MfOWD1GMOKFEwHrvozoIy4tXOQGW18ohx0Gk6Xbp4mnSETMA73Jalz6vY9Y5XJ9rbxkOWBO8NarIHXx4iD3uIeOp53mHU34/v/ALe5G8VSFwAA"
+  }
+}

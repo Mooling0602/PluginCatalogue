@@ -1,0 +1,59 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"90a51e9598a36a8b278db8ec44e2442648b5d479d74ae2d5c5c88b39403f4987\"",
+      "data": "H4sIADFErmUC/+1XYW/bNhD9K64/NUBlkaIsywK6YF2Kphi6rE32obEDlZJomQgtKRLlwDHy33ekZFtx5qZu4mEDhCCKQ9+9R92Rj3yjZbfMRdfrdKdSZoVnmjTjvZjLaRn0wnRm5ixLC5P/SRMmTti8/mR8+u3kC5ukecwiCBGMFqwwMbHIgDgu6b7pdGlRMFn4B0A3K2hFUmYipdE2STVavBTR8jihM/ZG0ICJe8U6lTOxzdng+jEWSWPT6pEeUog8Aqw1r6peKadpDoPLrkhjniiqS8plmiSbeESwY9tDBANJGjFfj3b/8q/jk7N3/OvNeawbMaeS5o8aoUdXNSoLlodpIlki9SuU5hr8eP7WVjBxXgNVLLr63+2twizMxqSfKFsjcpIKkd5Cur8HhbnO2kDwJP4JCMhamqmcMqgafK17HvNC7jcdnbHUf6BmGqSA+uUs2gumzoEJ3SYwl6VeyhVaGRRhzjPJ02S/qT3IVFCwNmnC7+j+UJCpEfQG2ytTZ6hUNodlt19ulbI0s5zPabi4r2YQMj6H6v4E3laugpOLjOntBIG62lwyn0YzvRcnVBTs/uG++/Lev749Ofv93fXn/JN9ag8XdxqHxr7SDxWy3u/Q05hJHyYy45IXU/XljHK9+B8FRzmdyBUp/J/lrFaRxmCYMyrhBajUucgiBsaG5VygvodszyaXCiorAwF0W3GWgawLjDwMof3LjXhDxOglz4cKFfTV7TsWHtoN5atHtir6a7OiHz9f35w3C/SYypjrosHPLIx017RoQ3BSCrE+L1grrK2wtsL6nxbWetP4q2iaZYKHuo5mGkomjUKC5M3q7ksdVG/vqIK9U2MDjJWqRNBkfVUM0zJR0kfQDtFci6Ht9d3L6pIZ7Y4CyUQ6KsjTW3gjf8303AviCqi6JZpPqt39VXWwBFSI51+7a6DNFfWOZy+DXANtkIM0WihIozMu3SiajMuh48LTcSY2PPsBGpd9i6BvOuNbF5bHi7oWbPeHZNC3DuNaVugHdy1bRId0LXhzVK5YW8/SHq3t0fr/9iwf8Ef/62PPgn/cseDeoGcNn2Na0MAgWJkWC3nE3m1akGsgiANnY3sY/QumBQ/7BDlOvyF99cj3TMvpqXGePW1aqrq1rqWV1lZaW9fidZwBIv/oWsgO1VyrIfEQ2eVaHkTZB3ct2Hxa7A5lWvCBLAtuGpZXow9cnpZBp377zutg0YGz8+jq9YqLz+JeMeVMwMWep3U510V6glaVUKaSiuNCLgR7OxEUFtBNSXN2NM7Hifr9ZfTqj7OL91f687iMXBLBM7SHI2Wd3AE8XYc0JpQpmh70nPGkF4Ywl7Aw45JHzOQJrMkkZGZjEkcNTBfa9TdQUgPDMRoAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "138562194": {
+      "schema_version": 4,
+      "id": "ipanel_mcdreforged",
+      "name": "iPanel-MCDReforged",
+      "version": "2.3.0.0",
+      "link": "https://github.com/iPanelDev/iPanel-MCDReforged",
+      "authors": [
+        "Zaitonn"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "psutil>=5.8.0",
+        "websocket-client>=1.6.1"
+      ],
+      "description": {
+        "en_us": "An iPanel instance plugin for MCDReforged that works with iPanel to provide users with a web-based console.",
+        "zh_cn": "适用于MCDReforged的iPanel实例插件，搭配iPanel使用可为用户提供网页版控制台"
+      }
+    },
+    "119530665": {
+      "schema_version": 4,
+      "id": "ipanel_mcdreforged",
+      "name": "iPanel-MCDReforged",
+      "version": "2.1.7.29",
+      "link": "https://github.com/iPanelDev/iPanel-MCDReforged",
+      "authors": [
+        "Zaitonn"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "psutil>=5.8.0",
+        "websocket-client>=1.6.1"
+      ],
+      "description": {
+        "en_us": "An iPanel instance plugin for MCDReforged that works with iPanel Host to provide users with a web-based console.",
+        "zh_cn": "适用于MCDReforged的iPanel实例插件，搭配iPanel Host使用可为用户提供网页版控制台"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"9c741f5f22520942ece8e97e1fad9ca635620f879502997f3cf06d9b1d2c8e10\"",
+    "data": "H4sIAPm2n2UC/+2Y3W/bNhDA/5XCr0ssfyVxDAzd1gDDMAxpiz4MaQqBkk4SZ4rUSMqGI/h/35H6sOi1i53yZUBeEuvE+/F4Oh7vWI9oMlq9ub6Z3cyn88ny4s2IiwRCKx19DNfZ3f3vv6w/yJ9H5hUpwMjpe8KBXf7x7u4jpEJmkJi3acVY6A65g03w9cGlpBuizdCUMAUoEVsOEp/rERMZ5Q7EaFiTpovJ8na2WNy6ht5bQ9/9+ufDbx/MWIJsIsNKMvM217pUqyBopGqcUZ1XUaVAxoJr4HociyKogh7+dvPjwmAy2YKaWYzoGFnSFtcwkKkCx+xcF+zYkIGGMzYVjIktIsKzpgl6vQOE8uxFENSrA6FzQO/hgL11A1X6XJOsTm3/ofcsRqEnJSRnglotNMrEx74OJJSi4VWRiiUtNRX8XPMcXQPDwCScPpGXwFDXMoxl5+paHaMMGwzEc7UbpTqwuyne7RsrYqAb9POLiEfaBqh3pd3S9wMXWf9TDSFJCrtX7S7enxHv38gLCfTf5SjTPFY318vFY3UV3cJjtUiX0WN1PU9m+BvS6yby5XqQUP574dbxz5pjkM+58HlSYDGGt4adB5yh1OZvt7Vi3LskEpJoIT3wHVztPNrpNJDCwzQWY3OkED68bDH2qFCqgtPi/wSspal+r/GqiNrE6GuGw14jStGMA3iA9qg66DN5JAmPcx/0jlS3v5q4IJmPsCBNOo2YiDzgcHRgUXWgctIeaDr0Y6uBG5LLlpB6YhvSga2ll8iwRksbGR0ZT1mNUeIB3pGCumMzwrOKZD7gPaqrJzLyBNKP1S2rSadcSxpVvrLpgTaoWyI/hh9gxzWRN3jZnfioVlDtxSUW5O4ab3QT3/+awQj8ZOuO5BwFzZHTvvJ25nx1qrZp8RSZhhTUP5RE552fSiLBi5sMKKgjgpXheDyucyBNuVKA9JIOGo49N2WcY9n6/ci6I+FzQbTtN1JrdIINCBMk8WB3j+ojx1uZ4kRKiR25B7LFOOCCMlBacC8fsWc5U3ChaUrjkxqyE2ZxcPVbRXkMF4SxC4xRTWOK8Y+tb3teRcC8HFaGg4siBbSdGQPi5ZDtSHXQNgAJlEzsPCW4AcxmBAlEY0dItMHOJrP55eTmcj79NJmvZtPV4vrBXoyUyTdGLVfzyWqxfGgiUuXuoOnscjL7NJ2splerydVDdxi0i8Cfp/ePZpn2EFT5QP+ng/bqFO2YYSy+sIPtLdjw7+iBc1FAiVUOqnPcerbVfjJPsyu37IlFxY0nJyjeEo31+JGwq5eMIe93Om+O8ZyosMkWKNeyglZWSvEXxFoNemgjPmQrZ/SWrunRyNKWZkfaVMUVtiLmnuXwpumrh6YWVErRXdm1y25zcTJQRByJmCMSJfB2Pe7iaQxcDbxIzAWXSexr3OqHxVAVaihK5l5HbiFqK5LQ9FEiTbGs/7ui0plbi5LGZmGfv+DThioaUUb1zji8rCI0ob9FaK0aWHv05drHBFJSMR02fZUBFYTa71aCLGjvynrk3L1cNOM0cURmvw3NlbSJhsN7xlpP7G1jX5RhswG0WAPvbj3xC2pRmABBGzS1ptf7o2uz17vb17vb17vb//PdLQe9xVTlZNFht9rL9/8AFEayLDgaAAA="
+  }
+}

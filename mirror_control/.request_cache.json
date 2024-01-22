@@ -1,0 +1,93 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"6ad87682d2d8f469cb071d6975403e2281266772efa81727f8c0c2721216705d\"",
+      "data": "H4sIADFErmUC/+2aXW+bSBSG/0rk6ybMDF8D0qqq4nS7F26TKl2t0qysAQabFoMFg7OJlf++ZwZsY9ex17G52GiiiJDDOe/BA7wzj/D3ea8q0p5/1hsLMS19w2DT5GKUiHEVXIT5xCj4NC+NcMwKVsKPMUiKIi/OL/NMFHkKh1POSl4a1KYWpabXe3fWg0wuyuFphY1aVepX0zRn0aZ+HS1P0GP+PmMT/i5lAU+fZcOxmKSb7Vpt9jcQbGTM8AW6MKVcEoHQoqccr0qM8wJi816aj5JMtllqtgosCyNPFmR5xIcq2Bv0b5w///qchj9G+HP/5p9B/6etrsGMCVb8cg1UdDFGVcmLEE6VZ0J9jspY9Hg/+82SKqOi0ambqcHfeVWlZGvEDxk8mRvnaZo/gMTwoDbGsm4lkmSjV4lA3dzIxZjD4EGCuv6jpBSHnpKqmas/MHpKpoSRLHh0oFBTBSf1kMH5zNVdXetVQRkWyVQkeXbo6a3VSrG8GLEseWKvEYNapaGetwNrVY0s5jO4Dw+trovmxrRIZix8fK7PIuTJDMb5VYob1VJQPE65VPgGqWrcE8GHLJqoJzVmacmf1x/Kr1fDnw/9L3/8uM4uqfXxUzz4pHTYaCidRaas3AAu74iLIZzLJBFJOZZHJ6wUda9Ffu0sZ42znC2ro4LFYnEa8P+04I3rtIJhwZmAj8RkZo8gQs4x/Jq3GPsI+5Z1J6WmVZBC/5fyXN9y7lb2DhnfTzV51IoGpYg4LiUry2sCG6P7YW10rx8d/utINT3O63G+mISRGk7l6ZCVVWm6nEm49l7tvdp7/8fe2zxJw0U2m07TJFTjaeSh4OK8FOCBk+ZOECqpefijWvZJxixiUWmqcLnVEjPMq0x6ITHRPht1fdO9q1en0c4sT2UFRf4AH2m4bHXM8nIh0qwxjZct8PnvesYJWJoet0BvRFrL2qdkerxsI9KSDfLoUerdV1bsxveVbXJ2Xzkk9OR+5BR8BJcZIjZ1IYfHjopTuW8yuaVOO19mupaME3UUQ8S1rXBDwYOluWzJufwHRQshi6v9GLMNUZcEsO+aCLYWDRf7LokxbB0KLT1bqnnUoz24a0+HXgTmSEo7QK9auFv0WuvRIXq1lhVNT41eevrX0/+bRq+Pt/bNVvQiR6EXORK9kHuLPJ/YPjF3oleT5/g27Ri9YK6iLrJXltcEdqLX5/5kvAe9iEYv7b3aezV67Ucveyt6OWSfizq+SXaQ1yrL6pq8iPGyA3ZEXqQb8iLbyMu1Cb0cM/H79S3QTRAD+9CAAw1RhtA6Plmc25KMQqAkqgioPuoCYH+9+tAfXEE8joCYKJXoVbOVG8cyEkT4tHyELeq5XbyaqoW75aO1Hh3yEW5NuXVPzUd6jtZz9Jvmoyv07WkrH+Gj+Agfy0fOLTZ92/ZNvJuP6jzq21bXfIQ9anktj2wCO/lokJfBHj7Cmo+092rv1Xz0H15NoW18ZHv7XJT6FtrFR8ss0jUfYeNlB+yIj3A3fIQ3+WjLayIkt558KRTFBODGlUjk2bjGpvi+uM/gGPVkJWFoUUmJQifuEhn3gLsoiqMTAxEs8JHZBRAp4Y6BqN2jQyBCbSBSPTUQ6UlZT8pvG4iK8+1AhI4CInQ8ENUvjDDaB0Qyb/lllC6BCAjIc9tApAK7gSj5Eu0BIqSBSHuv9l4NRPuAyPS2f1fPRvtcFNzR3A1ETVbnL4yQ8bIDdgREqBsgQm0gul7MTvAh/gWfl7HHYjQAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAPq2n2UC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "88026782": {
+      "schema_version": 4,
+      "id": "mirror_control",
+      "name": "Mirror Control",
+      "version": "1.0.3",
+      "link": "https://github.com/charassss/Mirror-Control",
+      "authors": [
+        "Chara_SS"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "mcdreforged~=2.6.0"
+      ],
+      "description": {
+        "en_us": "A plugin to control mirror server",
+        "zh_cn": "一个控制镜像服务器的插件"
+      }
+    },
+    "87308705": {
+      "schema_version": 4,
+      "id": "mirror_control",
+      "name": "Mirror Control",
+      "version": "1.0.2",
+      "link": "https://github.com/charassss/Mirror-Control",
+      "authors": [
+        "Chara_SS"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "mcdreforged~=2.6.0"
+      ],
+      "description": {
+        "en_us": "A plugin to control mirror server",
+        "zh_cn": "一个控制镜像服务器的插件"
+      }
+    },
+    "87198491": {
+      "schema_version": 4,
+      "id": "mirror_control",
+      "name": "Mirror Control",
+      "version": "1.0.1",
+      "link": "https://github.com/charassss/Mirror-Control",
+      "authors": [
+        "Chara_SS"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "mcdreforged~=2.6.0"
+      ],
+      "description": {
+        "en_us": "A plugin to control mirror server",
+        "zh_cn": "一个控制镜像服务器的插件"
+      }
+    },
+    "87171997": {
+      "schema_version": 4,
+      "id": "mirror_control",
+      "name": "Mirror Control",
+      "version": "1.0.0",
+      "link": "https://github.com/charassss/Mirror-Control",
+      "authors": [
+        "Chara_SS"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "mcdreforged~=2.6.0"
+      ],
+      "description": {
+        "en_us": "A plugin to control mirror server",
+        "zh_cn": "一个控制镜像服务器的插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"22f086743bd8ca51f740a9979fe8ae713b459b0eb3e3ae433167da0ff843d10d\"",
+    "data": "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"
+  }
+}
