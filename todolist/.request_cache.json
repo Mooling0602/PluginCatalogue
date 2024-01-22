@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"4e137296f219c331eec90a9e33dfdf2cfa60095057a777eebdfeffcef77d609a\"",
-      "data": "H4sIADJErmUC/+2ba2/bNhSG/4rhfhgQ1BYvulHA0HW9bMV6W5F2a+rCoCXa1ipLgi7JkiD/fYeUfI2t1ollYAGT1HWoc94jkeJLPrbz5bpbZlHX63SnRZHmnmHwNOxPwmJajvp+MjMykSa58TLi+bR3Zrx59vyDGCfZRATvo3ISxjkERILnIjeYjZjjOrj7uNPleS6KfHhoaaPSlRXKNEp4sFmhas0PUuX6Scxn4nHERyK6kSWnxSzaLLhS6EdKFHxiFEmQRGFe9M5xH76lchiA5ry87L6ymCYZtF13owQUZMVafhFuWxhRhgn8HieBGKrG7pvnf9qf/n4b+f98xm9On169O31xqQbknBc8uzUgqnXeXWUuMj+JCxEX6oJKY17jyfnPplSZZLVOVUyNQ+MQS8lF5/94H8rIcRJFyQWkD/coYSyylhJhPLmDBGRdG0kxFdBpcFjdABMYtf1OR2Vcq/+gz5RIDv2XiWAvmToHTugihnO5Vjd1pVaOcj8L0yJM4v1ObS1TSsEdy+Pwiu8vBZlKQU21vTJVhkwV53DX7ZdbpVwbaRaec//ypjoDX4Tn0Lt30NvIlXLFZSpk/kcIVL0dFmLIg5makWMe5eJmffp9eDH8dvH83Sviu5Zvviyjs/dKh0+G0kxkyJbpD6M7EcUQTmkWFmE+lWEzDkWk+O60IOPjYn4i8HuaidpoVhr9TPACLorLyC5BhPYQ7WF2iiyPwo+pJltajkB8uivO9RA6W/o6RHw53LpRaRoMvsD9rKUf1g0bPfx0rYdZcO6sdtNp8jx5veym/swP1MgpF4eAuIyixeohtMVqi9UW+z+w2HrODOfRPE2j0Ff9aCR+IYpeXoDRzerRL1RQPcmDSvZKtpkY29I5YZDV9tFPylgaHkXO97zS8SxyVu08g8aoylFHWXIBlzRclLrfxnEus7l7NLYa3s3XalUZ8Si67ya8ltm2bb0K00NUqGW2VRglwaWUfvSo89eUFz/lnWdTHkPuIBvEJ51BaVsjNCgtlwlYY+EJYeNB6aJxMCjHY+QPSnOMXWin2IbnwoVHhoRsIcj++KqS+fJ7UozDf792ZLgQcHDM2fxsBqVjuyYPQNHmBMuDaDxXh/Lw6I6pVMS2JWswE54jNJJVfSpjHLcSgUfiw+navo9lpIyBR6nsICoVKIHHkeUGcDlhNM+yLBMqMtf0O6PLzi+BvNN72fSymM46YdzZ75ZKYQU0sLxw+Q869q246DyD+ZWFo7JIsrzqk/UqM5hHHXDqMOuMwywvOv48AWbgfc/h5AQ2SlE9srAYn5x4e+rB4ZRnYu0OQn3a7/e33FMzMBLlv/PJj8FhDojBxIJvRtrA4Fq6ZQxer3IMDIaxWm776vIag/UeTe/RHgQGT9jrvAmD6+m/LwbXaXfGYNJD7inGHmEepQ0YTHrYOkXMs5CHWOsYbDmUuWzlZcG6oRGDi7fDq10YLBdCjcHaYrXFagyuMZhSthWDGdpplQsLxGwnBa9EEXI0CgZ/M7b6XdsUXK8/LVJwXWFOwcCJ9ticQ6+kWYWlt6HXoYqKHQLgaVNfHoUD0GK6ClcDCaeC2wpRiUJUiaUWZVKWctkuJHIixKQmHilWu1V+A6a3VK/UHO7wBcyuVKzgFxCdS20K5O0wGb+syLCv8FhmblaULQKw2XERbpMjyQZHylE5LDJi6lDbZW0gYy3dMjKuVzkOMpLlFqkur5FR72f0fuZBIKP/7VerGRnJ3ZCR3BcZLfk6v0U9021ERhlne4jAT+vIaFIbEcKWflg3NCJjzP6IdiMj0cioLVZbrEbGJTKa5jZkdGmjVYIFYg/TBmRcRllHREZibPW79pGRtI6MZBUZ22IifIuJyKGZiBDXpnYrTFRJt81Ea1WOw0QrLxvX5TUT6QVbL9gPg4mexn4zE+G7MRG+LxNRuYRT06O4mYmqOHf+dlurTISpg9eYqGpoZqLf8nQ3E+lPk2qL1RarmWjJRMhE25jIId+zStfDuImJFlH0iEyEja1+1z4T4daZaO3DpBuH2nzrCN3CJHxoTEIOdnE7mFRJt41Ja1WOg0loBZOq8hqT9Bqu1/AHgUkj/ulVMyahu2ESui8mEfnWETE9gpoxScVR5lntf9qQMheD1yz9sG5oxKTZ5OrzbkxCGpO0xWqL1Zi0wCTi0K2YZH7HKsECid2ESYso94iYhIytftc+JqHWMQntxiR00L/WgiU3v1X75ut/A4XB4I5EAAA=",
+      "etag": "\"2493119f91784c6ca3633dce2486cfeee9aa9362834fbfc70b55df0472967c21\"",
+      "data": "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",
       "empty": false
     },
     "2": {
@@ -34,22 +34,6 @@
       "id": "todolist",
       "name": "ToDoList",
       "version": "1.0.3",
-      "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
-      "authors": [
-        "Flash-Z"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "ToDoList",
-        "zh_cn": "ToDoList，待办清单"
-      }
-    },
-    "94360229": {
-      "schema_version": 4,
-      "id": "todolist",
-      "name": "ToDoList",
-      "version": "1.0.2",
       "link": "https://github.com/Flash-Z/MCDReforgedPlugins/tree/main/ToDoList",
       "authors": [
         "Flash-Z"
