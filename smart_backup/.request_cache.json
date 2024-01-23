@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"104cc0a5ae7296981ac94e9fd50c8ddc3fcb447a669a4809d2aba63681e27b00\"",
-      "data": "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",
+      "etag": "\"ab6ca605c87812357c2bc82d4abba931f1c914b4f3266e26808a059932ff4d14\"",
+      "data": "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",
       "empty": false
     },
     "2": {
@@ -85,24 +85,6 @@
         "zh_cn": "一个依赖MCDR的备份插件"
       }
     },
-    "53426176": {
-      "schema_version": 4,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.1.1",
-      "link": "https://github.com/kmcsr/smart_backup_mcdr",
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
-      }
-    },
     "53390606": {
       "schema_version": 4,
       "id": "smart_backup",
@@ -136,24 +118,6 @@
       "requirements": [],
       "description": {
         "en_us": "A Minecraft Backup Plugin"
-      }
-    },
-    "63366275": {
-      "schema_version": 4,
-      "id": "smart_backup",
-      "name": "SmartBackup",
-      "version": "1.3.0",
-      "link": "https://github.com/kmcsr/smart_backup_mcdr",
-      "authors": [
-        "zyxkad"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A Minecraft Backup Plugin",
-        "zh_cn": "一个依赖MCDR的备份插件"
       }
     },
     "64796263": {

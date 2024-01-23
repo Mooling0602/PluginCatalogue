@@ -107,40 +107,6 @@
       }
     },
     {
-      "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.3.0",
-      "name": "v1.3.0",
-      "tag_name": "v1.3.0",
-      "created_at": "2022-04-22T20:22:23Z",
-      "description": null,
-      "prerelease": false,
-      "asset": {
-        "id": 63366275,
-        "name": "SmartBackup-v1.3.0.mcdr",
-        "size": 12855,
-        "download_count": 11,
-        "created_at": "2022-04-22T20:24:57Z",
-        "browser_download_url": "https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.3.0/SmartBackup-v1.3.0.mcdr"
-      },
-      "meta": {
-        "schema_version": 4,
-        "id": "smart_backup",
-        "name": "SmartBackup",
-        "version": "1.3.0",
-        "link": "https://github.com/kmcsr/smart_backup_mcdr",
-        "authors": [
-          "zyxkad"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "A Minecraft Backup Plugin",
-          "zh_cn": "一个依赖MCDR的备份插件"
-        }
-      }
-    },
-    {
       "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.2.1",
       "name": "v1.2.1",
       "tag_name": "v1.2.1",
@@ -194,40 +160,6 @@
         "id": "smart_backup",
         "name": "SmartBackup",
         "version": "1.2.0",
-        "link": "https://github.com/kmcsr/smart_backup_mcdr",
-        "authors": [
-          "zyxkad"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0"
-        },
-        "requirements": [],
-        "description": {
-          "en_us": "A Minecraft Backup Plugin",
-          "zh_cn": "一个依赖MCDR的备份插件"
-        }
-      }
-    },
-    {
-      "url": "https://github.com/kmcsr/smart_backup_mcdr/releases/tag/v1.1.1",
-      "name": "v1.1.1",
-      "tag_name": "v1.1.1",
-      "created_at": "2022-01-07T15:54:21Z",
-      "description": "",
-      "prerelease": false,
-      "asset": {
-        "id": 53426176,
-        "name": "SmartBackup-v1.1.1.mcdr",
-        "size": 10374,
-        "download_count": 11,
-        "created_at": "2022-01-07T15:54:28Z",
-        "browser_download_url": "https://github.com/kmcsr/smart_backup_mcdr/releases/download/v1.1.1/SmartBackup-v1.1.1.mcdr"
-      },
-      "meta": {
-        "schema_version": 4,
-        "id": "smart_backup",
-        "name": "SmartBackup",
-        "version": "1.1.1",
         "link": "https://github.com/kmcsr/smart_backup_mcdr",
         "authors": [
           "zyxkad"
