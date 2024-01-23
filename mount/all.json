@@ -40,9 +40,46 @@
   "release": {
     "schema_version": 8,
     "id": "mount",
-    "latest_version": "0.3.0",
+    "latest_version": "0.3.1",
     "latest_version_index": 0,
     "releases": [
+      {
+        "url": "https://github.com/FAS-Server/Mount/releases/tag/v0.3.1",
+        "name": "v0.3.1",
+        "tag_name": "v0.3.1",
+        "created_at": "2024-01-18T17:00:00Z",
+        "description": "add an config field which controls whether to show more debug log\r\n\r\n添加新的配置项，可控制输出更多调试信息\r\n\r\n##### &nbsp;&nbsp;&nbsp;&nbsp;[View changes on GitHub](https://github.com/FAS-Server/Mount/compare/v0.3.0...v0.3.1)",
+        "prerelease": false,
+        "asset": {
+          "id": 147287898,
+          "name": "Mount-v0.3.1.pyz",
+          "size": 30860,
+          "download_count": 0,
+          "created_at": "2024-01-23T13:05:13Z",
+          "browser_download_url": "https://github.com/FAS-Server/Mount/releases/download/v0.3.1/Mount-v0.3.1.pyz"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "mount",
+          "name": "Mount",
+          "version": "0.3.1",
+          "link": "https://github.com/FAS-Server/Mount",
+          "authors": [
+            "401U"
+          ],
+          "dependencies": {
+            "mcdreforged": ">=2.7.0"
+          },
+          "requirements": [
+            "jproperties",
+            "mcdreforged"
+          ],
+          "description": {
+            "en_us": "Mount different minecraft server into a mcdr server, with overwritten properties!",
+            "zh_cn": "将不同的MC服务器挂载进入一个mcdr服务器, 同时能够重写服务器配置!"
+          }
+        }
+      },
       {
         "url": "https://github.com/FAS-Server/Mount/releases/tag/v0.3.0",
         "name": "v0.3.0",
