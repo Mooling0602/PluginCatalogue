@@ -1356,7 +1356,7 @@ pip install sqlalchemy
 - Version: 2.2.1
   - Metadata version: 2.2.1
   - Release version: 2.2.1
-- Total downloads: 5859
+- Total downloads: 5861
 - Authors: [Alex3236](https://github.com/alex3236)
 - Repository: https://github.com/alex3236/daycount-NBT
 - Repository plugin page: https://github.com/alex3236/daycount-NBT/tree/main/src
@@ -1390,7 +1390,7 @@ Feature:
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DayCountNBT-v2.2.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.1) | 2.2.1 | 2022/10/01 02:10:09 | 1.48KB | 1571 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.1/DayCountNBT-v2.2.1.mcdr) |
+| [DayCountNBT-v2.2.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.2.1) | 2.2.1 | 2022/10/01 02:10:09 | 1.48KB | 1573 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.2.1/DayCountNBT-v2.2.1.mcdr) |
 | [DayCountNBT-v2.1.1.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1.1) | 2.1.1 | 2021/11/08 14:26:50 | 1.33KB | 218 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1.1/DayCountNBT-v2.1.1.mcdr) |
 | [DayCountNBT-v2.1.0.mcdr](https://github.com/alex3236/daycount-NBT/releases/tag/v2.1) | 2.1.0 | 2021/10/01 06:12:46 | 1.31KB | 215 | [Download](https://github.com/alex3236/daycount-NBT/releases/download/v2.1/DayCountNBT-v2.1.0.mcdr) |
 
@@ -2518,7 +2518,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 - Version: 1.3.0
   - Metadata version: 1.3.0
   - Release version: 1.3.0
-- Total downloads: 3994
+- Total downloads: 3996
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/joinMOTD
 - Repository plugin page: https://github.com/TISUnion/joinMOTD/tree/master
@@ -2546,7 +2546,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 2072 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
+| [JoinMOTD-v1.3.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.3.0) | 1.3.0 | 2022/05/22 11:07:50 | 1.83KB | 2074 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.3.0/JoinMOTD-v1.3.0.mcdr) |
 | [JoinMOTD-v1.2.0.mcdr](https://github.com/TISUnion/joinMOTD/releases/tag/v1.2.0) | 1.2.0 | 2021/08/22 04:18:37 | 1.53KB | 1922 | [Download](https://github.com/TISUnion/joinMOTD/releases/download/v1.2.0/JoinMOTD-v1.2.0.mcdr) |
 
 ## join_motd_next
@@ -2558,7 +2558,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 - Version: 0.2.1
   - Metadata version: 0.2.1
   - Release version: 0.2.1
-- Total downloads: 370
+- Total downloads: 372
 - Authors: [JOZA_ORANGE](https://github.com/JOZA-ORANGE)
 - Repository: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext
 - Repository plugin page: https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/tree/master
@@ -2587,7 +2587,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [joinMOTDnext-v0.2.1.mcdr](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/tag/0.2.1) | 0.2.1 | 2023/08/03 02:06:04 | 2.94KB | 240 | [Download](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/download/0.2.1/joinMOTDnext-v0.2.1.mcdr) |
+| [joinMOTDnext-v0.2.1.mcdr](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/tag/0.2.1) | 0.2.1 | 2023/08/03 02:06:04 | 2.94KB | 242 | [Download](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/download/0.2.1/joinMOTDnext-v0.2.1.mcdr) |
 | [joinMOTDnext-v0.1.0.mcdr](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/tag/0.1.0) | 0.1.0 | 2023/06/19 04:47:12 | 2.17KB | 130 | [Download](https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext/releases/download/0.1.0/joinMOTDnext-v0.1.0.mcdr) |
 
 ## joinmotd_reforged
@@ -2599,7 +2599,7 @@ pip install "psutil>=5.8.0" "websocket-client>=1.6.1"
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 45
+- Total downloads: 49
 - Authors: [iXOR Technology](https://github.com/iXORTech/), [Cubik65536](https://github.com/Cubik65536/)
 - Repository: https://github.com/iXORTech/joinMOTD-Reforged
 - Repository plugin page: https://github.com/iXORTech/joinMOTD-Reforged/tree/main
@@ -2641,7 +2641,7 @@ Features include:
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [joinMOTD-Reforged-v1.0.0+b93f2ec.mcdr](https://github.com/iXORTech/joinMOTD-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2023/12/17 23:07:43 | 5.52KB | 45 | [Download](https://github.com/iXORTech/joinMOTD-Reforged/releases/download/v1.0.0/joinMOTD-Reforged-v1.0.0%2Bb93f2ec.mcdr) |
+| [joinMOTD-Reforged-v1.0.0+b93f2ec.mcdr](https://github.com/iXORTech/joinMOTD-Reforged/releases/tag/v1.0.0) | 1.0.0 | 2023/12/17 23:07:43 | 5.52KB | 49 | [Download](https://github.com/iXORTech/joinMOTD-Reforged/releases/download/v1.0.0/joinMOTD-Reforged-v1.0.0%2Bb93f2ec.mcdr) |
 
 ## jrrp
 
