@@ -177,40 +177,6 @@
         }
       },
       {
-        "url": "https://github.com/OptiJava/hooks/releases/tag/v2.0.0",
-        "name": "hooks v2.0.0",
-        "tag_name": "v2.0.0",
-        "created_at": "2023-06-05T10:29:46Z",
-        "description": "# Change Log\r\n\r\n## Features\r\n1.Schedule task!\r\n2.`!!hooks list scripts` list all loaded scripts\r\n\r\n## Changes\r\n1.Change script file format\r\n2.Better task list\r\n3.Requires permission level 3 to run hooks commands\r\n\r\n## Fix \r\n1.Exception when no `hooks` statement in script file\r\n2.Exception when no `tasks` statement in script file\r\n3.Print warnings when `command_file` is None\r\n\r\n**Full Changelog**: https://github.com/OptiJava/hooks/compare/v1.1.0...v2.0.0",
-        "prerelease": false,
-        "asset": {
-          "id": 111340181,
-          "name": "hooks-v2.0.0.mcdr",
-          "size": 13340,
-          "download_count": 8,
-          "created_at": "2023-06-05T10:46:35Z",
-          "browser_download_url": "https://github.com/OptiJava/hooks/releases/download/v2.0.0/hooks-v2.0.0.mcdr"
-        },
-        "meta": {
-          "schema_version": 4,
-          "id": "hooks",
-          "name": "hooks",
-          "version": "2.0.0",
-          "link": "https://github.com/OptiJava/hooks",
-          "authors": [
-            "OptiJava"
-          ],
-          "dependencies": {
-            "mcdreforged": ">=2.8.1"
-          },
-          "requirements": [],
-          "description": {
-            "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
-            "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
-          }
-        }
-      },
-      {
         "url": "https://github.com/OptiJava/hooks/releases/tag/v1.1.0",
         "name": "hooks v1.1.0",
         "tag_name": "v1.1.0",

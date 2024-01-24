@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"3153b1ede3dfcaf989d718e4595c7afc519793abdb3dff32950a294bc0163aca\"",
-      "data": "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",
+      "etag": "\"ab308a9cd1d782ace8cc185a081f29271f6a5255f6e697097ae00315dde545eb\"",
+      "data": "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",
       "empty": false
     },
     "2": {
@@ -72,24 +72,6 @@
       "id": "hooks",
       "name": "hooks",
       "version": "2.0.1",
-      "link": "https://github.com/OptiJava/hooks",
-      "authors": [
-        "OptiJava"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.8.1"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
-        "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
-      }
-    },
-    "111340181": {
-      "schema_version": 4,
-      "id": "hooks",
-      "name": "hooks",
-      "version": "2.0.0",
       "link": "https://github.com/OptiJava/hooks",
       "authors": [
         "OptiJava"
