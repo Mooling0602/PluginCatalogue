@@ -2348,7 +2348,7 @@ pip install "mcdreforged>=2.0.0b3"
 - 版本: 2.1.1
   - 元数据版本: 2.1.1
   - 发布版本: 2.1.1
-- 总下载量: 99
+- 总下载量: 107
 - 作者: [OptiJava](https://github.com/OptiJava)
 - 仓库: https://github.com/OptiJava/hooks
 - 仓库插件页: https://github.com/OptiJava/hooks/tree/master
