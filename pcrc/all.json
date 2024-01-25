@@ -53,7 +53,7 @@
           "id": 79543686,
           "name": "PCRC.pyz",
           "size": 105502,
-          "download_count": 603,
+          "download_count": 604,
           "created_at": "2022-09-30T15:07:46Z",
           "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.4.0/PCRC.pyz"
         },
@@ -179,45 +179,6 @@
           "id": "pcrc",
           "name": "PCRC",
           "version": "1.2.2",
-          "link": "https://github.com/Fallen-Breath/PCRC",
-          "authors": [
-            "Fallen_Breath"
-          ],
-          "dependencies": {},
-          "requirements": [
-            "cryptography",
-            "requests",
-            "pynbt",
-            "redbaron",
-            "colorlog",
-            "ruamel.yaml"
-          ],
-          "description": {
-            "en_us": "PyCraft based Replay Client",
-            "zh_cn": "基于PyCraft的Replay客户端"
-          }
-        }
-      },
-      {
-        "url": "https://github.com/Fallen-Breath/PCRC/releases/tag/v1.2.1",
-        "name": "PCRC v1.2.1",
-        "tag_name": "v1.2.1",
-        "created_at": "2022-03-10T08:53:53Z",
-        "description": "## News & Changes\r\n\r\n- Added CLI `auth`, `help` command\r\n- Added CLI `list` command to show player list\r\n- Improved CLI `status` command\r\n- Added config option `afk_ignore_spectator`, with which spectator flying around will keep pcrc afking\r\n- Now PCRC will do Minecraft authentication at startup, and constantly refresh the token every 3 hours after a successful authentication\r\n\r\n## Fixes\r\n\r\n- Fixed some stored information not reset after reconnecting to the server\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.1.0...v1.2.0\r\n\r\n## Patches\r\n\r\n### v1.2.1\r\n\r\n- Fixed pcrc records nothing\r\n\r\n**Full Changelog**: https://github.com/Fallen-Breath/PCRC/compare/v1.2.0...v1.2.1",
-        "prerelease": false,
-        "asset": {
-          "id": 59093086,
-          "name": "PCRC.pyz",
-          "size": 103667,
-          "download_count": 17,
-          "created_at": "2022-03-10T08:58:34Z",
-          "browser_download_url": "https://github.com/Fallen-Breath/PCRC/releases/download/v1.2.1/PCRC.pyz"
-        },
-        "meta": {
-          "schema_version": 4,
-          "id": "pcrc",
-          "name": "PCRC",
-          "version": "1.2.1",
           "link": "https://github.com/Fallen-Breath/PCRC",
           "authors": [
             "Fallen_Breath"
