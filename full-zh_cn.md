@@ -3234,7 +3234,7 @@ pip install "mcdreforged>=2.0.0b12" parse
 - 版本: 2.3.5+build.67
   - 元数据版本: 2.3.6+build.68
   - 发布版本: 2.3.5+build.67
-- 总下载量: 4120
+- 总下载量: 3915
 - 作者: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - 仓库: https://github.com/TISUnion/Task
 - 仓库插件页: https://github.com/TISUnion/Task/tree/master
