@@ -3231,7 +3231,7 @@ Shows tasks of project in progress
 - Version: 2.3.5+build.67
   - Metadata version: 2.3.6+build.68
   - Release version: 2.3.5+build.67
-- Total downloads: 4120
+- Total downloads: 4121
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
 - Repository: https://github.com/TISUnion/Task
 - Repository plugin page: https://github.com/TISUnion/Task/tree/master
