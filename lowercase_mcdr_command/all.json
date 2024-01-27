@@ -278,8 +278,8 @@
     "full_name": "AnzhiZhang/MCDReforgedPlugins",
     "description": "MCDReforged Plugins",
     "archived": false,
-    "stargazers_count": 86,
-    "watchers_count": 86,
+    "stargazers_count": 87,
+    "watchers_count": 87,
     "forks_count": 62,
     "readme": "# Lowercase MCDR Command\n\n> 小写的 MCDR 指令\n\n您现在可以使用 `!!mcdr` 等效 `!!MCDR`。\n"
   }
