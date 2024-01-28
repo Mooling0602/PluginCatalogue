@@ -245,7 +245,7 @@ flowchart LR
 
 默认值: 无
 
-假人名称前缀
+假人名称后缀
 
 ### permissions
 
