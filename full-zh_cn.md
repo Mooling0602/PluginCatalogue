@@ -198,7 +198,7 @@ pip install "mcdreforged>=2.1.0"
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 49
+- 总下载量: 50
 - 作者: [GHS-Official](https://github.com/GHS-Official)
 - 仓库: https://github.com/GHS-Official/Auto-Execute
 - 仓库插件页: https://github.com/GHS-Official/Auto-Execute/tree/master
@@ -232,7 +232,7 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Auto-Execute-v1.1.0.mcdr](https://github.com/GHS-Official/Auto-Execute/releases/tag/v1.1) | 1.1.0 | 2023/09/04 02:25:05 | 20.42KB | 38 | [下载](https://github.com/GHS-Official/Auto-Execute/releases/download/v1.1/Auto-Execute-v1.1.0.mcdr) |
+| [Auto-Execute-v1.1.0.mcdr](https://github.com/GHS-Official/Auto-Execute/releases/tag/v1.1) | 1.1.0 | 2023/09/04 02:25:05 | 20.42KB | 39 | [下载](https://github.com/GHS-Official/Auto-Execute/releases/download/v1.1/Auto-Execute-v1.1.0.mcdr) |
 | [Auto-Execute-v1.0.0.mcdr](https://github.com/GHS-Official/Auto-Execute/releases/tag/v1.0) | 1.0.0 | 2023/08/30 14:06:00 | 20.4KB | 11 | [下载](https://github.com/GHS-Official/Auto-Execute/releases/download/v1.0/Auto-Execute-v1.0.0.mcdr) |
 
 ## auto_plugin_reloader
@@ -244,7 +244,7 @@ pip install "mcdreforged>=2.6.0"
 - 版本: 1.1.3
   - 元数据版本: 1.1.3
   - 发布版本: 1.1.3
-- 总下载量: 5768
+- 总下载量: 5769
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/AutoPluginReloader
 - 仓库插件页: https://github.com/TISUnion/AutoPluginReloader/tree/master
@@ -275,7 +275,7 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 1962 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
+| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 1963 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
 | [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 163 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
 | [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 955 | [下载](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
@@ -2919,7 +2919,7 @@ pip install mcdreforged
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 311
+- 总下载量: 313
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/let_me_click_and_send
@@ -2953,7 +2953,7 @@ See also: [LetMeClickAndSend](https://github.com/Fallen-Breath/LetMeClickAndSend
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [LetMeClickandSend-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/let_me_click_and_send-v1.0.0) | 1.0.0 | 2023/02/25 19:08:54 | 2.31KB | 311 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/let_me_click_and_send-v1.0.0/LetMeClickandSend-v1.0.0.mcdr) |
+| [LetMeClickandSend-v1.0.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/let_me_click_and_send-v1.0.0) | 1.0.0 | 2023/02/25 19:08:54 | 2.31KB | 313 | [下载](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/let_me_click_and_send-v1.0.0/LetMeClickandSend-v1.0.0.mcdr) |
 
 ## lite_file_manager
 
@@ -3323,7 +3323,7 @@ pip install "mcdreforged>=2.1.3" parse
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
-- 总下载量: 3400
+- 总下载量: 3401
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MCDR-bot
 - 仓库插件页: https://github.com/MCDReforged/MCDR-bot/tree/master
@@ -3359,7 +3359,7 @@ pip install "cryptography>=1.5" requests PyNBT
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 2025 | [下载](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
+| [MCDRBot-v1.2.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.2.0) | 1.2.0 | 2021/08/19 01:18:23 | 75.07KB | 2026 | [下载](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.2.0/MCDRBot-v1.2.0.mcdr) |
 | [MCDRBot-v1.1.0.mcdr](https://github.com/MCDReforged/MCDR-bot/releases/tag/v1.1.0) | 1.1.0 | 2021/08/17 01:19:33 | 74.62KB | 1375 | [下载](https://github.com/MCDReforged/MCDR-bot/releases/download/v1.1.0/MCDRBot-v1.1.0.mcdr) |
 
 ## mcdreforged_plugin_manager
@@ -3553,7 +3553,7 @@ Comming soom...
 - 版本: 1.5.0
   - 元数据版本: 1.5.0
   - 发布版本: 1.5.0
-- 总下载量: 7585
+- 总下载量: 7586
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/MCDReforged/MinecraftDataAPI
 - 仓库插件页: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
@@ -3589,7 +3589,7 @@ pip install "mcdreforged>=2.0.0b3" hjson parse
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 1619 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
+| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 1620 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
 | [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5966 | [下载](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
