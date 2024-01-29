@@ -2837,7 +2837,7 @@ pip install mcdreforged
 - 版本: 1.1.2
   - 元数据版本: 1.1.2
   - 发布版本: 1.1.2
-- 总下载量: 495
+- 总下载量: 496
 - 作者: [XavierWah](https://github.com/XavierWah)
 - 仓库: https://github.com/Minecraft-AMS/Leader-Reforged
 - 仓库插件页: https://github.com/Minecraft-AMS/Leader-Reforged/tree/master
