@@ -277,6 +277,40 @@
             "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
           }
         }
+      },
+      {
+        "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.0",
+        "name": "Release 1.0.0",
+        "tag_name": "v1.0.0",
+        "created_at": "2022-03-19T14:10:32Z",
+        "description": "This is the first release of Leader-Reforged!\r\n- Added basic usage `!!leader` and `!!leader [Playername]`.",
+        "prerelease": false,
+        "asset": {
+          "id": 59966226,
+          "name": "leader_reforged-v1.0.0.mcdr",
+          "size": 1692,
+          "download_count": 7,
+          "created_at": "2022-03-19T15:09:16Z",
+          "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.0.0/leader_reforged-v1.0.0.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "leader_reforged",
+          "name": "Leader Reforged",
+          "version": "1.0.0",
+          "link": null,
+          "authors": [
+            "XavierWah"
+          ],
+          "dependencies": {
+            "mcdreforged": ">=2.0.0"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+            "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+          }
+        }
       }
     ]
   },
