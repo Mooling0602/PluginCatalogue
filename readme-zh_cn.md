@@ -44,7 +44,7 @@
 | [Daytime](/plugins/daytime/readme-zh_cn.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | 显示游戏中的时间 | 2021/08/18 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [Delay Exe](/plugins/delayexe/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 延迟执行命令, 直到所有玩家都离开游戏 | 2023/08/27 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *无* | N/A | [`工具`](/labels/tool/readme-zh_cn.md) |
-| [Dict Command Registration](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 用 Python 字典注册您的指令 | 2023/01/15 | [`API`](/labels/api/readme-zh_cn.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 用 Python 字典注册您的指令 | 2022/12/29 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme-zh_cn.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [EULAgree](/plugins/eulagree/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | 我总是同意EULA，不要问我 | 2022/12/09 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供 HTTP API。 | 2023/12/21 | [`API`](/labels/api/readme-zh_cn.md) |
