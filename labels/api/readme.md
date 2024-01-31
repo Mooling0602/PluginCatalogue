@@ -13,7 +13,7 @@ Plugin Amount: 18
 | [DatabaseAPI](/plugins/database_api/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Database API to access database | 2022/06/30 | [`API`](/labels/api/readme.md) |
 | [DayCount NBT](/plugins/daycount_nbt/readme.md) | [Alex3236](https://github.com/alex3236) | :calendar: Get and export server opening times. | 2022/10/01 | [`Information`](/labels/information/readme.md), [`API`](/labels/api/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2023/08/27 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
-| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2022/12/29 | [`API`](/labels/api/readme.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2023/01/15 | [`API`](/labels/api/readme.md) |
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides HTTP API. | 2023/12/21 | [`API`](/labels/api/readme.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme.md) | [Alex3236](https://github.com/alex3236) | :rocket: Make web? file transfers faster! | 2021/10/04 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [KPI](/plugins/kpi/readme.md) | [zyxkad](https://github.com/zyxkad) | A MCDR plugins codes share library | 2023/08/26 | [`API`](/labels/api/readme.md) |

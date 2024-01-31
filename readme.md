@@ -44,7 +44,7 @@ Plugin Amount: 110
 | [Daytime](/plugins/daytime/readme.md) | [ZeroKelvin](https://github.com/BelowZeroKelvin) | show time in minecraft | 2021/08/18 | [`Tool`](/labels/tool/readme.md) |
 | [Delay Exe](/plugins/delayexe/readme.md) | [zyxkad](https://github.com/zyxkad) | Delay execute command until all player have left | 2023/08/27 | [`Tool`](/labels/tool/readme.md), [`API`](/labels/api/readme.md) |
 | [Diamond Calculator](/plugins/diamond_calc/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | *None* | N/A | [`Tool`](/labels/tool/readme.md) |
-| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2022/12/29 | [`API`](/labels/api/readme.md) |
+| [Dict Command Registration](/plugins/dict_command_registration/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Register your command by a python dict | 2023/01/15 | [`API`](/labels/api/readme.md) |
 | [Easy Bot Manager](/plugins/easy_bot_manager/readme.md) | [LiuTed](https://github.com/LiuTed) | Easy-to-use Carpet Bot Manager Plugin | 2022/06/23 | [`Tool`](/labels/tool/readme.md) |
 | [EULAgree](/plugins/eulagree/readme.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | I always agree with EULA, don't ask me | 2022/12/09 | [`Tool`](/labels/tool/readme.md) |
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang) | Provides HTTP API. | 2023/12/21 | [`API`](/labels/api/readme.md) |
