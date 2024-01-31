@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"79d6c1e697f8c653e30a268a4a3b659b25625b56349ff1b5834e4a9d73727833\"",
-      "data": "H4sIAFL8uWUC/+2afW/bNhDGv0rhv+uIL3oHhqJF2rXA2mFDOmQpCkOWGFmNLGkS7cQx8t1HUrIt27IcNeIww0QCBKbvnqOP0XP6Rfm2HMzyeOC+GkwozQpX07wsuggjOpmNL/x0quUkSwvtbuoXuUazqZd4IclHUz/I2Vsx8QpSaBBgC2ME9cHrVwOvKAgtRj2qaqUkF59lceoFu+LlavHSAss3iTclr2NvTOInXm1Cp/FurVqNdnXqhdocXOAL0ZUoYCLrgrxNMzpJc7a4HMRpGCW8xuPi4c4L1uEOBDbSIWSvkzQgI7E4+Hz5h/nX9ZfY/3H38PkyXHy5fP8g+j73qJfv9V2srlozK0jupwklCRWfYKataryZ/yL2GeaVTllM9Lz1JLlkoW12fqRnm8DbNI7Te5Y8en4BbZ20UYiSsLsCS1pqKZ2wU+PvitMOo4J22oxIWIofrF1Co2Cty0nQRaVKYdu5T9hOluJXtxSbjQs/jzIapUmnjW0lcqU0D70kevQ6K7FEISAupy6JIoFnkjn7ZeuUWmYstSyP5p6/eCrr+ySas8Z2l9tJ5Wp0kRGe/pXFiUZHlIy8YCquwlsvLsjT9jX35/vR3f3l759CQN/a+q+/0VsidLxwxC2Dh2wudXaeIaEjtpFpRKNiwt+degUta+3HB7l3S1eF2essJ5WJ1Bb9nHiUfQiPRw4QQHgIjCGCV9B0DdNF9g2XymbjmFU8HIedm41Hs4hvfdh/qcbs1IG6Y+C631UrO918u9XN8BqSemeuss9lmWHZowtejQcIY167kvB8ohxUOahy0P+pg1YXymgV7WVZHPmih1rqU0KHBWW+Nq3OnYqg6sIOStlHvgYtqJvcKdkBi/s/P50l3OCQhY97Iy69cZYFz4ga5+k9+0yjdamfvf1bCVT3gFqzqz19LwfG2Ivjn79lrgRqt5uPUfYyyUqgJjlOgwXTSmZxzM62j7nhYAs6OrB7pYaVqCxo2NGXxAx4M8KqegoZ1MBTA+9UkeFDHNL7RmTAHZEBvwgZ0BCZV9BydeQC3IIM9ThTHjI4FgKWg+DGv6qFNmD4sAA3Dy3AgBUwKP9U/nnewADEHx32gMGCzzBG4yAv7EdJ4gWsNZuaBF7A/fMClscLNrBA77zARWXyQk1fEi+gLV7g9RQvqHmn5t0J88LfqJEXUEdeQD3wgukayNWdo7zA4vDqUYQ0XtAB2OYFvtDOC4/+pIUXkOIF5Z/KP8+cF3TcxAsQHTPGteEd5oV6lCReQFqzqUngBdQ/LyCZvGAgCbxgILm8sNaXxAtwhxcMpHhBzTs1706ZF+4aeQF25AX43/ICYt9yeQE7lrHFC3zhGC98bOEFqHhB+afyzzPnBaPx+QKEx43RgMd5YR0liReg1mxqEngB9s8LUA4v2DqygQlhr7ywEpXFCzv6UngB1XhhVU/xgpp3at6dLC+8C7/+aOAF1JEX0Et4AQ0hHCL7CiAXw9U/4DbwwnacbsjjBduElmUb1sbtqoVWXvg0n7w7yAtI8YLyT+WfZ84Lpg1QEy84+Lgx6nozLzRGSeEFtMsLSBovoP55AUnkBUtnX33zghCVyAt1fUm8AOq8IOopXlDzTs270+UFUvrcHi+AjrwAXsoL1hVCro5d3WrnhVWcgaXygols7NR5QSy080KOrlt4ASheUP6p/PPceaH5+YJ13BirB6oHeGHHFiXxAtCaTU0CL4D+eQFI4wXTsQDumxeEqEReqOtL4QW4zQuinuIFNe/UvDtdXgj++djAC7AjL8A+eAHa/IE6PsoL0HEBcHUklRd0C9lbzxfEQjsvpJeHeQEqXlD+qfzz3HnBMM3uvLBleAd5YStKCi/AXV6A0ngB9s8LcJ8Xvv8LRqSIIFdVAAA=",
+      "etag": "\"7e40887a793a4e463f6c10cc32d0a0b634575dd7a942584fe0fa4d1a13e6091b\"",
+      "data": "H4sIAE8EumUC/+2ba2/aSBSG/0rF5xLPxXdpVbVKu4206WpX6SqbqkLGdowbY3vtgYSg/PedGRuwwZi4eFaLGCVSxHDmPcMZ/B4/DPm2HMyyaGC/GUwISXNbUZw0vAhCMpmNL9xkqmR+muTKw9TNM4WkUyd2Aj8bTV0vo09FvpP7uQIBNjBGUB28fTNw8twn+ahHVaWQZOKzNEocb1u8GM2PTbB8FztT/23kjP3ohWWbkGm0nauSo12dOIEyBxf4glcl9KjIOiEr04xMkowOLgdREoQxy/G8eHpwvHW4BYGJVAjp4zjx/BEfHFxf/qH/dfslcn88PF1fBosvlx+feN3nDnGynbrz0VVpZrmfuUlM/JjwVzBTVjnezX/h6wyyUqdIxmveupNMMlc2Kz9Qs03gfRJFySOdPHp9AmU9aaMQxkF3BTppqSRkQneNPct3Owhz0mkxfMKS/6Hl4ho5LV3me11Uyil0OY8xXcmSv3ULsdk4d7MwJWESd1pYbSJTSrLAicNnp7MSncgF+OXUZSKfwGb6c/pm6zS1mLFU0iycO+7ipcjv+uGcFra73NZUpkYWqc+mf6VxvNAh8UeON+VX4b0T5f5L/Zr78+Po4fHy96sAkPem+utv5N7nOk4wYpbBQjaXOt3PwCcjupBpSMJ8wp6dOjkpcu3Ge5lzT1aJ6eM080sTqQy6me8Q+iIcFjlAAOEh0IYI3kDd1nQbmXdMKp2NI5pxfxy27jYeTSO+9WH/hRq1UwuqloarfleObFXzfa2awS30q5W5Sa+LNMOiRhcsGwvgxrx2Je75vnRQ6aDSQf+nDlpeKKNVtJOmUejyGiqJS3wyzAn1tWm574QHlRe2V8g+szFoQFVnTkk3mN//ucksZgaHDHzYG3HhjbPUe0XUOEse6WsarVP97O3fSqC8B1SaXe3le9Ewxk4U/fwtcylQud18DtPjJEuBiuQ48RZUK55FEd3bPvqGhQ1oqcDslRpWoqKgYUtfEDPgTQsr80lkkA1PNrxTRYZPUUAeG5EBd0QGfBQyoCHSb6Bhq8gGuAUZqnG6OGSwDAQMC8GNf5UDbcDwaQHunlqAAUtgkP4p/fO8gQHwDx12gMGArzBGbS8v7EYJ4gWsNJuaAF7A/fMCFscLJjBA77zAREXyQkVfEC+gGi+wfJIXZL+T/e6EeeFv1MgLqCMvoB54Qbc1ZKvWQV6gcXh1FCGMF1QA6rzABtp54dmdtPACkrwg/VP655nzgoqbeAGiQ8a4Nrz9vFCNEsQLSGk2NQG8gPrnBSSSFzQkgBc0JJYX1vqCeAFu8YKGJC/Ifif73SnzwkMjL8COvAD/W15A9FcsL2DL0Gq8wAYO8cLnFl6Akhekf0r/PHNe0BrPFyA8bIwaPMwL6yhBvACVZlMTwAuwf16AwngBQNPS++YFLiqQF6r6gngBVHmB55O8IPud7Henywuue9XIC6AjL4DjeQFotmraUD3EC2WcIZIXoKabeuU0tRxo54XYGLbwApC8IP1T+ueZ84LVyAvWK3xRb8eFWpQgXABKs6cJwAXQPy4AMbhgqsgEOoS94sJKVBQubOkLwQVUOV5Y5ZO4INudbHcniwsfgq8/GnABdTxeQMccL6AhhENk3gBkY7j6f70GXKjHqZo4XDB1aBimZmzcrhxoxYWr+eTDXlxA8nhB+qf0zzPHBd0EqBEX8GFjVNVmXmiMEsILaPt4AQk7XkD9Hy8gUccL9FbYUOlP37zARQXyQlVfEC+AKi/wfJIXZL+T/e50ecEvfG6HF0BHXgDH8oJxg5CtYls12nlhFadhobygIxNbVV7gA+28kKHbFl6QxwvSP6V/nj0vNH8dyThsjOX3L/fwwpYtCuIFoDSbmgBeAP3zgrjzBd0yAO6bF7ioQF6o6gvhBVjnBZ5P8oLsd7LfnS4veP98buAF2JEXYB+8AE32/Vt8kBegZQNgq0goL6gGMmvnC3ygnReSy/28ACUvSP+U/nnuvKDpendeqBneXl6oRQnhBbjNC1AYL8D+eQHu8sL3fwFoFEA+hmEAAA==",
       "empty": false
     },
     "2": {
@@ -139,6 +139,25 @@
       "dependencies": {
         "mcdreforged": ">=2.0.0",
         "kpi": ">=1.3.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "97156862": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.3.0",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0",
+        "kpi": "~1.4.0"
       },
       "requirements": [],
       "description": {
