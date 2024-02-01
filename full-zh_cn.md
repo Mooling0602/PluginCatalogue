@@ -288,7 +288,7 @@ pip install "mcdreforged>=2.6.0"
 - 版本: 1.1.0
   - 元数据版本: 1.1.0
   - 发布版本: 1.1.0
-- 总下载量: 5595
+- 总下载量: 5596
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - 仓库: https://github.com/TISUnion/Beep
 - 仓库插件页: https://github.com/TISUnion/Beep/tree/master
@@ -317,7 +317,7 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 4187 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 4188 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1408 | [下载](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## better_backup
@@ -2741,7 +2741,7 @@ pip install "mcdreforged>=2.1.4"
 - 版本: 1.4.8
   - 元数据版本: 1.4.8
   - 发布版本: 1.4.8
-- 总下载量: 1133
+- 总下载量: 1134
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2771,7 +2771,7 @@ pip install "mcdreforged>=2.1.4"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 216 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
+| [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 217 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
 | [KPI-v1.4.7.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.7) | 1.4.7 | 2023/06/28 02:39:10 | 26.14KB | 208 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.7/KPI-v1.4.7.mcdr) |
 | [KPI-v1.4.6.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.6) | 1.4.6 | 2023/06/08 18:47:02 | 26.13KB | 82 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.6/KPI-v1.4.6.mcdr) |
 
@@ -5443,7 +5443,7 @@ pip install "mcdreforged>=2.0.0a1"
 - 版本: 1.2.0
   - 元数据版本: 1.2.0
   - 发布版本: 1.2.0
-- 总下载量: 303
+- 总下载量: 304
 - 作者: [WhiteXero](https://github.com/WhiteXero)
 - 仓库: https://github.com/WhiteXero/ShowIt
 - 仓库插件页: https://github.com/WhiteXero/ShowIt/tree/main
@@ -5472,7 +5472,7 @@ pip install "mcdreforged>=2.0.0a1"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [ShowIt.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.2.0) | 1.2.0 | 2024/01/21 06:11:27 | 4.2KB | 27 | [下载](https://github.com/WhiteXero/ShowIt/releases/download/1.2.0/ShowIt.mcdr) |
+| [ShowIt.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.2.0) | 1.2.0 | 2024/01/21 06:11:27 | 4.2KB | 28 | [下载](https://github.com/WhiteXero/ShowIt/releases/download/1.2.0/ShowIt.mcdr) |
 | [ShowShowWay.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.1.0) | 1.1.0 | 2023/07/06 10:55:22 | 1.55KB | 276 | [下载](https://github.com/WhiteXero/ShowIt/releases/download/1.1.0/ShowShowWay.mcdr) |
 
 ## simple_calculator
@@ -6037,7 +6037,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 0.3.4
   - 元数据版本: 0.3.4
   - 发布版本: 0.3.4
-- 总下载量: 504
+- 总下载量: 505
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/tpmanager_mcdr
 - 仓库插件页: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -6067,7 +6067,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.3.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2023/05/21 16:56:38 | 16.74KB | 273 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.4/TpManager-v0.3.4.mcdr) |
+| [TpManager-v0.3.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2023/05/21 16:56:38 | 16.74KB | 274 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.4/TpManager-v0.3.4.mcdr) |
 | [TpManager-v0.3.3.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.3) | 0.3.3 | 2023/02/26 17:42:05 | 16.63KB | 71 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.3/TpManager-v0.3.3.mcdr) |
 | [TpManager-v0.3.2.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.2) | 0.3.2 | 2023/02/26 16:53:28 | 16.64KB | 12 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.2/TpManager-v0.3.2.mcdr) |
 

@@ -287,7 +287,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 5595
+- Total downloads: 5596
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [LucunJi](https://github.com/LucunJi)
 - Repository: https://github.com/TISUnion/Beep
 - Repository plugin page: https://github.com/TISUnion/Beep/tree/master
@@ -316,7 +316,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 4187 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
+| [Beep-v1.1.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.1.0) | 1.1.0 | 2021/08/26 14:01:49 | 1.74KB | 4188 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.1.0/Beep-v1.1.0.mcdr) |
 | [Beep-v1.0.0.mcdr](https://github.com/TISUnion/Beep/releases/tag/v1.0.0) | 1.0.0 | 2021/08/21 15:35:36 | 1.67KB | 1408 | [Download](https://github.com/TISUnion/Beep/releases/download/v1.0.0/Beep-v1.0.0.mcdr) |
 
 ## better_backup
@@ -2738,7 +2738,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.8
   - Metadata version: 1.4.8
   - Release version: 1.4.8
-- Total downloads: 1133
+- Total downloads: 1134
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2768,7 +2768,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 216 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
+| [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 217 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
 | [KPI-v1.4.7.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.7) | 1.4.7 | 2023/06/28 02:39:10 | 26.14KB | 208 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.7/KPI-v1.4.7.mcdr) |
 | [KPI-v1.4.6.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.6) | 1.4.6 | 2023/06/08 18:47:02 | 26.13KB | 82 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.6/KPI-v1.4.6.mcdr) |
 
@@ -5373,7 +5373,7 @@ Another lightweight solution for used to build a high version(>1.12.2) of Modded
 - Version: 1.2.0
   - Metadata version: 1.2.0
   - Release version: 1.2.0
-- Total downloads: 303
+- Total downloads: 304
 - Authors: [WhiteXero](https://github.com/WhiteXero)
 - Repository: https://github.com/WhiteXero/ShowIt
 - Repository plugin page: https://github.com/WhiteXero/ShowIt/tree/main
@@ -5402,7 +5402,7 @@ Another lightweight solution for used to build a high version(>1.12.2) of Modded
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [ShowIt.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.2.0) | 1.2.0 | 2024/01/21 06:11:27 | 4.2KB | 27 | [Download](https://github.com/WhiteXero/ShowIt/releases/download/1.2.0/ShowIt.mcdr) |
+| [ShowIt.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.2.0) | 1.2.0 | 2024/01/21 06:11:27 | 4.2KB | 28 | [Download](https://github.com/WhiteXero/ShowIt/releases/download/1.2.0/ShowIt.mcdr) |
 | [ShowShowWay.mcdr](https://github.com/WhiteXero/ShowIt/releases/tag/1.1.0) | 1.1.0 | 2023/07/06 10:55:22 | 1.55KB | 276 | [Download](https://github.com/WhiteXero/ShowIt/releases/download/1.1.0/ShowShowWay.mcdr) |
 
 ## simple_calculator
@@ -5967,7 +5967,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 0.3.4
   - Metadata version: 0.3.4
   - Release version: 0.3.4
-- Total downloads: 504
+- Total downloads: 505
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -5997,7 +5997,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.3.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2023/05/21 16:56:38 | 16.74KB | 273 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.4/TpManager-v0.3.4.mcdr) |
+| [TpManager-v0.3.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.4) | 0.3.4 | 2023/05/21 16:56:38 | 16.74KB | 274 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.4/TpManager-v0.3.4.mcdr) |
 | [TpManager-v0.3.3.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.3) | 0.3.3 | 2023/02/26 17:42:05 | 16.63KB | 71 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.3/TpManager-v0.3.3.mcdr) |
 | [TpManager-v0.3.2.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.2) | 0.3.2 | 2023/02/26 16:53:28 | 16.64KB | 12 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.3.2/TpManager-v0.3.2.mcdr) |
 
