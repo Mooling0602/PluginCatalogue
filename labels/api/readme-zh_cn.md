@@ -17,7 +17,7 @@
 | [FastAPI MCDR](/plugins/fastapi_mcdr/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 提供 HTTP API。 | 2023/12/21 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Faster Transfer](/plugins/faster_transfer/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | :rocket: 让任何 MCDR 插件的网络文件传输更迅速！ | 2021/10/04 | [`工具`](/labels/tool/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [KPI](/plugins/kpi/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个MCDR插件代码共享库 | 2023/08/26 | [`API`](/labels/api/readme-zh_cn.md) |
-| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2023/12/03 | [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2024/02/01 | [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft UUID API](/plugins/mc_uuid/readme-zh_cn.md) | [Huaji_MUR233](https://github.com/HuajiMUR233) | Minecraft UUID API | 2021/08/16 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Command Register](/plugins/minecraft_command_register/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing) | 在 Minecraft 中注册 MCDReforged 指令 | 2023/12/21 | [`API`](/labels/api/readme-zh_cn.md) |
 | [Minecraft Data API](/plugins/minecraft_data_api/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个用获得玩家信息等数据的的 API | 2023/07/10 | [`API`](/labels/api/readme-zh_cn.md) |
