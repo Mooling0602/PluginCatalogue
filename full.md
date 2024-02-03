@@ -3048,9 +3048,9 @@ Browse / Import / Export files in the server in Minecraft!
 
 - Plugin ID: `loginproxy`
 - Plugin Name: LoginProxy
-- Version: 0.6.5
-  - Metadata version: 0.6.5
-  - Release version: 0.6.5
+- Version: 0.6.6
+  - Metadata version: 0.6.6
+  - Release version: 0.6.6
 - Total downloads: 650
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/login_proxy_mcdr
@@ -3081,9 +3081,9 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [LoginProxy-v0.6.6.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.6) | 0.6.6 | 2024/02/03 22:44:36 | 29.65KB | 0 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.6/LoginProxy-v0.6.6.mcdr) |
 | [LoginProxy-v0.6.5.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.5) | 0.6.5 | 2024/02/01 15:17:25 | 29.67KB | 4 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.5/LoginProxy-v0.6.5.mcdr) |
 | [LoginProxy-v0.6.4.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.4) | 0.6.4 | 2023/12/03 04:57:14 | 29.65KB | 49 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.4/LoginProxy-v0.6.4.mcdr) |
-| [LoginProxy-v0.6.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.3) | 0.6.3 | 2023/12/03 00:23:42 | 29.62KB | 9 | [Download](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.3/LoginProxy-v0.6.3.mcdr) |
 
 ## lowercase_mcdr_command
 
@@ -5633,9 +5633,9 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 
 - Plugin ID: `smart_servertime`
 - Plugin Name: SmartServerTime
-- Version: 1.3.1
-  - Metadata version: 1.3.1
-  - Release version: 1.3.1
+- Version: 1.3.2
+  - Metadata version: 1.3.2
+  - Release version: 1.3.2
 - Total downloads: 441
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/smart_servertime_mcdr
@@ -5649,8 +5649,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme.md) | \>=1.3.2 |
-| [delayexe](/plugins/delayexe/readme.md) | \>=1.3.0 |
-| [loginproxy](/plugins/loginproxy/readme.md) | \>=0.4.0 |
+| [loginproxy](/plugins/loginproxy/readme.md) | \>=0.6.6 |
 
 ### Requirements
 
@@ -5668,9 +5667,9 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
+| [SmartServerTime-v1.3.2.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2024/02/03 22:44:44 | 17.42KB | 0 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.2/SmartServerTime-v1.3.2.mcdr) |
 | [SmartServerTime-v1.3.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.1) | 1.3.1 | 2024/02/03 20:27:59 | 17.58KB | 2 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.1/SmartServerTime-v1.3.1.mcdr) |
 | [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 226 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
-| [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 24 | [Download](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
 
 ## stats_helper
 

@@ -20,7 +20,7 @@
 | [iPanel-MCDReforged](/plugins/ipanel_mcdreforged/readme-zh_cn.md) | [Zaitonn](https://github.com/Zaitonn) | 适用于MCDReforged的iPanel实例插件，搭配iPanel使用可为用户提供网页版控制台 | 2023/11/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Ledger Cleaner](/plugins/ledger_cleaner/readme-zh_cn.md) | [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng) | 清理与释放ledger数据库 | 2023/07/13 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2024/02/01 | [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
+| [LoginProxy](/plugins/loginproxy/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft服务器登录代理兼白名单插件 | 2024/02/03 | [`管理`](/labels/management/readme-zh_cn.md), [`API`](/labels/api/readme-zh_cn.md) |
 | [Lowercase MCDR Command](/plugins/lowercase_mcdr_command/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 小写的 `!!MCDR` 指令 | 2023/01/30 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [MCDReforged Plugin Manager](/plugins/mcdreforged_plugin_manager/readme-zh_cn.md) | [Ivan1F](https://github.com/Ivan-1F) | 轻松管理你的 MCDReforged 插件 | 2023/04/14 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Mirror Control](/plugins/mirror_control/readme-zh_cn.md) | [Chara_SS](https://github.com/charassss/) | 一个控制镜像服务器的插件 | 2022/12/13 | [`管理`](/labels/management/readme-zh_cn.md) |

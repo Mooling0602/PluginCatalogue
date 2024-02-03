@@ -3051,9 +3051,9 @@ pip install "mcdreforged>=2.0.0b7" requests
 
 - 插件 ID: `loginproxy`
 - 插件名: LoginProxy
-- 版本: 0.6.5
-  - 元数据版本: 0.6.5
-  - 发布版本: 0.6.5
+- 版本: 0.6.6
+  - 元数据版本: 0.6.6
+  - 发布版本: 0.6.6
 - 总下载量: 650
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/login_proxy_mcdr
@@ -3084,9 +3084,9 @@ pip install "mcdreforged>=2.0.0b7" requests
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [LoginProxy-v0.6.6.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.6) | 0.6.6 | 2024/02/03 22:44:36 | 29.65KB | 0 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.6/LoginProxy-v0.6.6.mcdr) |
 | [LoginProxy-v0.6.5.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.5) | 0.6.5 | 2024/02/01 15:17:25 | 29.67KB | 4 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.5/LoginProxy-v0.6.5.mcdr) |
 | [LoginProxy-v0.6.4.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.4) | 0.6.4 | 2023/12/03 04:57:14 | 29.65KB | 49 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.4/LoginProxy-v0.6.4.mcdr) |
-| [LoginProxy-v0.6.3.mcdr](https://github.com/kmcsr/login_proxy_mcdr/releases/tag/v0.6.3) | 0.6.3 | 2023/12/03 00:23:42 | 29.62KB | 9 | [下载](https://github.com/kmcsr/login_proxy_mcdr/releases/download/v0.6.3/LoginProxy-v0.6.3.mcdr) |
 
 ## lowercase_mcdr_command
 
@@ -5703,9 +5703,9 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 
 - 插件 ID: `smart_servertime`
 - 插件名: SmartServerTime
-- 版本: 1.3.1
-  - 元数据版本: 1.3.1
-  - 发布版本: 1.3.1
+- 版本: 1.3.2
+  - 元数据版本: 1.3.2
+  - 发布版本: 1.3.2
 - 总下载量: 441
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
@@ -5719,8 +5719,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 | --- | --- |
 | [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.0.0 |
 | [kpi](/plugins/kpi/readme-zh_cn.md) | \>=1.3.2 |
-| [delayexe](/plugins/delayexe/readme-zh_cn.md) | \>=1.3.0 |
-| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.4.0 |
+| [loginproxy](/plugins/loginproxy/readme-zh_cn.md) | \>=0.6.6 |
 
 ### 包依赖
 
@@ -5738,9 +5737,9 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
+| [SmartServerTime-v1.3.2.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.2) | 1.3.2 | 2024/02/03 22:44:44 | 17.42KB | 0 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.2/SmartServerTime-v1.3.2.mcdr) |
 | [SmartServerTime-v1.3.1.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.1) | 1.3.1 | 2024/02/03 20:27:59 | 17.58KB | 2 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.1/SmartServerTime-v1.3.1.mcdr) |
 | [SmartServerTime-v1.3.0.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.0) | 1.3.0 | 2022/11/25 08:01:07 | 17.53KB | 226 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.0/SmartServerTime-v1.3.0.mcdr) |
-| [SmartServerTime-v1.2.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.2.4) | 1.2.4 | 2022/11/22 00:58:06 | 17.54KB | 24 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.2.4/SmartServerTime-v1.2.4.mcdr) |
 
 ## stats_helper
 
