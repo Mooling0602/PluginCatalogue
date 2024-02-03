@@ -38,7 +38,7 @@ pip install fastapi uvicorn
 
 # FastAPI
 
-[English](https://github.com/AnzhiZhang/MCDReforgedPlugins/blob/master/fastapi_mcdr/readme.md)
+[English](https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/fastapi_mcdr/readme.md)
 
 > 提供 HTTP API
 
