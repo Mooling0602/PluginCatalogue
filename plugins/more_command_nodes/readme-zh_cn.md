@@ -14,7 +14,7 @@
 - 总下载量: 1793
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/more_command_nodes
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/more_command_nodes
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 更多的指令节点
 

@@ -14,7 +14,7 @@
 - Total downloads: 66
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/bingo
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/bingo
 - Labels: [`Tool`](/labels/tool/readme.md)
 - Description: Useful tool for Bingo game
 

@@ -14,7 +14,7 @@
 - Total downloads: 1279
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/dict_command_registration
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/dict_command_registration
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Register your command by a python dict
 

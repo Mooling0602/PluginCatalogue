@@ -14,7 +14,7 @@
 - Total downloads: 1380
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/info
 - Labels: [`Information`](/labels/information/readme.md)
 - Description: Get server info
 

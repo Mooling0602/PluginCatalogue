@@ -14,7 +14,7 @@
 - 总下载量: 267
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/database_api
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/database_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 访问数据库 API
 

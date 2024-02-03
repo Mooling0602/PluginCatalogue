@@ -14,7 +14,7 @@
 - 总下载量: 962
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/qq_api
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 连接 MC 与 QQ
 

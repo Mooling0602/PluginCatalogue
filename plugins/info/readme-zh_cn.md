@@ -14,7 +14,7 @@
 - 总下载量: 1380
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/info
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/info
 - 标签: [`信息`](/labels/information/readme-zh_cn.md)
 - 描述: 获取服务器信息
 

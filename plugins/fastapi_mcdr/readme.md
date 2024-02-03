@@ -14,7 +14,7 @@
 - Total downloads: 24
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/fastapi_mcdr
+- Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/fastapi_mcdr
 - Labels: [`API`](/labels/api/readme.md)
 - Description: Provides HTTP API.
 

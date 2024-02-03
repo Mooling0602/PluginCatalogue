@@ -14,7 +14,7 @@
 - 总下载量: 1436
 - 作者: [Andy Zhang](https://github.com/AnzhiZhang), [ZhuRuoLing](https://github.com/ZhuRuoLing)
 - 仓库: https://github.com/AnzhiZhang/MCDReforgedPlugins
-- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register
+- 仓库插件页: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/minecraft_command_register
 - 标签: [`API`](/labels/api/readme-zh_cn.md)
 - 描述: 在 Minecraft 中注册 MCDReforged 指令
 
