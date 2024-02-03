@@ -6,7 +6,7 @@
   ],
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "branch": "master",
-  "related_path": "let_me_click_and_send",
+  "related_path": "src/let_me_click_and_send",
   "labels": [
     "information"
   ],

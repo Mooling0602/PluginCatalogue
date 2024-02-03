@@ -26,7 +26,7 @@
     ],
     "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
     "branch": "master",
-    "related_path": "info",
+    "related_path": "src/info",
     "labels": [
       "information"
     ],

@@ -3,14 +3,14 @@
     "schema_version": 4,
     "id": "tpm",
     "name": "TpManager",
-    "version": "0.3.4",
+    "version": "0.4.1",
     "link": "https://github.com/kmcsr/tpmanager_mcdr",
     "authors": [
       "zyxkad"
     ],
     "dependencies": {
       "mcdreforged": "^2.3.0",
-      "kpi": "~1.4.3"
+      "kpi": "~1.4.6"
     },
     "requirements": [],
     "description": {
@@ -35,9 +35,149 @@
   "release": {
     "schema_version": 8,
     "id": "tpm",
-    "latest_version": "0.3.4",
+    "latest_version": "0.4.3",
     "latest_version_index": 0,
     "releases": [
+      {
+        "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.3",
+        "name": "v0.4.3",
+        "tag_name": "v0.4.3",
+        "created_at": "2024-02-03T00:52:31Z",
+        "description": null,
+        "prerelease": false,
+        "asset": {
+          "id": 149520359,
+          "name": "TpManager-v0.4.3.mcdr",
+          "size": 17419,
+          "download_count": 26,
+          "created_at": "2024-02-03T02:35:34Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.3/TpManager-v0.4.3.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "tpm",
+          "name": "TpManager",
+          "version": "0.4.3",
+          "link": "https://github.com/kmcsr/tpmanager_mcdr",
+          "authors": [
+            "zyxkad"
+          ],
+          "dependencies": {
+            "mcdreforged": "^2.3.0",
+            "kpi": "~1.4.6"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "A Minecraft teleport manager",
+            "zh_cn": "一个Minecraft服务器传送管理"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.2",
+        "name": "v0.4.2",
+        "tag_name": "v0.4.2",
+        "created_at": "2024-02-03T00:52:31Z",
+        "description": null,
+        "prerelease": false,
+        "asset": {
+          "id": 149520022,
+          "name": "TpManager-v0.4.2.mcdr",
+          "size": 17418,
+          "download_count": 26,
+          "created_at": "2024-02-03T02:33:06Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.2/TpManager-v0.4.2.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "tpm",
+          "name": "TpManager",
+          "version": "0.4.2",
+          "link": "https://github.com/kmcsr/tpmanager_mcdr",
+          "authors": [
+            "zyxkad"
+          ],
+          "dependencies": {
+            "mcdreforged": "^2.3.0",
+            "kpi": "~1.4.6"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "A Minecraft teleport manager",
+            "zh_cn": "一个Minecraft服务器传送管理"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.1",
+        "name": "v0.4.1",
+        "tag_name": "v0.4.1",
+        "created_at": "2024-02-03T00:52:31Z",
+        "description": null,
+        "prerelease": false,
+        "asset": {
+          "id": 149502152,
+          "name": "TpManager-v0.4.1.mcdr",
+          "size": 17412,
+          "download_count": 29,
+          "created_at": "2024-02-03T00:52:34Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.1/TpManager-v0.4.1.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "tpm",
+          "name": "TpManager",
+          "version": "0.4.1",
+          "link": "https://github.com/kmcsr/tpmanager_mcdr",
+          "authors": [
+            "zyxkad"
+          ],
+          "dependencies": {
+            "mcdreforged": "^2.3.0",
+            "kpi": "~1.4.6"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "A Minecraft teleport manager",
+            "zh_cn": "一个Minecraft服务器传送管理"
+          }
+        }
+      },
+      {
+        "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.0",
+        "name": "v0.4.0",
+        "tag_name": "v0.4.0",
+        "created_at": "2024-02-03T00:35:38Z",
+        "description": null,
+        "prerelease": false,
+        "asset": {
+          "id": 149499283,
+          "name": "TpManager-v0.4.0.mcdr",
+          "size": 17412,
+          "download_count": 29,
+          "created_at": "2024-02-03T00:35:46Z",
+          "browser_download_url": "https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.0/TpManager-v0.4.0.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "tpm",
+          "name": "TpManager",
+          "version": "0.4.0",
+          "link": "https://github.com/kmcsr/tpmanager_mcdr",
+          "authors": [
+            "zyxkad"
+          ],
+          "dependencies": {
+            "mcdreforged": "^2.3.0",
+            "kpi": "~1.4.6"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "A Minecraft teleport manager",
+            "zh_cn": "一个Minecraft服务器传送管理"
+          }
+        }
+      },
       {
         "url": "https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.3.4",
         "name": "v0.3.4",
@@ -329,6 +469,6 @@
     "stargazers_count": 5,
     "watchers_count": 5,
     "forks_count": 0,
-    "readme": "\n- English\n- [中文](https://github.com/kmcsr/tpmanager_mcdr/tree/master/README_zh.MD)\n\n# Tp Manager\n\n*If it's useful, please give a star :)*\n\n## Feature\n\n- Teleport between players\n\n## TODO\n\n- Check if target player exists\n- Teleport cooldown\n- Manage in game way points\n- Linking with login_proxy?\n\n## Dependencies\n\n| ID                                       | Release Link                                 |\n| ---------------------------------------- | -------------------------------------------- |\n| [kpi](https://github.com/kmcsr/kpi_mcdr) | <https://github.com/kmcsr/kpi_mcdr/releases> |\n\n## Commands\n\n| Command format         | Introduction                                  |\n| ---------------------- | --------------------------------------------- |\n| `!!tp help`            | Show help message, aka `!!tp`                 |\n| `!!tp pos <x> <y> <z>` | Teleport to `<x>`, `<y>`, `<z>`               |\n| `!!tp ask <name>`      | Send an teleport request, aka `!!tpa`         |\n| `!!tp askhere <name>`  | Send an teleport request to here, aka `!!tph` |\n| `!!tp accept`          | Accept the teleport request                   |\n| `!!tp reject`          | Reject the teleport request                   |\n| `!!tp cancel`          | Cancel your teleport request                  |\n\n## Config files\n\n#### tpm/config.json\n\n```javascript\n{\n    \"minimum_permission_level\": { // Command permissions\n        \"pos\": 2,\n        \"ask\": 1,\n        \"askhere\": 1,\n        \"accept\": 1,\n        \"reject\": 0,\n        \"cancel\": 0\n    },\n    \"teleport_expiration\": 10, // in sec, the teleport request expiration\n    \"teleport_commands\": [ // Command list for teleport players\n        \"say Teleporting {src} to {dst} ...\",\n        \"tp {src} {dst}\",\n    ],\n    \"teleport_xyz_command\": \"tp {name} {x} {y} {z}\" // Command for teleport position\n}\n```\n"
+    "readme": "\n- English\n- [中文](https://github.com/kmcsr/tpmanager_mcdr/tree/master/README_zh.MD)\n\n# Tp Manager\n\n*If it's useful, please give a star :)*\n\n## Feature\n\n- Teleport between players\n\n## TODO\n\n- Check if target player exists\n- Teleport cooldown\n- Manage in game way points\n- Linking with login_proxy?\n\n## Dependencies\n\n| ID                                       | Release Link                                 |\n| ---------------------------------------- | -------------------------------------------- |\n| [kpi](https://github.com/kmcsr/kpi_mcdr) | <https://github.com/kmcsr/kpi_mcdr/releases> |\n\n## Commands\n\n| Command format         | Introduction                                  |\n| ---------------------- | --------------------------------------------- |\n| `!!tp help`            | Show help message, aka `!!tp`                 |\n| `!!tp pos <x> <y> <z>` | Teleport to `<x>`, `<y>`, `<z>`               |\n| `!!tp ask <name>`      | Send an teleport request, aka `!!tpa`         |\n| `!!tp askhere <name>`  | Send an teleport request to here, aka `!!tph` |\n| `!!tp accept`          | Accept the teleport request                   |\n| `!!tp reject`          | Reject the teleport request                   |\n| `!!tp cancel`          | Cancel your teleport request                  |\n\n## Config files\n\n#### tpm/config.json\n\n```javascript\n{\n    \"minimum_permission_level\": { // Command permissions\n        \"pos\": 2,\n        \"ask\": 1,\n        \"askhere\": 1,\n        \"accept\": 1,\n        \"reject\": 0,\n        \"cancel\": 0\n    },\n    \"teleport_cooldown\": 60, // in sec, the minimum teleport operation interval\n    \"teleport_expiration\": 10, // in sec, the teleport request expiration\n    \"teleport_commands\": [ // Command list for teleport players\n        \"say Teleporting {src} to {dst} ...\",\n        \"tp {src} {dst}\",\n    ],\n    \"teleport_xyz_command\": \"tp {name} {x} {y} {z}\" // Command for teleport position\n}\n```\n"
   }
 }

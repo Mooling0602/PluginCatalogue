@@ -6,7 +6,7 @@
   ],
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "branch": "master",
-  "related_path": "bingo",
+  "related_path": "src/bingo",
   "labels": [
     "tool"
   ],

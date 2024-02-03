@@ -25,7 +25,7 @@
     ],
     "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
     "branch": "master",
-    "related_path": "database_api",
+    "related_path": "src/database_api",
     "labels": [
       "api"
     ],

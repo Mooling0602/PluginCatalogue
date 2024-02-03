@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"ed0ee3d69d4a236c0cfd93eadcc2739efd536a3e1601dcde69cefad868bd1973\"",
-      "data": "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",
+      "etag": "\"4b7d697e6b882822e0da2c9604afd3c647b5fcd49babfb45e91a2f8cf2a2914c\"",
+      "data": "H4sIAJ9cvmUC/+3da2/aSBQG4L9S8XmJZ8bjq7SqWqWXSL1od9NutlWFHHDAjcGsbchN+e87M7bBJsbEiU+1iCNVqjo5PkNM/Q5PBpPvd71FHPbcF71Jms4TV9O8eXA0DtLJ4vxoGE212J9HiXY5HSaxls6n3swb+/FgOhzF4kuh7yV+olHdsQzCid377UXPSxI/TQYddtWylrL5Yh5G3mizeTaaPHeCu5czb+r/FnrnfngvZ5uk03BzrtIczd1Tb6wtyRE/0mWrYCSarCaUp2mRTqJYDN71wmgczOQctzfXl95oVe5QYjNOqfj3LBr5AzXY+3j8h/n17FM4/Hl5/fF4fPPp+M21Ou9LL/XiB+ddjRanZpH48TCapf4sVd/BQivmeLn8ncsu4zjvk02mznnjMylbJtr6ke84Z+vCiygMoytx8ODxE2irg9Ydgtm4fQdx0J0WpRPxrMmvqmd7HCRpqwejDrhTf4nTpXok4tTF/qhNl/wQ8XCuZuKR3Kn/ulmzxXkyjIN5GkSzVg+scqDsFMVjbxbceq07iQNVA3U5tTlQHSCP9JfiP1urQ7Mj7rR5HCy94c19Nv/QD5bixLZvt3Go7JbezH15+BdRp050kPoDbzRVV+GFFyb+ffWa+/PN4PLq+PPJmKSvbH7y9d3VierjjQcyMmTJ+lIXz+fYTwfigUyDNEgm8qtTL0mzuR7Wj2LvIi0mFv+ex34eIqXBYex7qfgmPFnZY4TxPmF9op8S4hrM1ek32Wq+OA/FjLV1oshwdf5tndGi4nsX8Z910yh3DEZ0w1nnXTGycTZfVc6meTaYlc/M6fxjNk0/O0dHcjZZoIJ5lUoq831MUExQTND/aYLmF8qgqPbm8zAYqnOoRcPUT/tJKnJtmj/vqSrKL+xR1vZWjlGLU5khI/EEq9d/w2gxkwHHzMZoLEfeYj56RNV5HF2Jb2mwmumpr/6KBvlLQK0+1O5/ZOvFuReGT3/FnDcovdq8DebPa5k3KLU8j0Y3otdsEYbiqe1ODTq3ANQgusKqYT0BkBrYhhrEhKgGXPNwzdtjNSw/1KqBtVQD+7Vq0F1iQauBMLahBjGyQw3m3w1qYKgGTFBM0ENXg/00NYjIM3erYVUFpAam1YcagBpY92pgcGrgFjVI52pQXSHVUJ4ASA20ogY1IaoB1zxc8/ZXDW+dz7VqoC3VQH+hGrI6A1YNhFGjqgY10qyG058nDWqgqAZMUEzQQ1cDq1WD84ho3LXXUA5GIDVQrT7UANRAu1cDBVSDwY3u36GkuoKqoTQBkBpIVQ1yQlQDrnm45u2xGoKbWjWQlmognahBbrDbj1CDqOMmqBq44zBbL6shG2lWw1/stEENBNWACYoJimp4ihrWkdekhnUVkBqIVh9qAGog3auBAKmB6JauM8q7VUPRFUwNGxOAqEE/4utVtJgQ1YBrHq55+6qGdx/SC79GDfml/mg15PVPU4PeJ0af0VNquobpsq1qqNbpDqAaiCM3F/Ry3uUjTWp4Nz6j/lY1iHOEasAExQQ9bDVQbtaqwTJ2Z2P+E5UHbKitAmGDCDGtPtU6Z0O+pnTJhrxl92xwdIs6Xd8NXTSFQsNGfyAzrH/yVsyHZMAFDxe8fSXD23CcXtWSQW9JBv1ZZGB9Zp5Sy+XMJXoDGcp1gBsNjsWI5bD1uzGLgSYwvL0h364bwIA3QmN+Yn4eOBiI+qHDAzBY/BHBaGz1wsMqIC/oWn2oAXhB794LOpwXbGKRzr0gm0J6odQfyAus4gU5H3oB1ztc7/bYC/+wWi+wll5gHXjBlO/G5c5OL4g6vdiKAPMCJ6TqBTnQ7IXb4aTBC3gLNOYn5uehe4HrdV5Qb1ZqDMZV4G33QrkKyAtMqw81AC+w7r3AIL2Q3fvWsRcMBuuFVX8gL9ANL6jbAdELuN7here3Xris9QJt6QX6a73AxB9YL8hPhat4QQ7s8sL7Bi/gzc+Yn5ifh+4Fo3Z/QV3ZO4LRoLu9sKoC8gLV6kMNwAu0ey9QMC8Qajtm115QTQG9UO4P5AVS9oKaD72A6x2ud/vrheHwpNYLpKUXyPO9QAyX2y7lu7yQ11mQXqCGaZul3dR8oNkLM6vf4AW87RnzE/Pz0L3g1HuBPCIYzWYvVKqAvEC0+lAD8ALp3gtAtz3bnNnEpLRTLxRNobyw0R/EC6y0v1DMh17A9Q7Xu731wuvxl581XmAt9xfYc/YXWJ/SPrPVZ4rThg9KqtZxwI9XtU1qWbZhrdMuH2j0wsly8nqrFxjuL2B+Yn4euBdMm9R+TJKj7w5GvuXDVWurQLzANvcXGNj+Aut+f4FB7S+Il8IWtzr+PW5FU0AvlPsDeYGUvaDmQy/geofr3f56wc9y7oEXSEsvkOd6wTplzOW6y61mLxR1hg7qBZPZulP2ghpo9kLMzhq8gPsLmJ+Ynwfvhfr9BWt3MOZvwNzihY1YBPIC0epDDcALpHsvwO0vmI5F9K69oJoCeqHcH8QLtOoFNR96Adc7XO/21wujf9/XeIG29ALtwgvUVr99aKcXqOMS4nIG6gVuMbuyv6AGmr0QHW/3AkUvYH5ifh66FwzTbO+FSuBt9UKlCsQLdNMLFMwLtHsv0Ide+PEfQ8b+q1+SAAA=",
       "empty": false
     },
     "2": {
@@ -164,10 +164,86 @@
         "en_us": "A Minecraft teleport manager",
         "zh_cn": "一个Minecraft服务器传送管理"
       }
+    },
+    "149520359": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.4.3",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.6"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "149520022": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.4.2",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.6"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "149502152": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.4.1",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.6"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
+    },
+    "149499283": {
+      "schema_version": 4,
+      "id": "tpm",
+      "name": "TpManager",
+      "version": "0.4.0",
+      "link": "https://github.com/kmcsr/tpmanager_mcdr",
+      "authors": [
+        "zyxkad"
+      ],
+      "dependencies": {
+        "mcdreforged": "^2.3.0",
+        "kpi": "~1.4.6"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A Minecraft teleport manager",
+        "zh_cn": "一个Minecraft服务器传送管理"
+      }
     }
   },
   "repos_info": {
-    "etag": "\"52708ab27a3ff705b05b60834d964b6ba902fd16924ff11106aa4ec98185f71d\"",
-    "data": "H4sIAPq2n2UC/+2YbW/bNhCA/4rhr0ssv8R5MVB0G4oFA7olGDIMcFEIlERLrClSIym7ieD/vjuKenPbNC6/7EOAIIlI3sPj8e7IYzVmyXg1Wl7N5tfX14vl2WgsZEJD2zr+K9ym7+5+T6fml/0Yu0hOsd0UOREkpSrM40Rhz6bkPGy6t3msVfDloEKxHTE4ZEO4ptAi94Iq+K7GXKZMtMI42qpws7i6uLi8nA/1urN6/bpel7+lOJQAlqiwVBx7M2MKvQqCulVPUmayMio1VbEUhgoziWUelEHDfrt7c4GUVDlOPQk2HRML5mg1ApA6aBXOTM6PdeiNbsdtJOdyD6Lhi/FBK9MBmEhPBoBMFUiTwaZg58Eum2lziip2fGX/gKUsQoPVFE1OgDgJUAY94FAFihayZpWRjhUrDJPiFLUGcgiSKiWCPZFTQSBn5VGjU+TseBSkO/CxUyRrgSqw8RE/HurZY8p2YNOTaUeSCDOPhQ3Mu55JrK2ZoSFJcht5NiYPL/Tjr0R3Qlv7o+RDMYLRMCjRozZLSLXtRf/za7L2/OZsiPqeVb5NCKw4crb00QOD0hX+biIhhjAjkVTESOXBHWCqwaedxlCSe+CtuE1ZUvpY0YrbXK11SV/mqs/gLEW34SDKPHI5ypfchQLRmqWCUg9Yi6iCNolGiog486E2hMr9V+8zSX22mdSZLOIy8sDAqMAiqkBnxJ0ZJvTTDaFIGDIV3XgykdAxjfLaaauksjvdEOHgMrDrHtCGEFQNkxORljDAA9oimuM4JU9U+WnpGHVaE0axqPTNah2ld9RHfop2kOPrgze0aA5KPMmY8Vq6BQy93ZuK/vkFGRv8smVDGKTgOsW7Lu8c/9Up3PXc08OQEFQ/FcRkjT0KoqiXORAQVBGBC9JkMqkySurjPqfKK2xreXsuqTiDW9uPo6qGAFebnBh7pd5YJRO4Y3NJEg89W0TrCd7H/GDnCygfPYhWfADMGafaSOG1OS1jgBbSsA2LX1RXPEMfYKq3momYnhHOz8DXDIsZ+C9Ua+58iCj3OhxQHhYB9bkrLjglXodYQ6gCd/FNaMHlo2fi6UFs5CpKDBQyxCBuPp3Pz2ez8/nVw+x6tVys5pdrW6MXyXDU4nx6fT5dPkyXq4sZ/KxrD9PZ0aAbHDRbrBbL1fxm3SRlpzz8+/2yB5dlDx2d9eR+7qRWz0nFHHzrxEKrnXEnfqBEy2ROC2gBMQEhYyvAJ/y6mA6vDbEsBVoK34P2xMC99KixuW+gAvePJquPyYzosI5uaDeqpK6tUPITjc1Ra5dUBs17tmVH4vZi09WNVpjpuISLOBb7XU9dFTaKTm0iUEo2T0Nu0S5TJj1BwJGID5pkQYVbTUtc4NJZTIWm9tUKKj+76QU/X0ym/Sey2z//Ht1SQRXho/syAqHR+1pwtHNDdZF8dm9Nt/fvG8DzweMm10F/yu5h7I938eXDLf+0/mf5tH7YvhljPU/w5QePhS0klM6yTIeG5gUfvsjtaeTuJSFWOXKzgUv5vyVTA9sYWbAYDf/hI3ztmGYR48xYYxR2tW2N7vahZ01nx8avnEcldENKbsK6+kFQTrSh9cMhVTlrN7saD54scJMJE4YMmjDe+worVntr18+5s8XBFtR5EdYBaeSWiuYBEHzMyBwdGHQwzCpfHY5el14fMF8fMF8fMP8/D5iCmj2knsE50K812/bDfxNg4C3/GAAA"
+    "etag": "\"928595dcb9b5ec0adc99bf5c5f1f415dc132b4614d085a8e4b3f8b8bf3295cd0\"",
+    "data": "H4sIAKBcvmUC/+2YbW/bNhCA/4rhr4sjxy+JZ6DoNhQLBnRrMHgY4GEQKImWWFOkRlL2EsH/fXcU9ea2aVx+2YcAQRKRvIfH492Rx2rMkvF6tLy7ma1Wq/nyajQWMqGhbR3/Hu7Tdx9+Safmx+MYu0hOsd0UOREkpSrM40Rhz67kPGy693msVfDpoEKxAzE4ZEe4ptAij4Iq+K7GXKZMtMI42qrw/fxusbi9nQ31+mD1+mm7LX9OcSgBLFFhqTj2ZsYUeh0Edau+TpnJyqjUVMVSGCrMdSzzoAwa9tvDmwVSUuU49STYdE4smKPVCEDqoFU4Mzk/16E3uh23k5zLI4iGL8YHrUwHYCK9GAAyVSBNBpuCnSe7bKbNJarY8ZX9A5ayCA1WUzS5AOIkQBn0gFMVKFrImlVGOlasMEyKS9QayCFIqpQI9kQuBYGclUeNLpGz41GQHsDHLpGsBarAxkf8eKpnjyk7gE0vpp1JIsw8FjYwP/RMYm3NDA1JktvIszF5eqEffya6E9raHyU3xQhGw6BEj9osIdW+F/3Pr8na84uzIeprVvkyIbDiyNnTRw8MSlf4u4mEGMKMRFIRI5UHd4CpBp92GkNJ7oG34jZlSeljRStuc7XWJX2Zqz6DsxTdhoMo88jlKF9yFwpEa5YKSj1gLaIK2iQaKSLizIfaECr3X73PJPXZZlJnsojLyAMDowKLqAKdEXdmmNBPN4QiYchUdOfJRELHNMprp62Syu50Q4SDy8Cue0AbQlA1TE5EWsIAD2iLaI7jlDxR5aelY9RpTRjFotI3q3WU3lEf+SnaQc6vD97Qojko8SRjxmvpFjD0dm8q+ucnZGzwy5YNYZCC6xTvurxz/GencNdzTw9DQlB9VxCTNfYoiKJe5kBAUEUELkjX19dVRkl93OdUeYVtLW/PJRVncGv7dlTVEOBqkxNjr9Q7q2QCd2wuSeKhZ4toPcH7mB/sfAHlowfRig+AOeNUGym8NqdlDNBCGrZj8YvqimfoA0z1VjMR0yvC+RX4mmExA/+Fas2dDxHlXocDysMioD53xQWnxOsQawhV4C6+CS24fPRMPD2IjVxFiYFChhjEzaaz2eTmZjK729ys1sv5ena7tTV6kQxHzSfT1WS63EyX68UN/GxrD9NZf9BiMp1NpvPNdLaeL9fzxbZJyk55+PfrZQ8uyx46OuvJ/dBJrZ+Tijn41oWFVjvjQXxDiZbJnBbQAmICQsZWgE/4tVgNrw2xLAVaCt+DjsTAvfSssblvoAIPjyarj8mM6LCObmg3qqSurVDyI43NWWuXVAbNR7ZnZ+L2YtPVjVaY6biEizgW+11PXRU2ik5tIlBKNk9DbtEuUyY9QcCRiA+aZEGFW01LnOPSWUyFpvbVCio/u+kFn8yvp/0nsvvf/hjdU0EV4aOHMgKh0ftacHRwQ3WR/Ovemu4f3jeA54PHTa6D/pTdw9iv7+LbzT3/uP1z+bTd7N+MsZ4n+PKDx8IeEkpnWaZDQ/OCD1/kjjRy95IQqxy528Gl/J+SqYFtjCxYjIb/62/4OjDNIsaZscYo7GrbGt3tQ8+azo6NXzmPSuiOlNyEdfWDoJxoQ+uHQ6py1m52NR48WeAmEyYMGTRhvPcVVqz21q6fc2eLky2o8yKsA9LIPRXNAyD4mJE5OjDoYJhVvjqdvS69PmC+PmC+PmD+fx4wBTVHSD2Dc6Bfa7btp/8APHImJ/8YAAA="
   }
 }

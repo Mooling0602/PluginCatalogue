@@ -6,7 +6,7 @@
   ],
   "repository": "https://github.com/AnzhiZhang/MCDReforgedPlugins",
   "branch": "master",
-  "related_path": "online_player_api",
+  "related_path": "src/online_player_api",
   "labels": [
     "api"
   ],
