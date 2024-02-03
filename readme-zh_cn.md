@@ -114,7 +114,7 @@
 | [simple_test](/plugins/simple_test/readme-zh_cn.md) | [Ricky](https://github.com/R1ckyH) | 服务器基础自检插件。 | 2021/10/25 | [`信息`](/labels/information/readme-zh_cn.md) |
 | [SimpleTranslator](/plugins/simple_translator/readme-zh_cn.md) | [skuzow](https://github.com/skuzow) | In-game translator | 2022/07/12 | [`工具`](/labels/tool/readme-zh_cn.md) |
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个多功能Minecraft存档备份插件 | 2022/05/11 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2022/11/25 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2024/02/03 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Stats Helper](/plugins/stats_helper/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个 Minecraft 统计信息助手 | 2022/05/18 | [`工具`](/labels/tool/readme-zh_cn.md), [`信息`](/labels/information/readme-zh_cn.md) |
 | [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | 2023/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2023/03/26 | [`管理`](/labels/management/readme-zh_cn.md) |
