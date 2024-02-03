@@ -3,7 +3,7 @@
   "id": "fastapi_mcdr",
   "name": "FastAPI MCDR",
   "version": "1.0.0",
-  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/fastapi_mcdr",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/fastapi_mcdr",
   "authors": [
     "Andy Zhang"
   ],

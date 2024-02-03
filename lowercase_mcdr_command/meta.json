@@ -3,7 +3,7 @@
   "id": "lowercase_mcdr_command",
   "name": "Lowercase MCDR Command",
   "version": "1.2.2",
-  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/lowercase_mcdr_command",
+  "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/lowercase_mcdr_command",
   "authors": [
     "Andy Zhang"
   ],

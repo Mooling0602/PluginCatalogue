@@ -4,7 +4,7 @@
     "id": "minecraft_command_register",
     "name": "Minecraft Command Register",
     "version": "1.7.3",
-    "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/minecraft_command_register",
+    "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/minecraft_command_register",
     "authors": [
       "Andy Zhang",
       "ZhuRuoLing"

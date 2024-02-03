@@ -4,7 +4,7 @@
     "id": "qq_chat",
     "name": "QQChat",
     "version": "2.1.0",
-    "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/qq_api",
+    "link": "https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/qq_api",
     "authors": [
       "Andy Zhang",
       "Aimerny"
