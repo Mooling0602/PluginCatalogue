@@ -6,6 +6,6 @@
   "archived": false,
   "stargazers_count": 10,
   "watchers_count": 10,
-  "forks_count": 0,
+  "forks_count": 1,
   "readme": "# MCDR_HibernateR\n\n一个MCDReforged插件，可以在服务器没有玩家的时候自动关闭服务器。有玩家尝试访问的时候开启服务器。  \n如果您觉得该插件还不错，请点一个Star!\n\nA MCDReforged plugin. When there are no player in the server, the plugin can make it shutdown. And if someone want to visit the server, the plugin can make the server start again.  \nIf you like this plugin, plesae give me a star!\n\n在 `1.1.0` 版本后，你可以使用 `!!hr sleep` 和 `!!hr wakeup` 命令来手动控制服务端。\n\n![Sleep](https://github.com/HIM049/MCDR_HibernateR/assets/67405384/3a20a813-9bca-4e40-942c-1dbeaac225b9)\n\n## 代码参考\nhttps://github.com/Dark-Night-Base/Hibernate  \nhttps://github.com/ZockerSK/FakeMCServer\n"
 }
