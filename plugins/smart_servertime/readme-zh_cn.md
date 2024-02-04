@@ -11,7 +11,7 @@
 - 版本: 1.3.7
   - 元数据版本: 1.3.7
   - 发布版本: 1.3.7
-- 总下载量: 455
+- 总下载量: 456
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/smart_servertime_mcdr
 - 仓库插件页: https://github.com/kmcsr/smart_servertime_mcdr/tree/master
@@ -42,7 +42,7 @@
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [SmartServerTime-v1.3.7.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.7) | 1.3.7 | 2024/02/04 00:21:18 | 17.42KB | 2 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.7/SmartServerTime-v1.3.7.mcdr) |
+| [SmartServerTime-v1.3.7.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.7) | 1.3.7 | 2024/02/04 00:21:18 | 17.42KB | 3 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.7/SmartServerTime-v1.3.7.mcdr) |
 | [SmartServerTime-v1.3.6.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.6) | 1.3.6 | 2024/02/04 00:14:04 | 17.43KB | 2 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.6/SmartServerTime-v1.3.6.mcdr) |
 | [SmartServerTime-v1.3.5.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.5) | 1.3.5 | 2024/02/04 00:09:42 | 17.43KB | 2 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.5/SmartServerTime-v1.3.5.mcdr) |
 | [SmartServerTime-v1.3.4.mcdr](https://github.com/kmcsr/smart_servertime_mcdr/releases/tag/v1.3.4) | 1.3.4 | 2024/02/03 23:52:18 | 17.43KB | 4 | [下载](https://github.com/kmcsr/smart_servertime_mcdr/releases/download/v1.3.4/SmartServerTime-v1.3.4.mcdr) |
