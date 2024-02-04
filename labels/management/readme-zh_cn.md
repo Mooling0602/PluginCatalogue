@@ -38,7 +38,7 @@
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 多槽位备份/回档插件 | 2023/12/22 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Region file Updater](/plugins/region_file_updater/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个从指定位置拉取region文件至本服存档的插件 | 2022/03/08 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [SmartBackup](/plugins/smart_backup/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个多功能Minecraft存档备份插件 | 2022/05/11 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2024/02/03 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [SmartServerTime](/plugins/smart_servertime/readme-zh_cn.md) | [zyxkad](https://github.com/zyxkad) | 一个Minecraft自动停起服务器插件 | 2024/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [The Offline ops](/plugins/the_offline_ops/readme-zh_cn.md) | [ltBerryshdo](https://github.com/ltBerryshdo) | 检测玩家IP以防止冒名登陆离线服务器 | 2023/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Timed QBM](/plugins/timed_quick_backup_multi/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个QuickBackupM插件的扩展，用于定时触发QBM从而进行自动备份 | 2023/03/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [World Copier](/plugins/world_copier/readme-zh_cn.md) | [Alex3236](https://github.com/alex3236) | 同步生存服和镜像服 | 2022/04/03 | [`管理`](/labels/management/readme-zh_cn.md) |
