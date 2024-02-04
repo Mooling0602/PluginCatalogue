@@ -2,7 +2,7 @@
   "schema_version": 4,
   "id": "smart_servertime",
   "name": "SmartServerTime",
-  "version": "1.3.3",
+  "version": "1.3.7",
   "link": "https://github.com/kmcsr/smart_servertime_mcdr",
   "authors": [
     "zyxkad"
@@ -10,7 +10,7 @@
   "dependencies": {
     "mcdreforged": ">=2.0.0",
     "kpi": ">=1.3.2",
-    "loginproxy": ">=0.6.6"
+    "loginproxy": ">=0.6.9"
   },
   "requirements": [],
   "description": {
