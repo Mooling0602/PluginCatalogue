@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"82ff6ae4112b890551c3010157361a662c82473e336c17aaa592a6386d0e22b7\"",
-      "data": "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",
+      "etag": "\"5021ffde0a0d7e3ed0792669d2ed98801b762b2e876d81fbca454254118451e5\"",
+      "data": "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",
       "empty": false
     },
     "2": {
@@ -126,6 +126,24 @@
       "id": "leader_reforged",
       "name": "Leader Reforged",
       "version": "1.0.0",
+      "link": null,
+      "authors": [
+        "XavierWah"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+        "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+      }
+    },
+    "60207466": {
+      "schema_version": 4,
+      "id": "leader_reforged",
+      "name": "Leader Reforged",
+      "version": "1.1.0",
       "link": null,
       "authors": [
         "XavierWah"

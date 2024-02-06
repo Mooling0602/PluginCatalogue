@@ -107,6 +107,40 @@
       }
     },
     {
+      "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.1.0",
+      "name": "Release 1.1.0",
+      "tag_name": "v1.1.0",
+      "created_at": "2022-03-22T05:43:13Z",
+      "description": "This is Leader Reforged 1.1.0!\r\nWe have added some new features, so you can use it more conveniently!\r\n- Modified usage `!!leader`, now it shows help messages.\r\n- Added usage `!!leader + [Player]` for marking players.\r\n- Added usage `!!leader - [Player]` for unmarking players.\r\n- Added usage `!!leader ?` for querying present leaders.\r\n\r\nThere are many more changes behind, read our source code if you are interested in it.",
+      "prerelease": false,
+      "asset": {
+        "id": 60207466,
+        "name": "leader_reforged-v1.1.0.mcdr",
+        "size": 9958,
+        "download_count": 11,
+        "created_at": "2022-03-22T05:45:03Z",
+        "browser_download_url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/download/v1.1.0/leader_reforged-v1.1.0.mcdr"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "leader_reforged",
+        "name": "Leader Reforged",
+        "version": "1.1.0",
+        "link": null,
+        "authors": [
+          "XavierWah"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "This is a simplified and reforged version for Leader, allowing to mark a leader.",
+          "zh_cn": "这个插件简化并实现了 Leader 的功能，使得可以指出一个玩家作为导游。"
+        }
+      }
+    },
+    {
       "url": "https://github.com/Minecraft-AMS/Leader-Reforged/releases/tag/v1.0.3",
       "name": "Release 1.0.3",
       "tag_name": "v1.0.3",
