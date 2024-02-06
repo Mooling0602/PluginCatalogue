@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"67933a47f0941af9c54cdb24ed868e3b709060dfcfd05aac7215c46c6e695815\"",
-      "data": "H4sIAE+VwWUC/+1W0U7bMBT9FatPm9TGTRpGU2lDIEBi2sSE4AWYIjd2EwvHzmynXan677t20gLdhlbo08RDldY995ybe6+PfbPo1Fp0RqhTWFuZEcak4kHObVGPg0yVWLNKGSzsEdN6bgqqsC1YqiYTwSU8KwMIwYhhBifhIE7CcL/TRR1iDLMm3Tk3boidRF0JReimRLNqdiOzOJCkZF1BxkwsnWZhS7Gp+EjpnzQsyfE0DELHxykwrURd2WpbKA1ri45QOZdO5xHpOiTs7/XjON4PYUEqylK/2rlK7/Lj86O7L9fJzHdhSizRv3XBr65KVBumMyUtk9a/Q43X5AfTj7GjyXVL1Kj44j/bWMf5pOLb1c6hJ0oINQOadEspvI58oOEyfyENRC6wgl5CFQHihyDnxm6flo9a+AfU0RMZqKlmdGuqNg4Sm0nIaeEnvGGsxybTvLJcye1TfBLt6JTOieT35GV0EO1Z/P7bOtpHuXA2hdHcPr4JW+BK8ynJ5ssmk4zxKVT8hZwb8Y7Szivmtx6AfQe4ZSmhpd+7EyIMWz7doxcn6d3s+PzMxJ+NiU8zdpR4HpKnzmwcZOUO0Oac2RRyKbnlpnD/lQSYHWOLvaoosQxZhVZRVJOJXYnD70qz1nseLWaaQRhNiUN2on406PWjXj++7CejvcEoiq8dVVWPBej+CReGo0E0ipPrB7cHxM0Oj5OGFCdxNIz3h/0Hu2wXNsp6+KSs8sfUPC7TZcHOGxHQ6LlSBWVGfce8uwNG1kKsjxX2ZsJvJvxmwv+VCbcbLF2hSVUJnvm6YpVZZnvGgi2W7VRYD2rtgDa0925t70OSOJ+FxvsbaKZq6ewxHEbPOWvjmIMP183llT6LGnrUWKsZvFK6lnrl1XPF4++f+G+euPzenD1jIsSrb/Atz/rGe8+rnfC2PGvesaJzRxgG6OwbghlRmhrEDZJqhrhEBMFJZlGv1/uEUvf13fu0i2xBLCoZkQbNVY0yIhFYvsND2adMoxnkhCifTOAMlRaojfvzYSFzdQ1u9a2MAnTKfyKjSuY4YLAEKkGH3LWAQYAOKUVlLSzv8Qq5Y51I2kUw4pAIpAqHOMwkkxR0fEgcoPZ8vzg5PP56ggAP+lYrWmdubtGEi5befdpGOwyK8AC7uYJ2/gJjQSRi5Q0AAA==",
+      "etag": "\"18a5eb3fa1452c11c858fb41fa483b7a3343b4c2a3d5a8986ecbb4f9e514a4f1\"",
+      "data": "H4sIAEyZwWUC/+1XXY/iNhT9KxZPrTSQTz4SqV3NiFlpq1ZTrWZVaXZXkYlNsMax09iBZdD89147CTB0Bi0svLQ8IOBy7znm2jnX5/OqU5W8E6POTOtCxY6DC9bLmJ5Vk14qc6ekhVQO1ze0LJdqRqSjZzSR0ylnAt4LBRmcYkWVE3lBGHnesHOFOlgpqlVycmynBjYUVcElJrsUdVSdhmb1TuCcXnE8ofzZcM50zncZt5i+i0PjzJl7Pc/gMQJILalpW6VnsoTYqsNlxoTh2QJdl3hu3w3DcOhBQEhCExvtfEoes/HdzePvD9HC7sIca1z+axdstG1RpWiZSqGp0PY/VM4a/N38l9DAZGUDVLPY5u/dWIP5ouOH9c5kTyXncgEwyYFUzrpyA8NEdiQMVK4cCXsJXYQUewgypvThy7JVK/sGfbRACnpaUnIwVFMHC1sIWNPKnvAasZqotGSFZlIcvsQX1QZOlhkW7AkfBwfVFsU+fwdX2ypTTudwNA+vr8tWTlGyOU6Xz/VKUsrm0PEjMXfqDaReFtQ+epBsd4BpmmCS22d3irmizy+f0Y+3yeNifPdBhb8pFb5P6U1kcXCWGLExKa06wDZnVCewlpxppmbmtxwDskFscj8VBGuKtERtFSnxVLfk8L0oaaM9W8G0pFBGEmwyO77rB13X77rhvRvF/SD2wwcDVVQTDryv5XleHPhxGD1s1B4yPp9wnNSgThT6o3A4cjdy2QR22nr9oq3i77nabtP9jN7VJMDRNa3q5SmxO2bVHXJExfl6rNCLCF9E+CLC/ykRbh6wpM3GRcFZavvqyFRT3VUaZDFvToW2SY0ckBr2ycT6gygyOgsbb2+gqayEkUdv5O9T1loxg8FDfXkle7NGNmtSygX8pWRN9YNXzxbH3j+dtzTx+Ws9eyaY8x++wTc46xvvEytOgtvgrHEnkiwNoNdDH/5EcEZkSRRiCgm5QEwgjGCSadTtdn9Fifn408/JFdIzrFFOsVBoKSuUYoFA8k0+tH1OS7SANSHCplOYoUIDtDI/bgKp6WvvS/lF+D30nn1DSubUYMDB4igHHvzYJAQ9dE0IyiuuWZcVyIx1LMgVgiMOC4GlwhCHM0kFAR5bEvZQM98/3l6P/7hFkA/8upSkSs25RVPGG3jzajba5CDfCRxzrjpw9E84lUfRYDAchcE5TF6LfWaTt0NzTpO3ubW0pBeTd7lfXO4X/zOT99f4cfyKyXO/1+TBpEbNqEYgM6itPdrqeV3fvXeHcRDF7mCP1WvzQnCF/vmtnh+6QX803Fi9JrDX6mVTOt5r9dyL1btI8UWKL1bvCKsXDtzXrF7g7xNWz4/Dfuz133R621nDszs913lLEs/l9NwzOT132+mBPVPGAkF41/t44Hwa8/P1H14apXPiGgAA",
       "empty": false
     },
     "2": {
@@ -29,6 +29,24 @@
       "description": {
         "en_us": "Check the player's IP to prevent impersonation of logging into the offline server",
         "zh_cn": "检测玩家IP以防止冒名登陆离线服务器"
+      }
+    },
+    "92403587": {
+      "schema_version": 4,
+      "id": "the_offline_ops",
+      "name": "The Offline ops",
+      "version": "1.0",
+      "link": "https://github.com/ltBerryshdo/the_offline_ops",
+      "authors": [
+        "ltBerryshdo"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "Provides a method to protect admin and normal player's account in game server, which 'online-mode' is 'false'",
+        "zh_cn": "为未开启在线模式（正版验证）的服务器提供了管理员和普通玩家账号保护的一种方法"
       }
     }
   },
