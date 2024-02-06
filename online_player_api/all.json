@@ -80,7 +80,7 @@
     "archived": false,
     "stargazers_count": 86,
     "watchers_count": 86,
-    "forks_count": 62,
+    "forks_count": 61,
     "readme": "# OnlinePlayerAPI\n\n> 在线玩家 API\n\n## API\n\n`check_online(player)`\n\n如果玩家在线, 返回 `True`\n\n如果玩家不在线, 返回 `False`\n\n`get_player_list()`\n\n返回一个在线玩家的 list\n"
   }
 }
