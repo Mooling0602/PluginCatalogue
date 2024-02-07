@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"019fec3de3cfcdf509aaaa7b6bbc6bbbe00b1e7d08aaf66fc659c304629432b0\"",
-      "data": "H4sIAMovw2UC/+1Wa2/aMBT9K1U+F/JOAWmq1jFp01R1fezDKFPqJCZYOHFqOyCI+O+7dsKjVF2XtpP2oUIKcHPPOfa99rFvK6Pk1BgcGVMpCzEwTVSQbkrktIy6MctMjgsmTPId5ZgO8bz51Tn/NLzCE8ZTnEAKxUhgYdqu4564Qc81jo8MJASWIvwH7GZNrUTKgjKUHIrUUfFWQtVpjjJ8TFGE6VqpTmVGDzX3tP5ORaLUdLpu11KMJAGura6qXimnjEOwMihLSa6kRohIlue7fMu1A8/rWxDIWYJDHTV+hLN0eHFGft5fp7oRcyQRf9QIHd3UqBSYxyyXOJd6CqW5JT+df/AUTcobolpFV/+PvVWcwtwb9DNl28ucMErZAuBhCwlzi9pRkDx9AQWgKpPJKYaqwWvd85QI2W44GlHpL6iZJhFQP46TVjQNBga0yGEslV7KNVsZiZiTQhKWtxvaA6SigrWJcrJC7akAqRn0BmuF1AgFxXNYdu2wNaQyC07mKF6u6xHEmMyhui/gO8AqOrkssN5OkKirTSQOUZLpvThBVOD1w3139TmcLYYX385ml/zc++L1lyvNg9JQ+YdK2e536GmKZQgDyYgkYqpeZojoxf8oOeFoIjei8L/guHGRvWDMMZIwASQ11nLcjm13nODG8geWN/DckaIqyoiC3EGe07GcG9sa2JDqj3bmDRm3b3k+1Kzgrz0/cOy+t+d8TeSgoh/3K/r1cnZ/vV+gx1KduS4afLI40V3Tpg3JeUnp9rzA78b6bqzvxvpfG2uzacJNNioKSmJdR5PFEsuOkGB5WdN9qZOa7Z3UtCsVO7Ft5SoJNFlfFWNW5sr6XP8J09yaoTfwe6P6kpk8nQWWaemsiLMFzCjcKr32grghqm+J5rNut/5VHywRovT11+6GaHdFXZHibZgboh1zxJKlouwcjctekkzGZT/owTMIJh48/cgal77jWncacQcT/Q2P9ttztgwAAA==",
+      "etag": "\"d1137f298008ef7c4bec4c9657be1c9dbc7590eab814c573b638c2ba6989e1c2\"",
+      "data": "H4sIANM2w2UC/+1XYW+bOhT9K1k+rdIIGAMhSFv1tk7r9LTXt7Xvw5pUzIBDrDpAwaRKo/73d21IQtOXZVmb6U1CVWnq3HuOudc+9hkuumXOu16nOxEiKzxdJxnrxUxMyqAXplM9p1la6OxvklB+Qmf1J+3Tu5MvdJzmMY0ghFNS0EJH2MR97Li4+6rTJUVBReEfAF2voCVJmfGURJsk1WjxXESL44RM6StOAsrvJetETPkmZ4Prx1gEiXWzh3uGRGQRYK14ZfVKMUlzGFx0eRqzRFJdEibSJFnHGxg5ljUwYCBJI+qr0e4//nV8cvaWfb05j1UjZkSQ/FEj1OiyRmVB8zBNBE2EeoVSX4Efz15bEibOa6CKRVX/u72VmIXemPSOsjUixynn6S2k+3tQ6KusNQRL4p+AgKyFnooJharB16rnMSvEftNRGQv1B2qmQAqoX06jvWDqHJjQbQJzWailXKGVQRHmLBMsTfab2oNMCQVrkyTsjuwPBZkKQW2wvTJVhkylM1h2++VWKQs9y9mMhPP7agYhZTOo7k/gbeRKODHPqNpOEKiqzQT1STRVe3FMeEHvH+67L+/969uTsz/fXn/OP1mn1mB+p3BI7Ev9kCGr/Q49janwYSJTJlgxkV9OCVOL/1FwlJOxWJLC/1lOaxVpDIY5JQJegAiVa5hYQ0gznQvD9gzLs/ClhMrKgAPdRpypGeYFMjwEofblWrwhYvic50OFCvrq2o6JBlZD+eqRjYr+0azox8/XN+fNAj2m0maqaPAzDSPVNSXaEJyUnK/OC9oKayusrbD+r4W13jT+MppkGWehqqOehoIKrRAgedO6+0IF1ds7qmDv5FgfIakqETRZXRXDtEyk9GF7i2iuxNDybPeyumRG26NAMg0VFeTpLbyRv2J66gVxCVTdEvWdand/VR0sAeH86dfuGmh9Rb1j2fMg10Br5CCN5hJS64xKN4rGo3LguPB0nLEFTzswRqVtYuObyvjWheXxrK4FWfYA923zMK5liX5w17JBdEjXgtZH5ZK19Szt0doerb+3Z/mAPvpfH3sW9OOOBfX6PXPwFNNi9DWMpGkxDQ9b202L4WoGxIGzsTxk/ALTggY2NhzHbkhfPfI903J6qp1nu01LVbfWtbTS2kpr61q8jtM38H+6FrxFNVdqiD0Db3MtD6Ksg7sWpO8Wu0OZFnQgy4KahuXF8AMTp2XQqd++8zKYd+DsPLp6ueRi07hXTBjlcLFnaV3OVZF20MoSilQQflyIOaevx5zAAropSU6PRvkokb9vhi/+Ort4f6U+j8rIxRE8Q2swlNbJ7cPTdXBjQpmk6UHPKUt6YQhzCQs9LllEdZbAmkxCqjcmcdTAdKFd/wJSPxHFMRoAAA==",
       "empty": false
     },
     "2": {
@@ -30,6 +30,25 @@
       "description": {
         "en_us": "An iPanel instance plugin for MCDReforged that works with iPanel to provide users with a web-based console.",
         "zh_cn": "适用于MCDReforged的iPanel实例插件，搭配iPanel使用可为用户提供网页版控制台"
+      }
+    },
+    "119530665": {
+      "schema_version": 4,
+      "id": "ipanel_mcdreforged",
+      "name": "iPanel-MCDReforged",
+      "version": "2.1.7.29",
+      "link": "https://github.com/iPanelDev/iPanel-MCDReforged",
+      "authors": [
+        "Zaitonn"
+      ],
+      "dependencies": {},
+      "requirements": [
+        "psutil>=5.8.0",
+        "websocket-client>=1.6.1"
+      ],
+      "description": {
+        "en_us": "An iPanel instance plugin for MCDReforged that works with iPanel Host to provide users with a web-based console.",
+        "zh_cn": "适用于MCDReforged的iPanel实例插件，搭配iPanel Host使用可为用户提供网页版控制台"
       }
     }
   },
