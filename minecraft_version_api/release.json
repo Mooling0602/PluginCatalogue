@@ -41,43 +41,6 @@
       }
     },
     {
-      "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.1.0",
-      "name": "MinecraftVersionAPI v1.1.0",
-      "tag_name": "v1.1.0",
-      "created_at": "2022-04-05T05:20:21Z",
-      "description": "## Changes\r\n\r\n - 22w03a, 22w05a, 22w06a, 22w07a will be normalized to 1.18.2 snapshots\r\n - Supports MCDReforged [`get_server_information`](https://mcdreforged.readthedocs.io/zh_CN/latest/plugin_dev/classes/ServerInterface.html#get-server-information) api (MCDR 2.1+)\r\nHowever you can still use this plugin with MCDR 2.1-",
-      "prerelease": false,
-      "asset": {
-        "id": 61572537,
-        "name": "MinecraftVersionAPI-v1.1.0.mcdr",
-        "size": 3153,
-        "download_count": 113,
-        "created_at": "2022-04-05T05:25:12Z",
-        "browser_download_url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/download/v1.1.0/MinecraftVersionAPI-v1.1.0.mcdr"
-      },
-      "meta": {
-        "schema_version": 4,
-        "id": "minecraft_version_api",
-        "name": "Minecraft Version API",
-        "version": "1.1.0",
-        "link": "https://github.com/Ivan-1F/MinecraftVersionAPI",
-        "authors": [
-          "Ivan1F"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0"
-        },
-        "requirements": [
-          "mcdreforged~=2.3.2",
-          "parse~=1.19.0"
-        ],
-        "description": {
-          "en_us": "A api plugin to get the Minecraft server version",
-          "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
-        }
-      }
-    },
-    {
       "url": "https://github.com/Ivan-1F/MinecraftVersionAPI/releases/tag/v1.0.0",
       "name": "MinecraftVersionAPI v1.0.0",
       "tag_name": "v1.0.0",

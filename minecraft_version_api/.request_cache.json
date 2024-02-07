@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"44c63234b3f9e9885da329d434c34bb05b3e113383432ec21ca1e1e720b456e2\"",
-      "data": "H4sIAO1JumUC/+1Zj2/aOBT+V3xUkzbdIM5PINI0baXbVbq2t63dndZNwSQGsoU4Fzt0FPV/v2cnUGANLQWm0xRVVRTnve89P9vf8ycup7UsjWouqg2FSLiraSQJG4NQDLNew2cjLaUJ49rxmMR1/Y12EsbUT0lffKQpD1n86q9jsIgo4ZRrTdu2HGw7teeoRjingns7x9ZyYBkiSyJGgtUQ+SjfTZjpy5iM6POI9Gh0I2MOxShajbgQ6UExBBloY70BfxIxDABrFlYWLhNDlsLYtBaxQRjLSAXs3NxuNtt2227Ce8wC6qnB2knnnfPxn9PI/3phnl5/08/OL0y1FGMiSPrDUqjRWZ0yTlOfxYLGQk0k02YxXo5fWBJlkBY4eTC1AGsXV0LOq/7w2knLPosidgXu3gYhtLnXLUQYDx4BAV5TjYkhhaLBZ7Xwg5CLzdJRHlP1gJopEA71S2mwEUzhAwldxZDLVO3mHC3rcT8NEwEbbLPUljwlFEsHJA6vyeZQ4KkQ1BnbyFN5SFc6hl23mW/uMtWSNBwTf3KTZ+DTcAzVfQTeiq+EE5OESv8LMFTVDgX1SDBSJ7JPIk5vlo/f+yPv21Xn7G37SHzl1tHgT/NY4ZCBJ0lEmtyeeljUARUeZDIKRciH8uuIcJHHmtnfQSPoFiOQX2bJwHuS0oJjFgb9lBIBEyPSsmZgw6jjVt1onuu2a7dcbH2SUEnWiyCLMru2a+R2Bfm66HKHbSMH1ZoONk3TcG5JsRhYKfOrpTKHhzi7p2T1vGSNkR+o6io2n3OYahd0hXDzidSJrw7EZY+JL/O0LL3VbhktY5V8T5x3ozY+7RxZZ+eDyVnn+MVjyTeMNd02ndaW1Ls8iSf2a5jGE7vzAComSbLqvjktl4TfhqbXQ25H22XYW9J4Gewuab00xvY0Xwa9Oe2XIT2mDZRh7aotlOda2iZeM1HeJYrD7c2M4XxFoa+WQWO+oKLOBfD0qNhcQhkVzBTksNdyzNQNWxI/7Bl19fVZFku+1put+6i+7Vr6p5zwgrVWhrLqpewKSuHNQ215553hFBdf7T6avvmSN8keiaKtRUSBs3Dpvg6TnSAXOAvIPRZMJOTBAXoTfqf8c/o5lv919RogoCcU0ITGAY39kHLEYtSVU6Z9OFM06CISB6ibQHeg3Rpsnh02Wse0W22rjfehz2bYe9ZnK2H2q8/wvOfPwlb6rNJnlT77FfRZZ/Lt++ROfYZ3oM/wVvrMqmP7HNuugV1DX6PP5na2q9t712eObjcN22zekmIxsE6fdf61/rYfpM/wD/oszqKoVKFVlFtRbkW5/0fK3Z3Ysc07xY5u3sebwIdGqdhZtLJ+gtjB2n2ctz+xg/cmdvCK2DkcknhwK3dQHRnGFTbJc/W0i6dTPJsEXYVRhHoUxSwdkQiWHLQRQwDdahiIxyThQyZ4gfUhSxKWCo5ODjvvC6WELruyRcPCjWHtwrgvgeQu6355OpvjgrBqwIYJgMAC5vNGyLTroXd4qkWwPbjQkiiDvuIFdKz5kex3XPugcI9hL6d94tOGpOqDgdy96kN9IeAzBLVET2VuyGjovz+TWf8BvAt2aMIy5JMYcSEnDGcMJGDIUR4RqiCGaOZY37nesyzHaLf3o/dy7L3rvaUw+9R7eEnv5WErvVddPqrLx6+h917j3h16D+9A7+Ht9Z5xrjuurru2sV7v5XZtF/8MvWc6esu2F/RePrBe7x053gP0Hq70XkW5FeVWem9B72EL36X3HPM+2gQ6XCv35lb7l3u4XO7hfcs9vDe5h5flHuwH1B3NXLxx7uOpCNBEf/jy9FlXajv4pn7+KkYR66vXeWyUK6vfoED/AX5nApuWKAAA",
+      "etag": "\"7fa74064a195f4e0642a58d9e9657e1416b68b2d7064ed6cdeb85884a1ec4937\"",
+      "data": "H4sIANo+w2UC/+1XDW/bNhD9K5qLAhtQW9+yJaAomtkdAizJWiTF0LSQaYmW2cqiJlLOHCP/vUdKsh0nsuMvYBiMwAhE3r07Hsl3fLezRp7FDU9pjDhPmaeqKCWtiPBRPmgFdKxmOKVMPZ+gpKl/UC9IgoMMDflnnDFCk/d/nYNFjBHDTG3btuVottN4ozQQY5gz/+DYagEsQuRpTFG4GqIYZYcJM3uXoDF+E6MBjh9EzBEfx6sRlyK9KAZHkTrRW/AnEEkIWFVYUbicj2gGY7NGTCOSiEgl7Nzcbrdd27Xb8J3QEPtysHHR/eh8/vsyDr7fmJf3P/Sr6xtTbsUEcZQ92Qo5WtUpZzgLaMJxwuVCcrWK8W7y1hIoUVbiFMHkBqzdXAE5r/rLaycshzSO6R24+1uEUOdeCwiSRDtAgNdMpXyEoWgwLTc+Ioxvl470mMl/UDMJwqB+GQ63gil9IKG7BHKZydNcoOUDFmQk5XDAtkvtkaeAolmEEnKPtocCT4kg79hWntJDuOIJnLrtfAuXmZpmZIKC6UORQYDJBKq7A96Kr4Dj0xQL/xswlNUmHPsoHMsbOUQxww+Pr9+nnv/jrnv1h9vj35nVi/40zyUOinxBIsJkcethUyPMfchkTDhhIzE7RowXsSr7Z2hEWWCEYqZKBr7TDJccszQYZBhxWBgSlg1DM4ym1mka7Wvd9uyOp1lfBFSaD2LIos7O9YzCriRfT7k9YNsoQNW2o5mmaTgLUiwHVsr8/lGZye9avqFkzaJkrXEQyupKNp9zmGwXeIVwi4U0USAvxO2A8m/ztCy943aMjrFKvhfOx7GrXXZ71tV1NL3qnr/dlXxJouq26XT2pN7Hi3htn8EyXtvdF1AxStNV9+1puSb8PjS9HnI/2q7D3pPG62APSeu1Mfan+Tro7Wm/DmmXNlCHdai2UJ9rbZs4o7y+S5SX26+M4X7FJJDboNKAY95kHHh6XB4uLo1KZgoL2HsxZuqGLYgfzox8+gY0TwRf6+3OJqp3PUv/UhBeuNbKkFaDjN5BKfx5qD3fvBVO+fBVN9H0w7eiSQ5QHO8tIkqcpUf3PUkPglziLCEPaDgVkK9eKR/Iv5h9zb4m4teUn6EC9KSEOMVJiJOAYKbQROmLJeMh3Ckc9hWUhEo/he6A+w04PAdstI5pWY7husfQZxX2kfXZSphj6jOtpc17fhX2pM9O+uykz/4P+qw7PdMGz+iz8tbvpc9KjJ31mdXUjGvd8XTds401+mxu53qafXR95uimo3dse0GK5cA6fdb9p+f4L9BnULIn+izJ47hWoZ0o90S5J8r9L1LuwcSOZmnPiR3H3ESbQIdGrdZZtrKOrnWA19RNlHcsrVO2oSNonRK50jpwHkDDVC7+pPDxZQRook9mfv2tr3CqwJyUQ+WoQofycx5bgU2BuV+gQD8B/imuZaYaAAA=",
       "empty": false
     },
     "2": {
@@ -27,27 +27,6 @@
       },
       "requirements": [
         "parse"
-      ],
-      "description": {
-        "en_us": "A api plugin to get the Minecraft server version",
-        "zh_cn": "一个用于获取 Minecraft 服务端版本的 API 插件"
-      }
-    },
-    "61572537": {
-      "schema_version": 4,
-      "id": "minecraft_version_api",
-      "name": "Minecraft Version API",
-      "version": "1.1.0",
-      "link": "https://github.com/Ivan-1F/MinecraftVersionAPI",
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.0.0"
-      },
-      "requirements": [
-        "mcdreforged~=2.3.2",
-        "parse~=1.19.0"
       ],
       "description": {
         "en_us": "A api plugin to get the Minecraft server version",
