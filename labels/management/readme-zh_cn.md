@@ -16,7 +16,7 @@
 | [Bot](/plugins/bot/readme-zh_cn.md) | [Andy Zhang](https://github.com/AnzhiZhang) | 最好用的地毯模组假人管理器！ | 2024/01/15 | [`工具`](/labels/tool/readme-zh_cn.md), [`管理`](/labels/management/readme-zh_cn.md) |
 | [Bot Plugin](/plugins/bot_plugin/readme-zh_cn.md) | [DancingSnow0517](https://github.com/DancingSnow0517) | 管理 carpet 机器人 | 2022/01/09 | [`管理`](/labels/management/readme-zh_cn.md), [`工具`](/labels/tool/readme-zh_cn.md) |
 | [HibernateR](/plugins/hibernate_r/readme-zh_cn.md) | [HIM049](https://github.com/HIM049), [sout_Nantang](https://github.com/sout233) | 一个MCDReforged插件，可以根据服务器内玩家情况自动开启或关闭服务器 | 2024/02/04 | [`管理`](/labels/management/readme-zh_cn.md) |
-| [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2023/07/29 | [`管理`](/labels/management/readme-zh_cn.md) |
+| [hooks](/plugins/hooks/readme-zh_cn.md) | [OptiJava](https://github.com/OptiJava) | 让MCDR按照指定的规则自动触发脚本，全自动执行任务 | 2024/02/07 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [iPanel-MCDReforged](/plugins/ipanel_mcdreforged/readme-zh_cn.md) | [Zaitonn](https://github.com/Zaitonn) | 适用于MCDReforged的iPanel实例插件，搭配iPanel使用可为用户提供网页版控制台 | 2023/11/26 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Ledger Cleaner](/plugins/ledger_cleaner/readme-zh_cn.md) | [UnknownBits](https://github.com/UnknownBits), [tanh_Heng](https://github.com/tanhHeng) | 清理与释放ledger数据库 | 2023/07/13 | [`管理`](/labels/management/readme-zh_cn.md) |
 | [Lite File Manager](/plugins/lite_file_manager/readme-zh_cn.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | 一个轻量级的游戏内文件管理器 | 2021/08/26 | [`管理`](/labels/management/readme-zh_cn.md) |
