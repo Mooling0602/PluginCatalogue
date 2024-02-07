@@ -3,7 +3,7 @@
     "schema_version": 4,
     "id": "hooks",
     "name": "hooks",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "link": "https://github.com/OptiJava/hooks",
     "authors": [
       "OptiJava"
@@ -37,9 +37,43 @@
   "release": {
     "schema_version": 8,
     "id": "hooks",
-    "latest_version": "2.1.1",
+    "latest_version": "2.1.2",
     "latest_version_index": 0,
     "releases": [
+      {
+        "url": "https://github.com/OptiJava/hooks/releases/tag/v2.1.2",
+        "name": "hooks v2.1.2",
+        "tag_name": "v2.1.2",
+        "created_at": "2024-02-07T01:46:52Z",
+        "description": "# Change Log\r\n## Fixes\r\n1.will not use deprecated method `yaml.load(...)`\r\n\r\n**Full Changelog**: https://github.com/OptiJava/hooks/compare/v2.1.1...v2.1.2",
+        "prerelease": false,
+        "asset": {
+          "id": 150222300,
+          "name": "hooks-v2.1.2.mcdr",
+          "size": 16567,
+          "download_count": 0,
+          "created_at": "2024-02-07T01:50:05Z",
+          "browser_download_url": "https://github.com/OptiJava/hooks/releases/download/v2.1.2/hooks-v2.1.2.mcdr"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "hooks",
+          "name": "hooks",
+          "version": "2.1.2",
+          "link": "https://github.com/OptiJava/hooks",
+          "authors": [
+            "OptiJava"
+          ],
+          "dependencies": {
+            "mcdreforged": ">=2.9.0"
+          },
+          "requirements": [],
+          "description": {
+            "en_us": "Allow MCDR to trigger custom scripts under specific conditions.",
+            "zh_cn": "让MCDR按照指定的规则自动触发脚本，全自动执行任务"
+          }
+        }
+      },
       {
         "url": "https://github.com/OptiJava/hooks/releases/tag/v2.1.1",
         "name": "hooks v2.1.1",

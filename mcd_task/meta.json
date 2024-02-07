@@ -2,7 +2,7 @@
   "schema_version": 4,
   "id": "mcd_task",
   "name": "Task",
-  "version": "2.3.6+build.68",
+  "version": "2.3.6-dev+build.68",
   "link": "https://github.com/TISUnion/Task",
   "authors": [
     "Pandaria",

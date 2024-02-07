@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"b8e9ea6cf44a7f7b4a45ab386f3f27dba762e7cd0a745fd5c81f32c000941193\"",
-      "data": "H4sIABXcwmUC/+1XbW/iOBD+K1ZOuk9AXngt0mnVLa3U09Jeu3TvrktFTWKCuSSObAcWEP/9xk4CgXa7PUrvy/KhSnFmnhmPJ88z/ro0Eh4YbWSMpYxF2zRxTCs+leNkWHFZaHISM2H2Lj/fRZRF5oTRqHvd68B6QLAgwmw0ay3bsS2jhAwsBJFicCBEM4VTwEkcMOztAqer4i3gyw8RDkkpwEMSrFSksQyD3TgF/BeQJfbNqV2pVnQpqAcIeTBVmkSOGYe1pREwn0YK/wIHAYnKHznBcrx2clonzVbLasDviHlkoBeNbuem8eWvq8CdXNaue27tunPq6JJPscT8Scn1al6ZRBDuskiSSOpNJGYe48P0t5pC8XmGkwbTJX/xEBWkMJ9s4AfVe2I/YkHAZgA1+M/hzLXvBohG/t5A4Ls0mRwTKCYY6WbwqZD7pKb9lvoBFdVQAqrLibcHWOYJyc0iyGupezzFTIbC5TSW0JD7pLnlrwAZ93FEF3hfQPDXOPor3MNf+ykAMoVe3QchdVyaMadT7M5XaTYuoVOo/d6oOwgKVM5jolDuwFyfBZVkgL1Qf9kjHAiy2v6Ab88H/8w612fD209/u7Xzj7je0DjYHygKUiYb9oAj94kcQD4hlVSM1dsQC5nGyu3V/x7HI5mHhN8xJxkjFRZdtQ1IHytLw7Ecp2zVy47Ts+225bTrrXsFFSfDAGJ9z67ZrlfvNywPFl/fLB4plNloOI2TaqNAnNnCTglPiyXstBZns2I5fs/gy2kdK6Hr6XJpcgeDKAmCtZaQIxcfufjIxT8RF2df3SC3xnEcUFfX12SuJLIsJIQIsw6R2igjCy+FXag1u9WsKuKFFtBDqcuSSPGlY9vOj7gWONS6Twda70UrR1sNOZvBngbrWHsNprl3Np2az/Lk6iGVnSEUe88BPvMuDMELGr8BL/Mu4A2ZN1dAZdRlnCCPSEwD4iGo0ZRwRKMRQ3DEfI5EEseMyz7vR+oPocsIAZ+gx9T0E7DBY2ZK0zfQHiPql9CcJcjFEYLeQ/BgwwlxJZIM7DzVLrCax0v9R4yjcCsdlQcPdWeVEKn4lTyNx8fHiWD6376xyaSvtDRNc5k+EOprWVNv+mlLQc/bfaO0ee+RNWGkZmfdP9BnDfrLtqXK2md8vjbrG+nLVekVUZ1XR3VeGVU9HrJ6bE5oBh2hTwJGAgkKIBAesimML1m1J0kYo2EiJfAhGAcBGkLNqYgDPNdFB8MYc3VC6rNB2HUZ9wBIHZ4+4SyhEpyrp1cKm1kjYimxC0NQ7jVmKrgk3wrNVEZnLIyxFGnS6rTBJu0gNIIeQLMxdceqhwQSkAKsALmoXLB42q0G0NObR6latWk3a9UD3sNzxHe5h++AH/4ebhfu4Xmw4z38OPsdZ7+f+x7e7biNu/CLuP/zYnHfu1lcLc6rV53u7JnLuP3/XMZtPfo1e3arDdOfXf3eZXzbzmnuXMYPOsDZBx7g7GcHuO5Z5xaEcR6o8UtJtZLXMjr1YOIuCC8aU5iwDyaSTu3kwCIJiO8nkhvwA4sktJRl1azmtkxCuKNMHmXyKJNHmdyVye7kpr4rk0USeW+htMpWrWyBAFpty2pX668QSqvZrjnvJpTFzR9GKouIuVheMK6UEv2a6qVV+WasHv4FhgAIlLkdAAA=",
+      "etag": "\"ce89eb7e71cf7b4e73c3e2140436e58473ef3786d2e7d39f449530c07de1ae93\"",
+      "data": "H4sIAAjmwmUC/+1ZbW/aSBD+KytOuk+A7cW8SqeqDemp1ZFcWpq7plRkbS9ganst7xoKKP/9Ztc2GELblJj7Un+ICOuZZ8az43n2MZ82lTjyKj1UmQkR8p6mkdCtT10xi626zXwtoiHj2vDN+w+BywJtztxgcD3sw7pHCadca7XNjoENvVJFFcI5FXxcEKKWwEngOPQYcQ6Bk1X+HPDNi4D4tOoRi3oPMtJM+N5hnBz+d5AFmWoLo96oq1K4DiBkwWRpYjFjEaxtKh6buoHEf008jwa1VxElYrZ1wp1uu9PRW/A9YA4dq8XKoH/Tuv33yrPnb8zroW1e919iVfIFESR6VHK1mlUm5jSyWSBoINRNxFoW48XiD1OiTKMUJwmmSv7dTZSQXHt0Az+o3iP7CfM8tgSo8U+H07a+OyA3mJ4MBL4bjYkZhWKCkWqGqcvFKakpv436gIoqKA7VjahzAljqCcktA8hro3o8wYwtbkduKKAhT0lzz18CsmhKAndNTgUEf4WjnsIT/JWfBKAL6NVTEBLHjRZG7oLYq4ckG5u6C6j9yagHCBJUrEIqUT6AudoLV9AxcXz1ZE+Ix+nD/gP87nL8Zdm/vrDe/fXRNi9fkWZL4ZDpWI4gabKbHrDlUyrGkI/vCpfP5FWfcJHEyuzl/05EJiILCd/DiKYTKbdoy9uA9Im0rGAd45rerGE8NIyejnvNzp2ECmPLg1jfsmv3mo273ZQHi0/PJo8ESmu1cKvbaOUGZ7pwUMKX+RL2O+uLZb4cb1P4WlLHum87qlxquINBEHvelktoOYvLWVzO4l9oFqdP3TizJmHoubaqr8ZsQUWNCwjhpx0ilFE6LJwEdi3XjE67IQcvtIA6lNosDuS8xIaBfzRrYYbqd8mB1vmuFVZWVsSWcE/jbayTDqaZd3o61Y7OyYfPCe1YUOwTD/Cpd+4QvHbDZ+Cl3jk8izkrCVRDAxZR5FBBXI86CGq0oBFygwlDsMXRCvE4DFkkRtEokH8IvQkQzBN0n5j+BdPgPjV1kyvQHhN3WkUrFiObBAh6D8EHs+bUFkgwsHNku8BqFi/xn7AI+XvpyDwiX3VWFdH6tJ6lcX9/P+dM/Tuq7DIZSS5N0twkHwiNFK3JK6OkpaDnjVGlurvu0O3ASMwuBn+j9wr0t31LmfWURaut2aiSXHyoPiEqfnJU/MSo8uNzWo/dDi2hI9ROwJFAAANwRCy2gONLWu157IfIioWAeQjGnocsqLnLQ4+sVNHBMCSR3CH52CBi2yxyAEhuntrhNKEq7KujVnI3s0UkQhAbDkGZ14zJ4IJ+zTVTDV0wPySCJ0nL3QabpIPQBHoALWeuPZM9xBGHFGAFhovMhfDH3VqB8fTso5TZwQ3cMtvF6fAM8Sw6/AC8eB2Oczo8C1bq8PLsV579fm0dPujbrQ/+Lb/75/X6bnhjDuaD1dX8pnFEjOOfEeMom0Ro53maODdqekceBXWzZ5g9vfktcb5vZ5xLnJu42+3gnDjPFg7rerm69t561p+3MxvfvrIbV57Tv1ldD79AjT9+U6njUqmX07qc1uW0PoNSb7bMY0rd6GL8o8Hb6TXax5X6gVX3TEodHyh1fB6ljgtW6nhfqQ8u+u8wCr0YhjdKVHEVVJYQO72USvViRFCjbbTNRoE/RmaI5xFB++DFiyAjL4LSYKUIKmm1pNVSBOVE0Ppqfdm46g+WR0SQ8f/8Immo99/tIVCqYWRi5rjoydnh9oHoKZQbjYK50Tj6FltSJOJi5cl30PJ9pXzHWEMvHTjM5N4+opkbFEiS2OwWTJKAeD6S3IEXTJLQUrpu6u19moRwJU2WNFnSZEmThzQ5mN80D2kyP0TOTZR6TTdrOhCg3tP1XqP5BKLU2z0Tn40o8zdfDFXmETOyfM0iyZTo94Qv9fpXEML/Aa17gne+KgAA",
       "empty": false
     },
     "2": {
@@ -18,6 +18,22 @@
       "id": "join_motd",
       "name": "Join MOTD",
       "version": "1.3.0",
+      "link": "https://github.com/TISUnion/joinMOTD",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {},
+      "requirements": [],
+      "description": {
+        "en_us": "Send player a MOTD when he joins",
+        "zh_cn": "当玩家加入游戏时向其发送欢迎信息"
+      }
+    },
+    "42998260": {
+      "schema_version": 4,
+      "id": "join_motd",
+      "name": "Join MOTD",
+      "version": "1.2.0",
       "link": "https://github.com/TISUnion/joinMOTD",
       "authors": [
         "Fallen_Breath"
