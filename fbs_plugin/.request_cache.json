@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"5fa5a006e4ed4183ac7c51a5cf15a6ad69fd497bee6548f6a619c9f3d39e519f\"",
-      "data": "H4sIAJ5cvmUC/+2Z72+bOBjH/5Upr5digzEY6TR1291203STrrc7qcspMmASVAIITLI26v9+j23Ir7bZNQ335lAlSh4efx/nwXzxR/m2HjVVNgpejeZSlnVgWbxML2apnDfhRVQsrEqURW39xbMbUdVpUmQpt37htXxbyKuSr3JIyASvRW1h23ZszJgzev1qxOtayHp6dm3LCKsSTZkVPD4sYaL1ecqs3+R8IV5nPBTZvao5l4vssOJOpX9TQ/KZhS/gT+mlMShtqqq+NXJeVBBcj7Jiluaq0J7qzijmepgQAoG8iMVUR0dfpzez91/eejc8vtQ3Ysklrx7cCB3tutTUooqKXIpc6q/RWBvxN8ufiJKZVa2QqaL7f/TeKs2Dpj+3gSofTrJiBaHps8tZm7FboTSfnSwEY9dWIecCuglJej3M0lqeMjU9bq3/QUe1VA3drUR8glg7Eia3ymFea73gjWYT1lGVljIt8lOmuTdeCRbVjOfpHT9VEMZrHf1InjBej1MCYgmL9RQFM3BtlVW65NHtvZlNJNIl9P5k1QMFJSpvS6EfSEjX9yKVYsrjhX6mE57V4n7/yf395+nN6v2XT95nsorIx6v8+yetw2dT5UIqZeMbcMdnQk5hOotUpvVcXVyA3ZhSXfpykx9XPJFdXfhcVqI1pJ1gVAku4TtwlTmyke2MERvbzh/YCwgJbHytpMomzKDiU3kswOR6+waAjG/ne8UYTXAnj2DsOv6OGbaRg5Ze7rV08e7Pq93+7BYZm2ZdLKJY91B7PiTlTZZtXjZicObBmQdn/l84c/vYTbtsXpZZGun+WkUkhRzXEgxz0a4QqZNam4iN7J2K2a5HlQPDEtD71ahocmWclPzIcsFK0bXZ6cZHs2ydFVbFCr7RdFPpZfvUTsZsVq0nvfL+b/M+CnmWvXS/38ps98d3aXkO3VZmqxsW8a0SnDSuzwQcbY4mDRE+nTQ+FhwiIeMqQhicO647aWhoYzhHxFPxUOU4IoKjaxMVQRBh1AUdj/pEabIE1FAST6pJDtdE7MPnkOtsh2Nk4jSk+9mg6zkmp9M1tWmchN1cTQ0b4air6toO3Z+r52LQpDbe5FPXg3OGo0SPjUew0s9IgEAyPnKY2wcBdto9E+BBmT4JEG13DF3VgQCHfcawzxgIUOHKh/rrb58fI0D0TAJELyJAb4yJ2mhgO8DOEQLc5NEAub0TIPaQg6jPdiy0jRwjwA/j0J8fJ0A0EODgzIMzD858TgIkzmME6LAfWy7ynyTAXWNGvRMgsp70yr4IEPVEgOgEAhR+otgq8dRRcRlzE/Ik6Z3CY4YFPQTVKEqA/2gUm5E2aCcRzJE6MUrruoHTJEGRllJIGjlxB3UwabjqOSE6O9phxohj94N2Rrt3tNsr0x/aoX20M1UHtBs2EMMGYkA7g3aX0a8P0Q49E+3Qf4l2iATY7XYavaIdZYRStmuhbeQ42n2M3h1DOzSg3eDMgzMPznxWtMO+/RjaucccF7kBwQFxjpNdm+X2THboEbJD/ZId6ons0AOycxTHGaYiAmm+YyHgUeijjsweEFyLVn6ifq1zPRuOlCaa1ULUXSXC1TwoEnUuXMNmh4SmBJhvqymwqJuIKeiHcQzt/Qey36jkfykAAA==",
+      "etag": "\"afd5410a941d9f298d2dd67a860ac27e48b33ac02a75f1a0fa11d5187e89e169\"",
+      "data": "H4sIAMovw2UC/+1Xa4+bOBT9K1U+NwEb84q0qqbvrVaqtLPbStNUyIAh1hBA2CSdiea/77UNec1O2qbJp6KRGHI591xzMYd7vqxHbVOMps9GcylrMbUsWvNJzuW8jSdJtbAaVlfC+kyLW9YInlUFp9ZbKuTLSl7XdFUCoGBUMGEhjB2MwtAZPX82okIwKaKzc1uGWJVo66Ki6WEJExXnKbN+UdIFe17QmBUPquZcLorDijuVfqSGpLmFJvCn+HgKTJuqqm+tnFcNBNejosp5qQrtse5kha6PCCEQKKuURTo6+je6zV9/fOnf0vRKP4gllbR59CB0tO9SK1iTVKVkpdS30Vob8hfLP4iiyZuOyFTR/T/6bBXnQdN/toEKDydFtYJQ9NPlrE3uloiX+clEkLu2Kjln0E0A6f2QcyFPWZrOW+t/0FFNJaC7DUtPIOsyYXGrEta11hvecLaxSBpeS16VpyxzL18RVk1OS35PTyWEfM2jX8kT8nWeImBL2KynMJjEtVU3fEmTuwezmoTxJfT+ZNYDBkUq72qmX0iA62fBJYtoutDvdEYLwR7239y/30S3q9cfP/h/kVVC3l+X3z5oHppHSoUUZKMb8MRzJiNYzoJLLubq4gLkxpTq4csNPm1oJvu68LtuWCdIO8GkYVTCPVCFHGEbO2M7HGPnH+RPCZlidKOo6jYuoOJTuHCKyM32CwCIL+f7xBhOUCefIOQ6wY4YdpGDll7ttXTx6tP1bn92i4xNsyaLJNU91JoPoLItis3Hhg3KPCjzoMy/hTJ3r13Uo2ldFzzR/bWqRDI5FhIEc9HtEKlBnUykhvZexbDre0qBYQvoeTWp2lIJp0e+J7kgpfaNmXTToyisUXFTreCOok2lX5tTexozrFpPauXDV/M9imlR/Oq839Fs5+N7Xp+Dt6PZ8sZVeqcIZ60bhAyOmNqzlrDAm7UBYhQicUhVhIRw7rjurPVijODcJr6KxwrjsASOLiYqYkMk9Fzg8b2AKM4wAzY7S2fNrIRrLA3gd0w12qHINnEv9vbRwOs7BtPzmtpemsX9Wk0NbKOkr+pix9tfq+8i4PQw2uA914fzECWZzk1HsNPP6ACRsjHEwZdwgD33hR3gQZnLOUB7Ym8nhr7q4ACHOWOYMwYHqOzKO3GV/PnYAXa68cMOsMOf7AD9MSJq0EB4ipwjDlDjbDJFbj+2XNIBIi8knhfuSmgXOeYA343fJ6+OOUBo1uAAB2UelHlQ5jM6QBTg/3OA7jHFtd0pQVPiPGkAd1HuhQ0gyKL1pFRexgB2n62zG8COd8cAOsrueb4darOlbWAINsuPA7u3U48MXZtlNhivIFOWzvUxHD0v0wYrtvurhLmZ5s/UOVO2zEltc+RCtEwDFUEYYLWEMOkXYgoGcQoO7et/fuassKQbAAA=",
       "empty": false
     },
     "2": {
@@ -18,21 +18,6 @@
       "id": "fbs_plugin",
       "name": "FastBotSpawn",
       "version": "1.1.1",
-      "link": "https://github.com/Walkersifolia/FastBotSpawn",
-      "authors": [
-        "WalkerTian"
-      ],
-      "dependencies": {},
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin with multiple functions"
-      }
-    },
-    "117030689": {
-      "schema_version": 4,
-      "id": "fbs_plugin",
-      "name": "FastBotSpawn",
-      "version": "1.1.0",
       "link": "https://github.com/Walkersifolia/FastBotSpawn",
       "authors": [
         "WalkerTian"
