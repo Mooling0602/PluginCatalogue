@@ -9,7 +9,7 @@
 - Plugin ID: `mcd_task`
 - Plugin Name: Task
 - Version: 2.3.5+build.67
-  - Metadata version: 2.3.6+build.68
+  - Metadata version: 2.3.6-dev+build.68
   - Release version: 2.3.5+build.67
 - Total downloads: 4141
 - Authors: [Pandaria](https://github.com/Pandaria98), [Fallen_Breath](https://github.com/Fallen-Breath), [Ra1ny_Yuki](https://github.com/ra1ny-yuki)
