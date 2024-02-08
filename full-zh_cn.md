@@ -2742,7 +2742,7 @@ pip install "mcdreforged>=2.1.4"
 - 版本: 1.4.9
   - 元数据版本: 1.4.9
   - 发布版本: 1.4.9
-- 总下载量: 1175
+- 总下载量: 1176
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/kpi_mcdr
 - 仓库插件页: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2772,7 +2772,7 @@ pip install "mcdreforged>=2.1.4"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 34 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
+| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 35 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
 | [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 220 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
 | [KPI-v1.4.7.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.7) | 1.4.7 | 2023/06/28 02:39:10 | 26.14KB | 208 | [下载](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.7/KPI-v1.4.7.mcdr) |
 
@@ -5751,7 +5751,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 - 版本: 7.5.1
   - 元数据版本: 7.5.1
   - 发布版本: 7.5.1
-- 总下载量: 8443
+- 总下载量: 8444
 - 作者: [Fallen_Breath](https://github.com/Fallen-Breath)
 - 仓库: https://github.com/TISUnion/StatsHelper
 - 仓库插件页: https://github.com/TISUnion/StatsHelper/tree/master
@@ -5785,7 +5785,7 @@ pip install "mcdreforged>=2.0.0b7"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 2039 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 2040 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 206 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 141 | [下载](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 
@@ -5966,7 +5966,7 @@ Only matches the IP address received by the server and player name, and the play
 - 版本: 0.4.4
   - 元数据版本: 0.4.1
   - 发布版本: 0.4.4
-- 总下载量: 633
+- 总下载量: 635
 - 作者: [zyxkad](https://github.com/zyxkad)
 - 仓库: https://github.com/kmcsr/tpmanager_mcdr
 - 仓库插件页: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -5996,7 +5996,7 @@ Only matches the IP address received by the server and player name, and the play
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.4.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.4) | 0.4.4 | 2024/02/05 00:16:45 | 17.02KB | 2 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.4/TpManager-v0.4.4.mcdr) |
+| [TpManager-v0.4.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.4) | 0.4.4 | 2024/02/05 00:16:45 | 17.02KB | 4 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.4/TpManager-v0.4.4.mcdr) |
 | [TpManager-v0.4.3.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.3) | 0.4.3 | 2024/02/03 02:35:34 | 17.01KB | 29 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.3/TpManager-v0.4.3.mcdr) |
 | [TpManager-v0.4.2.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.2) | 0.4.2 | 2024/02/03 02:33:06 | 17.01KB | 29 | [下载](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.2/TpManager-v0.4.2.mcdr) |
 

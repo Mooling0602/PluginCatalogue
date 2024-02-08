@@ -2739,7 +2739,7 @@ Today's horoscope based on `random.randint(0, 100)`
 - Version: 1.4.9
   - Metadata version: 1.4.9
   - Release version: 1.4.9
-- Total downloads: 1175
+- Total downloads: 1176
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/kpi_mcdr
 - Repository plugin page: https://github.com/kmcsr/kpi_mcdr/tree/master
@@ -2769,7 +2769,7 @@ Today's horoscope based on `random.randint(0, 100)`
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 34 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
+| [KPI-v1.4.9.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.9) | 1.4.9 | 2024/02/03 00:47:07 | 26.16KB | 35 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.9/KPI-v1.4.9.mcdr) |
 | [KPI-v1.4.8.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.8) | 1.4.8 | 2023/08/26 19:20:34 | 26.14KB | 220 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.8/KPI-v1.4.8.mcdr) |
 | [KPI-v1.4.7.mcdr](https://github.com/kmcsr/kpi_mcdr/releases/tag/v1.4.7) | 1.4.7 | 2023/06/28 02:39:10 | 26.14KB | 208 | [Download](https://github.com/kmcsr/kpi_mcdr/releases/download/v1.4.7/KPI-v1.4.7.mcdr) |
 
@@ -5681,7 +5681,7 @@ pip install "mcdreforged >= 2.0.0" "googletrans == 4.0.0rc1"
 - Version: 7.5.1
   - Metadata version: 7.5.1
   - Release version: 7.5.1
-- Total downloads: 8443
+- Total downloads: 8444
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/StatsHelper
 - Repository plugin page: https://github.com/TISUnion/StatsHelper/tree/master
@@ -5715,7 +5715,7 @@ Use `!!stats` to see the value / rank, or build a scoreboard from given statisti
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 2039 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
+| [StatsHelper-v7.5.1.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.1) | 7.5.1 | 2022/05/18 15:22:34 | 23.14KB | 2040 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.1/StatsHelper-v7.5.1.mcdr) |
 | [StatsHelper-v7.5.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.5.0) | 7.5.0 | 2022/04/01 14:29:58 | 23.08KB | 206 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.5.0/StatsHelper-v7.5.0.mcdr) |
 | [StatsHelper-v7.4.0.mcdr](https://github.com/TISUnion/StatsHelper/releases/tag/v7.4.0) | 7.4.0 | 2022/03/08 15:06:34 | 22.95KB | 141 | [Download](https://github.com/TISUnion/StatsHelper/releases/download/v7.4.0/StatsHelper-v7.4.0.mcdr) |
 
@@ -5896,7 +5896,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 - Version: 0.4.4
   - Metadata version: 0.4.1
   - Release version: 0.4.4
-- Total downloads: 633
+- Total downloads: 635
 - Authors: [zyxkad](https://github.com/zyxkad)
 - Repository: https://github.com/kmcsr/tpmanager_mcdr
 - Repository plugin page: https://github.com/kmcsr/tpmanager_mcdr/tree/master
@@ -5926,7 +5926,7 @@ Worried about infrequent backups leading to serious progress losses due to the w
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [TpManager-v0.4.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.4) | 0.4.4 | 2024/02/05 00:16:45 | 17.02KB | 2 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.4/TpManager-v0.4.4.mcdr) |
+| [TpManager-v0.4.4.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.4) | 0.4.4 | 2024/02/05 00:16:45 | 17.02KB | 4 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.4/TpManager-v0.4.4.mcdr) |
 | [TpManager-v0.4.3.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.3) | 0.4.3 | 2024/02/03 02:35:34 | 17.01KB | 29 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.3/TpManager-v0.4.3.mcdr) |
 | [TpManager-v0.4.2.mcdr](https://github.com/kmcsr/tpmanager_mcdr/releases/tag/v0.4.2) | 0.4.2 | 2024/02/03 02:33:06 | 17.01KB | 29 | [Download](https://github.com/kmcsr/tpmanager_mcdr/releases/download/v0.4.2/TpManager-v0.4.2.mcdr) |
 
