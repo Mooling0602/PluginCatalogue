@@ -11,7 +11,7 @@
 - Version: 0.3.5
   - Metadata version: 0.3.5
   - Release version: 0.3.5
-- Total downloads: 2156
+- Total downloads: 2157
 - Authors: [YehowahLiu](https://github.com/YehowahLiu)
 - Repository: https://github.com/FAS-Server/CarpetBotManager
 - Repository plugin page: https://github.com/FAS-Server/CarpetBotManager/tree/main
@@ -51,5 +51,5 @@ A carpet bot manage plugin, able to spawn bot and make it execute actions
 | [CarpetBotManager-v0.3.3.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.3) | 0.3.3 | 2023/07/29 15:55:20 | 10.35KB | 6 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.3/CarpetBotManager-v0.3.3.pyz) |
 | [CarpetBotManager-v0.3.2.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.2) | 0.3.2 | 2023/07/29 15:56:08 | 10.29KB | 5 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.2/CarpetBotManager-v0.3.2.pyz) |
 | [CarpetBotManager-v0.3.1.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.1) | 0.3.1 | 2023/07/21 14:24:43 | 10.23KB | 19 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.1/CarpetBotManager-v0.3.1.pyz) |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1891 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1892 | [Download](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 

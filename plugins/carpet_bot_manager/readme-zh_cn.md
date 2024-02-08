@@ -11,7 +11,7 @@
 - 版本: 0.3.5
   - 元数据版本: 0.3.5
   - 发布版本: 0.3.5
-- 总下载量: 2156
+- 总下载量: 2157
 - 作者: [YehowahLiu](https://github.com/YehowahLiu)
 - 仓库: https://github.com/FAS-Server/CarpetBotManager
 - 仓库插件页: https://github.com/FAS-Server/CarpetBotManager/tree/main
@@ -51,5 +51,5 @@ pip install "mcdreforged>=2.6.0"
 | [CarpetBotManager-v0.3.3.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.3) | 0.3.3 | 2023/07/29 15:55:20 | 10.35KB | 6 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.3/CarpetBotManager-v0.3.3.pyz) |
 | [CarpetBotManager-v0.3.2.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.2) | 0.3.2 | 2023/07/29 15:56:08 | 10.29KB | 5 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.2/CarpetBotManager-v0.3.2.pyz) |
 | [CarpetBotManager-v0.3.1.pyz](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.1) | 0.3.1 | 2023/07/21 14:24:43 | 10.23KB | 19 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.1/CarpetBotManager-v0.3.1.pyz) |
-| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1891 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
+| [CarpetBotManager-v0.3.0.mcdr](https://github.com/FAS-Server/CarpetBotManager/releases/tag/v0.3.0) | 0.3.0 | 2021/09/07 17:13:43 | 9.93KB | 1892 | [下载](https://github.com/FAS-Server/CarpetBotManager/releases/download/v0.3.0/CarpetBotManager-v0.3.0.mcdr) |
 
