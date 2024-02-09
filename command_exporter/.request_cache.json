@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"78b34f209b8189aa46d7073c96a9de9f5d25986e7f4272749ec3a0d5c29d828a\"",
-      "data": "H4sIALwowmUC/+1Xa2/bNhT9K4T7YVtQWyT1tICh25K22IBkWJfHlqYwKIm2tUmiIFHxEiP/fZeU5NhO46RO7E/6kIeuLs+hLsnDez7Pe1WR9HzUm0qZl75hsDweTGI5rYJBKFKj4LkojSOWhXE2+TMTM2wT1zg+PPrUPxRpyrKo//6/XBSSF5CbcFby0hgS0/bo0Oy9RT1WllyWox2yGDWFIqvyRLBonayOlq9NOH+XsZS/TVjAkzvFPpVpss69xPmNbJJNDDKgA6yg4whAW35V1UpORQGxeS8RkzhTlGv4i2EOdk2H2A48ZyLiIx3sHR/94Zz/dZKE//w9O7k9psenZ1Sv1zWTrHiwXjralrAqeRGKTPJM6i+rjJbj3fWPlkKZFA1OTabXZuMOUJAPFuTbi6pGjEWSiBnAjbagNBaj76Hg9QugIDI3hJxyKCqk6Z0yiUu53fT0yLn+A7XVYCXUueDRVnDNWJjgLIO5zfXBqFGroAyLOJexyLab6gqCghTFhGXxLdseEhA0kj6+WyHokQqCX8Pu3Q6jHjo38iK+ZuHNXT2jkMfXsAovwF3DULDyJucK5wwG6FWJJR+xKNUnfsySkt+tHutP70f/zo5+//X248lZaH0IJ5/ONQ6bjJRaqZSFqMDaT7gcwYTSWMblVL1MWSlrqjZdyRRqZAq1MoWuFyhRwcaynQ085wVvNGwpGBacSfgypjJ7FFOzj2kfW6fE9antY3ypoPIqSGAej+V5PrUu7+8UyPi8k+urhjeGlolde7ikv01greI/r1Q8m519XC9fQ9Uy9eviDdIw0pXWNwjkZlWSLC4x3ql7p+6dunfq3mvO4qjNZnmexKGusyFCyWW/lCCvabNbpE5qRCSqYW9VjHi6dYxgM+guORRVpmSWEvsphfZ8Qi7rBjvamGXqrKAQM/ik0YLq1ZriFrHujI2nxPXuS33NBSxJXtGCNIj37fltnL8yRYN4TxGI6EZhv3mDLqZMfleiwynLJjy6Kq6yA3RVubZJriqLexydwEVQv71gMgRtgtdONA6uKpsyfFWNxzhUqTiCCPHg99DFEPeGHkA41KozPfW/40LcsyDfttxIjeJWTVkzIJGN8qSCW2pUcCVcxc0orGeGxlUWqm2KpEAgkUgUMeSxBMZwNJvyDFV6NVENMEDBDfqpzG94HKI4Q1tvl7xSlVOzVD9QsRM+gxYmk0UcVFIUZf0BLVUKB0XNLy7QOC5KicI2Vc399SZycPABnpu6wcV+cOBvDw2ZOSs4bBACu30wWGyUFLRCS3B7vgmIyE76JNguFNs23q3Nb1n2ZvPXCPdi88mSzW/5O5vfNYJdI9g1gs+w+ReCfnxo88mr2HzyQptP+pSeYupT4tvOBpu/yLN9y9unzae2aw6XbX4T2Gjzp7+9T59h80ln8zt179S9U/e92nz3azbftZ8SaBBe+1GXv5zl7M/lk8ddPtmbyye7d/lk1eV/DiGMUhEhKIpyyGFzM2vX3Bpt1BjtL9+/xEZCV2B4gTl0aWQT2wqYxUNz7AShNcSYR2OHsoCZOKQ2tX/o7c5Mwp1rDr1dm8maZY9mcoVwL2YSr5jJmr8zk1270bUbXbvxDDN5fvhL+tBM4pebyfMFygvMJPFOiemToW/SjWayzqOOj4d7NZPEcqntLZnJOrDRTI4nlvMMM4k7M9mpe6funbrv00y63tfMpEefEGiwiba3wUzeyzPen5nEj5tJvDcziXdvJvGqmfwgCqRvZDpw4c3dl/8BQjlH9fYrAAA=",
+      "etag": "\"b64745f3e64b074be793d2a87e53b72e4600fc32eefad34c1e61cd7c08f76cb3\"",
+      "data": "H4sIAFBKxmUC/+1XXVPjNhT9K5rsQ1tmE1uKHTuZ6Ww7wO60M9AphaWF7HhkWUnc2pZHlpOGDP+9V7IdQiiwGwJPfuDD11fnXF9JRzrXq04pk84IdWZK5cXIsmge96axmpVhj4nUkjwXhXVEMxZn0z8ysbBd7Fknh0dn3UORpjSLusf/5kIqLiE34bTghTXEfdcnw37nPerQouCqCF6RxaooNFmZJ4JG22RVtNg34epDRlP+PqEhT241+0ylyTb3Buc3sik6tXCP9GwNHUcA2vDrrpZqJiTEVp1ETONMU27hr4cNbK8/wO4AnjMR8cAEOydHvw8+/3masL//WpzenJCT8wti5mtOFZUP5stEmxaWBZdMZIpnynxZaTUcH+Y/OhplKmuciszMzZMrQEM+mJBvb6oeMRFJIhYAF+xAaa1H30HB6xdAQWRlCTXj0FRIMytlGhdqt/LMyJX5A701YAX0WfJoJ7h6LBS4yKC2ldkYFWoZFkzGuYpFtlup9xA0pJBTmsU3dHdIQDBIZvvuhGBGagg+h9W7G0Y1dGXlMp5TtrytKmI8nsMsvAB3C0PDqmXONc4FDDCzEise0Cg1O35Ck4Lf3t/WZ8fBP4uj3365+XR6wZyPbHr22eDQaaDVSqesRQXmfspVAAWlsYqLmX6Z0kJVVE26lilUyxRqZArN1yiRpBPVVAPPueS1hm0EmeRUwZdRndkhNul3bdK1nXPsjYg7su0rDZWXYQJ1PJbnj4hzdXemQMb1qxxfFbw1dPq25w439LcObHX853sdzxYXn7bbV1M1TN2qeb2URabT5gSB3KxMkvUhxlt1b9W9VfdW3Tv1XgyabJrnScxMny3BFFfdQoG8pvVqUSapFpGogr3RMeybq2MEi8HckpkoMy2zBLvPKbQ/wviqumBHT2b1TVYoxQI+KVhT7e1S3CBWN2PrOXG9/VIdcyFNkj1akBrx7np+E+d7pqgR7yhCES019rt36HJG1XcFOpzRbMqjsRxnB2hcem4fj0uH+xydwkFQvb2kioE2wetBNAnHpUuoPS4nE5vpVDuCCPbh99CzIe4PfYAYEKfK9PX/Aw/ivgP5ruNFehR3KsqKAYksyJMSTqlAci1cchmwqjI0KTOmlylSAoFEIiFjyKMJjOFoMeMZKs1sogqgh8Il+qnIlzxmKM7QzsslL3XndJX6Bzp2yhdwhcmUjMNSCVlUH9BQpbBRdH2xRJNYFgqxJlXXvr9CDg4+wnPdNzjYDw5Gu0NDZk4lhwWCYbX3euuFkoJWGAlu9jcGEXmVexIsF2K7rv26Nr9heTObv0X4JjYfb9j8hr+1+e1FsL0IthfBr7D5l4J8emjz8V5sPn6hzcddQs5tMiJ45A6esPnrPHfk+G9p84nr9YebNr8OPGnzZ78ep19h83Fr81t1b9W9Vfc3tfne/9l8z31OoEF43Udd/mbW4O1cPn7c5eM3c/n49V0+vu/yrxmEUSoiBE3RDpnVJ7NxzY3RRrXR/vL9S2wk3AosP+wPPRK52HVC6nDWnwxC5gxtm0eTAaEh7duMuMT9AZr9H1lctpU0HgAA",
       "empty": false
     },
     "2": {
@@ -18,23 +18,6 @@
       "id": "command_exporter",
       "name": "MCDR Command Exporter",
       "version": "1.1.0",
-      "link": "https://github.com/DancingSnow0517/MCDR-Command-Exporter",
-      "authors": [
-        "DancingSnow"
-      ],
-      "dependencies": {
-        "mcdreforged": ">=2.7.0"
-      },
-      "requirements": [],
-      "description": {
-        "en_us": "A plugin is used to export the MCDR command tree"
-      }
-    },
-    "92147258": {
-      "schema_version": 4,
-      "id": "command_exporter",
-      "name": "MCDR Command Exporter",
-      "version": "1.0.0",
       "link": "https://github.com/DancingSnow0517/MCDR-Command-Exporter",
       "authors": [
         "DancingSnow"
