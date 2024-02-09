@@ -43,6 +43,44 @@
       }
     },
     {
+      "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.5.2",
+      "name": "",
+      "tag_name": "v2.5.2",
+      "created_at": "2023-10-29T06:48:01Z",
+      "description": "- up-to-date online client bungee command impl, using `/glist all` now\r\n- `!!online` command on mcdr client",
+      "prerelease": false,
+      "asset": {
+        "id": 132879347,
+        "name": "ChatBridge.pyz",
+        "size": 41943,
+        "download_count": 95,
+        "created_at": "2023-10-29T06:49:36Z",
+        "browser_download_url": "https://github.com/TISUnion/ChatBridge/releases/download/v2.5.2/ChatBridge.pyz"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridge",
+        "name": "ChatBridge v2 for MCDR",
+        "version": "2.5.2",
+        "link": "https://github.com/TISUnion/ChatBridge",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.2.0-"
+        },
+        "requirements": [
+          "mcdreforged>=2.2.0",
+          "pycryptodome",
+          "colorlog"
+        ],
+        "description": {
+          "en_us": "Broadcast chats between Minecraft servers and more",
+          "zh_cn": "跨服聊天"
+        }
+      }
+    },
+    {
       "url": "https://github.com/TISUnion/ChatBridge/releases/tag/v2.5.1",
       "name": "",
       "tag_name": "v2.5.1",
