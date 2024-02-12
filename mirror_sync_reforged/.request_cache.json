@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"11f9ed12644559571c027e48b9943d683e9f9801fae1a7d4253f573ab40cfab5\"",
-      "data": "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",
+      "etag": "\"d8f65a8bbb4715c5bb49ab45adcfc7a1d4a451025680ce7ad346fea1b6f671fa\"",
+      "data": "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",
       "empty": false
     },
     "2": {
@@ -127,23 +127,6 @@
       "description": {
         "en_us": "A plugin to sync survival server world to the mirror server",
         "zh_cn": "一个用于同步生存服存档至镜像服的插件"
-      }
-    },
-    "59318660": {
-      "schema_version": 4,
-      "id": "mirror_sync_reforged",
-      "name": "Mirror Sync Reforged",
-      "version": "1.0.0",
-      "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
-      "authors": [
-        "Ivan1F"
-      ],
-      "dependencies": {},
-      "requirements": [
-        "mcdreforged~=2.3.2"
-      ],
-      "description": {
-        "en_us": "Sync survival server world to the mirror server"
       }
     }
   },

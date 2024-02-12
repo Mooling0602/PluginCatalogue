@@ -215,39 +215,6 @@
           "zh_cn": "一个用于同步生存服存档至镜像服的插件"
         }
       }
-    },
-    {
-      "url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/tag/v1.0.0",
-      "name": "MirrorSyncReforged v1.0.0",
-      "tag_name": "v1.0.0",
-      "created_at": "2022-03-12T16:23:00Z",
-      "description": "It works!",
-      "prerelease": false,
-      "asset": {
-        "id": 59318660,
-        "name": "MirrorSyncReforged-v1.0.0.mcdr",
-        "size": 4410,
-        "download_count": 12,
-        "created_at": "2022-03-12T16:23:57Z",
-        "browser_download_url": "https://github.com/Ivan-1F/MirrorSyncReforged/releases/download/v1.0.0/MirrorSyncReforged-v1.0.0.mcdr"
-      },
-      "meta": {
-        "schema_version": 4,
-        "id": "mirror_sync_reforged",
-        "name": "Mirror Sync Reforged",
-        "version": "1.0.0",
-        "link": "https://github.com/Ivan-1F/MirrorSyncReforged",
-        "authors": [
-          "Ivan1F"
-        ],
-        "dependencies": {},
-        "requirements": [
-          "mcdreforged~=2.3.2"
-        ],
-        "description": {
-          "en_us": "Sync survival server world to the mirror server"
-        }
-      }
     }
   ]
 }
