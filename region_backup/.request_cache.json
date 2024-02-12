@@ -1,0 +1,43 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"91baad03cc1cd8f9554630091689524c1765545f685313b3b9d39403debafdc6\"",
+      "data": "H4sIAAqyyWUC/+2XbU/bMBCA/wrK19HmpaFpK02Iib1pAgYrbIKiyHGcxMOJI8dp1Vb97/M5Sd/YEJR+mpCq1rncPWffnc/u3dwoBTMGB0YiZV4MTBPltB1TmZRBG/PUFCTnhfn5y4/WRRRRTBEzr0hMeeZ/QPjhOlcKjKCCFKbd6ffsrmd5xuGBgYqCyMLfO9uswOCizBlH4baLSlrsx838OEMpOWQoIGwBPhOZsm2Pa56e40Oi2BzbbattAZCGCrV0C4ErZcKFEs4NxmOagad17NKo5yozrwc2GQ+Jr4XG2ell9+bXOcO/Y+tseHZ0Pos7Oh9jJJF4lA8tbYJVFkRgnkmSSb2a0mx8HI/fu0CJRc2pnOksPJlhQG6G/oVRBPWIM8YnCuS/1Jm5NF1xaBbvylGmc5PLhKhAKh1dETEt5A4T02Zz/aOCqUmFCqwg4ctZtaGa2iRTs5rrgq+QZVBgQXOpCnGHSW6YA4+LGGV0hnbkKXON0Rvy5ebaDOzJWJXoDoDKbm7mgo4Rni6quWBCxyrsu0K3AMCU05wA5Fpp6zRQSXwUpno3R4gVZLG5a68++g+T04tv30+sT9j9evOzd6o5KPahAYHKqmWobMdE+mo6KZW0SOBtihQbmLX2Ru9prWxDgSLZTEI954LUjWlNiAVBUi0IgabhWI7bspyW5Q5td9DpDzqdW0DlZcCU97/qdQeWoz63q5NAadzt76ipmKbt9r1ux+mtddJGshXfk434esPh5eNotTai1U5xqJOnm7/SykrGlqcOeevQbx36rUP/5x263mp+o43ynFGsY2tyLIlsFVL1yrSuDamV6gYRVtgZyBzL7bvQfVX69Z0V8zKDpmk/2W27A8cd2PZtddkNn6EVCD5RK/KXjl53VW0w9X3V/HefXNxXB1OAGHvtpb/GrF2SZzTfB7jGrIEDHk6BOCq9wMGj0iWWBd8OqmNwqGUhvO97o/Ko7yD49pQkiiywiNzuqOxZEegcOb2qYBGuNiScEfv/C7TiQ9C5RGyjoN7Z9aAFA0sfYWWc1OOEc4Gm9YMq8EhtmLB5R5CQ9Vhw/ECaBzIlsBhrsbj/A3gLRA8xDgAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"f5ac6239dc9c27f6431c92b538a9875ef5a02218e92d0c3324d11b1431881652\"",
+      "data": "H4sIAAuyyWUC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_metas": {
+    "149763280": {
+      "schema_version": 4,
+      "id": "region_backup",
+      "name": "Region BackUp",
+      "version": "1.0.0",
+      "link": "https://github.com/GHS-Official/Region-BackUp",
+      "authors": [
+        "GHS-Official",
+        "Bexerlmao",
+        "mc_doge_"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "An MCDR plugin that backs up or backs up files on a regional basis",
+        "zh_cn": "一个以区域为单位备份或回档的MCDR插件"
+      }
+    }
+  },
+  "repos_info": {
+    "etag": "\"e8d36a2cd1c3d2698b938ead59e84a801c88666992c5af9e4a5717ff5351524a\"",
+    "data": "H4sIAAuyyWUC/62YbXOjNhCA/0rGXxsbbGzieObm+pJpOtNLLnd12k6aDiNAgGKBqCTsJoz/e1dCYON0zonhiw2L9tGy7K60KgckHCzO3Lk7d2x37JyfDTIWYk9LB1+9VXz1+de7H+yfvwzUI5RiLccxYZn3IwpW97l6EBWUevXT619+G36OIhIQRK1XQ3NO1kiqgRGiAoOEbTLM4b4cUBaT7BChlLQ58+nYubyYX7RtvLn64v7+5y0NnmL7Znkzu32JHaWCYBbEvYJTNSqRMhcLy6qkYhQTmRR+ITAPWCZxJkcBS63Cquf4uP4wVZSYG041mRIdEnNiaBUCkMI6tD+RKT00ZU/pcHjEKGUbAHnvncxqVHccksWnckC1tJhMMDgSxmy1S4iQJxim1Ur9B87UJAGO5Th8P8sogmkqdLalxXHOKmThi4CTXELQnWBkS13xGI9RRl7QiTxQ1xhl3wnqWk3p4zWE6AmASq+0dNIFz9vKlgCTNbj9VOgBQDHlc65T/x5G689AJPZQmOps1nm+fV8WvK4bIW6+jNJ/LKbYttXvBKlfPHssZo4D17OLMFISfe3MQD6NpiFcX9oXSh7BtTsZuyBxQwzXc9d5LC7c+fTmp6uvcO+EEz3OrVKIr/Zq1bedpb/XkfdQwGNOP8axNETRVvi5M0wxSvVb52UAuY98xpFkvDO9BStbt3oyiVHaeRIN0YWWse7e1RC97AhR4LflyVGoZokmI7Mi9U1B7Ye/S0YkBIkzjDsjG1BpNdXf5ygLku7smlOaqyoWUNw9FFBVcn3K/M4wGGtpUGmJBJnlT3p92KnQitMmcxz1QlacHVnyHqJBG8x1NNRcWIclREZndM2xyppMURYXKO6ObkD1hiNGL5j3YbEhVQUzk5z4RT/1csfa29H4fRi9Qx3ulXpCV8uz9kiaEtmDMzSmnSM9sVU8v+IrQR/VuOa0Cn21nJhHPa0n/zuR6Wl6iUXFscrvciST2kM54rgHBymMVfoINoej0ahMMKq2HynmPSR+RdHrIQ8S2K92BZY1BzZfKZK664i0wSG0IZShsLPNDaiJlp62Ha3oyKFZ78zVkBY2JRQLybIePl1Dak2QMUlg/Jt6saNztGDlR0GyAJ8jSs8hKiUoQLxD82vWIh/THhYiRYEXQik2fRjFqIfFs+aUltm+hzin7LmXMraH0rnPMZLQ+CGpoBN74gzty6E9XdrOYjxeTGcP+oAkD9ujpkN7MrSd5XiymMwWM/uhikKRvB50uRxPF7a7sJ2HutybV4DLt7aL6hX1AieSPe3vd7qL47oBhfg7qVltZl9nJze7CUtxDrsWUM4g0XRH/aLuxtPL9j4mYEWmXDgD8QZJ2FIfCOsNkLLj7lkm1fqcIOFVpQHkkhfYyHLOnnAgD6S7utQSb8iKHKjrndauXdbKRAQFdBLqRGX3pGqDa0Mnun5wzuoDO/PWpuSGe4qAQz5tiViOM/M2DdFWr04CnAmsjxahvdVxkNOhM7L3DzOvb+/PrnGGOaJnd4UPSmefKsWztRkq8vBfcwJ4ffepBnw7t8zkwtqfcv/YMnCX1/Tp4Y/Zy8Ny9WGgDkiQOnNT68sKas/Os0R4Eqc5bR+bbrBvtkKeatNYFEH38E9BeMs3kuUkUI7/62+4WxNBfEKJ1M7I9ds2hxLmO+x50/ixjisTUSGOUEGlVzVuCpQioqMqxzwlzacuB60ToPNqnEQtkSoD++ZyUsXq7jmlxhNbfVqQ5l6Vm5KtcFYfymZYbuAdWgG1v3Nu5Nv/AJcuOfLyFgAA"
+  }
+}

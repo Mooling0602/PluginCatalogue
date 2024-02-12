@@ -1,0 +1,46 @@
+{
+  "schema_version": 8,
+  "id": "region_backup",
+  "latest_version": "1.0.0",
+  "latest_version_index": 0,
+  "releases": [
+    {
+      "url": "https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.0.0",
+      "name": "Region_BackUp-v1.0.0",
+      "tag_name": "v1.0.0",
+      "created_at": "2024-02-04T14:39:33Z",
+      "description": "第一个release,不算太好，但能用",
+      "prerelease": false,
+      "asset": {
+        "id": 149763280,
+        "name": "Region-BackUp-v1.0.0.mcdr",
+        "size": 20494,
+        "download_count": 1,
+        "created_at": "2024-02-04T16:24:11Z",
+        "browser_download_url": "https://github.com/GHS-Official/Region_BackUp/releases/download/v1.0.0/Region-BackUp-v1.0.0.mcdr"
+      },
+      "meta": {
+        "schema_version": 4,
+        "id": "region_backup",
+        "name": "Region BackUp",
+        "version": "1.0.0",
+        "link": "https://github.com/GHS-Official/Region-BackUp",
+        "authors": [
+          "GHS-Official",
+          "Bexerlmao",
+          "mc_doge_"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "An MCDR plugin that backs up or backs up files on a regional basis",
+          "zh_cn": "一个以区域为单位备份或回档的MCDR插件"
+        }
+      }
+    }
+  ]
+}
