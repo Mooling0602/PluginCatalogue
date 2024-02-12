@@ -11,7 +11,7 @@
 - 版本: 1.0.0
   - 元数据版本: 1.0.0
   - 发布版本: 1.0.0
-- 总下载量: 1
+- 总下载量: 2
 - 作者: [GHS-Official](https://github.com/GHS-Official)
 - 仓库: https://github.com/GHS-Official/Region_BackUp
 - 仓库插件页: https://github.com/GHS-Official/Region_BackUp/tree/master
@@ -44,5 +44,5 @@ pip install "mcdreforged>=2.6.0"
 
 | 文件 | 版本 | 上传时间 (UTC) | 大小 | 下载数 | 操作 |
 | --- | --- | --- | --- | --- | --- |
-| [Region-BackUp-v1.0.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.0.0) | 1.0.0 | 2024/02/04 16:24:11 | 20.01KB | 1 | [下载](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.0.0/Region-BackUp-v1.0.0.mcdr) |
+| [Region-BackUp-v1.0.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.0.0) | 1.0.0 | 2024/02/04 16:24:11 | 20.01KB | 2 | [下载](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.0.0/Region-BackUp-v1.0.0.mcdr) |
 
