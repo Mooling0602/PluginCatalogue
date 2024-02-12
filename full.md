@@ -5113,6 +5113,50 @@ A plugin for run command quickly
 | --- | --- | --- | --- | --- | --- |
 | [quick_run_cmd-2.0.0.mcdr](https://github.com/R1ckyH/quick_run_cmd/releases/tag/2.0.0) | 2.0.0 | 2021/12/24 12:37:07 | 9.28KB | 173 | [Download](https://github.com/R1ckyH/quick_run_cmd/releases/download/2.0.0/quick_run_cmd-2.0.0.mcdr) |
 
+## region_backup
+
+### Basic Information
+
+- Plugin ID: `region_backup`
+- Plugin Name: Region-BackUp
+- Version: 1.0.0
+  - Metadata version: 1.0.0
+  - Release version: 1.0.0
+- Total downloads: 1
+- Authors: [GHS-Official](https://github.com/GHS-Official)
+- Repository: https://github.com/GHS-Official/Region_BackUp
+- Repository plugin page: https://github.com/GHS-Official/Region_BackUp/tree/master
+- Labels: [`Management`](/labels/management/readme.md)
+- Description: An MCDR plugin that backs up or backs up files on a regional basis
+
+### Dependencies
+
+| Plugin ID | Requirement |
+| --- | --- |
+| [mcdreforged](https://github.com/Fallen-Breath/MCDReforged) | \>=2.6.0 |
+
+### Requirements
+
+| Python package | Requirement |
+| --- | --- |
+| [mcdreforged](https://pypi.org/project/mcdreforged) | \>=2.6.0 |
+
+```
+pip install "mcdreforged>=2.6.0"
+```
+
+### Introduction
+
+An MCDR plugin that backs up or archives on a regional basis
+### Download
+
+> [!IMPORTANT]
+> Read the README file in plugin repository before using it.
+
+| File | Version | Upload Time (UTC) | Size | Downloads | Operations |
+| --- | --- | --- | --- | --- | --- |
+| [Region-BackUp-v1.0.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.0.0) | 1.0.0 | 2024/02/04 16:24:11 | 20.01KB | 1 | [Download](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.0.0/Region-BackUp-v1.0.0.mcdr) |
+
 ## region_file_updater
 
 ### Basic Information

@@ -6,7 +6,7 @@
 
 Plugin Index with label `Management`
 
-Plugin Amount: 32
+Plugin Amount: 33
 
 | Plugin Name | Authors | Description | Last Update | Labels |
 | --- | --- | --- | --- | --- |
@@ -36,6 +36,7 @@ Plugin Amount: 32
 | [Prime Backup](/plugins/prime_backup/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A powerful backup plugin for MCDR, an advanced backup solution for your Minecraft world | 2024/01/02 | [`Management`](/labels/management/readme.md) |
 | [QQChat](/plugins/qq_chat/readme.md) | [Andy Zhang](https://github.com/AnzhiZhang), [Aimerny](https://github.com/Aimerny) | Useful Functions with QQ | 2023/06/29 | [`Information`](/labels/information/readme.md), [`Management`](/labels/management/readme.md) |
 | [Quick Backup Multi](/plugins/quick_backup_multi/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A backup / restore plugin, with multiple backup slot | 2023/12/22 | [`Management`](/labels/management/readme.md) |
+| [Region-BackUp](/plugins/region_backup/readme.md) | [GHS-Official](https://github.com/GHS-Official) | An MCDR plugin that backs up or backs up files on a regional basis | 2024/02/04 | [`Management`](/labels/management/readme.md) |
 | [Region file Updater](/plugins/region_file_updater/readme.md) | [Fallen_Breath](https://github.com/Fallen-Breath) | A MCDR plugin to help you update region files in game | 2022/03/08 | [`Management`](/labels/management/readme.md) |
 | [SmartBackup](/plugins/smart_backup/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Backup Plugin | 2022/05/11 | [`Management`](/labels/management/readme.md) |
 | [SmartServerTime](/plugins/smart_servertime/readme.md) | [zyxkad](https://github.com/zyxkad) | A Minecraft Auto Start/Stop Plugin | 2024/02/04 | [`Management`](/labels/management/readme.md) |
