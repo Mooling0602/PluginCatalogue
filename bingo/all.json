@@ -78,8 +78,8 @@
     "full_name": "AnzhiZhang/MCDReforgedPlugins",
     "description": "MCDReforged Plugins",
     "archived": false,
-    "stargazers_count": 86,
-    "watchers_count": 86,
+    "stargazers_count": 87,
+    "watchers_count": 87,
     "forks_count": 61,
     "readme": "# Bingo\n\n> [Bingo](https://www.flytre.net/bingo) 游戏实用工具\n\n## 使用\n\n| 指令 | 用途 |\n| - | - |\n| !!bingo team \\<num> | 随机分组 |\n| !!bingo end | 结束游戏 |\n"
   }
