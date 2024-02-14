@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"ca04d2dacf8975cb3bfd5751c4bcd7f1e4f1879a213a27971e6febb0ea305780\"",
-      "data": "H4sIAIS6yWUC/+2XbU/bMBCA/wrK19HmpaFpK02Iib1pAgYrbIKiyHGcxMOJI8dp1Vb97zs7Sd/YEJR+mpCq1rncPWffnc/u3dwoBTMGB0YiZV4MTBPltB1TmZRBG/PUFCTnhfn5y4/WRRRRTBEzr0hMeeZ/QPjhOgcFRlBBCtPu9Ht217M84/DAQEVBZOHvnW1WYOWizBlH4baLSlrsx838OEMpOWQoIGyhfCYyZdse1zw9x4dEsTm221bbUkAaAmrpVgWulAkXIJwbjMc0U57WsUujngtmXk/ZZDwkvhYaZ6eX3Ztf5wz/jq2z4dnR+Szu6HyMkUTiUT60tAlWWRCBeSZJJvVqSrPxcTx+7ypKLGpO5Uxn4ckMK+Rm6F8YRaUeccb4BED+S52ZS9MVh2bxrhwwnZtcJgQCCTq6ImJayB0mps3m+geCqUkFBFaQ8OWs2hCmNslgVnNd8BWyDAosaC6hEHeY5Ia54nERo4zO0I48MNcYvSFfbq7NlD0ZQ4nuAKjs5mYu6Bjh6aKaCyZ0DGHfFboFUEw5zYmCXIO2TgOVxEdhqndzhFhBFpu79uqj/zA5vfj2/cT6hN2vNz97p5qDYl81IKWyahmQ7ZhIH6aTUkmLRL1NEbAVs9be6D2tlW0oUCSbScBzLkjdmNaEWBAkYUFIaRqO5bgty2lZ7tB2B53+oNO5Vai8DBh4/6ted2A58LldnQSgcbe/o6Zimrbb97odp7fWSRvJVnxPNuLrDYeXj6PV2ohWO8WhTp5u/qCVlYwtTx3y1qHfOvRbh/7PO3S91fxGG+U5o1jH1uRYEtkqJPTKtK4NqZXqBhFW2JmSOZbbd1X3hfTrOyvmZaaapvNkt+0OHHdg27fVZTd8hlYg+ARW5C8dve6q2mDq+6r57z65uK8OpgAx9tpLf41ZuyTPaL4PcI1ZAwc8nCriqPQCB49Kl1iW+nZQHYNDLQvV+743Ko/6DlLfHkiiyFIWkdsdlT0rUjpHTq8qWISrDanOiP3/BVrxVdC5RGxZUDZI3tn1oKUGlj7CyjipxwnnAk3rByjwCDZM2LwjSMh6LDh+IM0DmRK1GGuxuP8D0ttWBDEOAAA=",
+      "etag": "\"b273e458a4979378322ada91678efd11e4d133229a8bc1dd759d7bef35499e83\"",
+      "data": "H4sIACRPzGUC/+1YbW/bNhD+K62/LrYoidYbUBQpspduSLt2brulLgRKomQttChQlAPH8H/fkZL81tRbHBsDNn+R5fNzz5HH45GPPy96tWC94FlvImVZBYZBynyQ5XJSR4OYTw1BS14ZP/70W/9tmuZxTpjxnmY5L8JXJL79UAKAUVLRyjCx6VvI993exbMeqSoqq/Do3EZDrELUJeMk2Q3RWKvjhFm8LMiUXjASUbZUMSdyynYjbkT6JzEkyYyZOTAHSBHmCVCtwqrE1XLCBRgXPcazvFCRNmlXTh42bd/1lE/BExpqY+/66p3z8fc3LP4zQ9ej6+Gb+8zW6zEjkoiv1kNbu2TVFRUxLyQtpJ5NbXQxXs5eYMWSiZanCaZXYe8KK8rt1D8yiwqecsb4HRCFjw1mrFzXPHmRHcoDrguDywmFRAJGV0SWV/KAgWm3hf6AZGqmChIraPJ4rtYRhnZXwKgWuuAbyjqqYpGXEgrxgEFuuSs+LjJS5PfkQD5w1zR6Qz7eXbspfzqDEj2AoPFbGKXIZySeL5uxxDSfQdoPJd0hUJxyXlJF8gHQehlySUOSTPVuTgmr6HJ7177/Pry9u3r7y6+X6IcYv07+ELrwoVWEqgEpyLplwGpnVIYwnGku82qifp0S4FacLXqr9/TXvokgqewGAd9LQdvGtGGMBSUSJkQUsmchC/eR1TfxCA0DhAIb3Siqso4YRP8Wzgywd7M+CQDx+XhHTcNpmEMT247n4HUn7Sw7+b3czO/Pr8Tw8uts9beyNZjGiV483fwBVdSMrU4deu7Q5w597tD/8Q7dbrWwQ5OyZHmsc2vwWFLZryT0ymlbG1KD2gaRNLT3ymYhB/mq+8Ly6ztrzOtCNU30d93WCrB101x2k70oW6Miwe9gRuEq0NOuqh1Ne181vt0nl1+agykijD310t/SbFyS7/PyGMQtzQZxxJO5YhzXOKV0XA99lMA79Rz1REg9/Siqs3GdpigGgOcrmEVQA3v+XETj2nFssLq+TeDdTxVFiuHpOh5WaD8d1x5Kk6aaSdzsVnWAHF8frfnVinBJ2KraTLB8Z7YvfbOtP0bqbNK+TzgXZN4VJi9S2E1J9xsloqtZweNb2n2hc6omg5awZY44I9v3TMdFJ1GTHfeJ1eROmBOqSbSpJruwZzV5vquc7yr/ezX58ZN39YCaRE9Qk+jJahLhkYkD2w9se6+aVDhH3XCQdXI1iX3XsS1v83+51rJPTb52R6N3e9UkOqvJc4c+d+izmjyWmsQ+fkhNWnu7rRNYODDNPWpyF3VCNYkeUpPoxGoSnUpNol016UZWvFaQFmlzcKFtShhGvqvUpkXU0006eQmy0WmkImCGlndCwbjSJv+mYPzyF0JY4V5/HAAA",
       "empty": false
     },
     "2": {
@@ -34,10 +34,32 @@
         "en_us": "An MCDR plugin that backs up or backs up files on a regional basis",
         "zh_cn": "一个以区域为单位备份或回档的MCDR插件"
       }
+    },
+    "151436864": {
+      "schema_version": 4,
+      "id": "region_backup",
+      "name": "Region BackUp",
+      "version": "1.1.0",
+      "link": "https://github.com/GHS-Official/Region-BackUp",
+      "authors": [
+        "GHS-Official",
+        "Bexerlmao",
+        "mc_doge_"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.6.0"
+      },
+      "requirements": [
+        "mcdreforged>=2.6.0"
+      ],
+      "description": {
+        "en_us": "An MCDR plugin that backs up or backs up files on a regional basis",
+        "zh_cn": "一个以区域为单位备份或回档的MCDR插件"
+      }
     }
   },
   "repos_info": {
-    "etag": "\"37ce53287bb23d95080c33e1c7c26e9ff46e0982ceaac191d73152edb93846ca\"",
-    "data": "H4sIACFHzGUC/62YbXOjNhCA/4rHXxsbbIzjeObm+pJpOtNLLndN2k6aDiNAgGKBqCTsJoz/e1dCYON0zonhiw2L9tGy7K60KockHC4H88V84djziXM2GGYsxJ6WDr96q/jy86+3P9g/fxmqRyjFWo5jwjLvRxSs7nP1ICoo9eqnV7/8NvocRSQgiFqvhuacrJFUAyNEBQYJ22SYw305pCwm2SFCKWlzFrOJc3G+OG/beH35Zf77nzc0eIrt67tr9+YldpQKglkQ9wpO1ahEylwsLauSinFMZFL4hcA8YJnEmRwHLLUKq57j4/rDTFFibjjVZEp0SMyJoVUIQArr0P5EpvTQlD2lw+ERo5RtAOS9dzKrUd1xSBafygHV0mIyweBIGLPVLiFCnmCYViv1HzhTkwQ4luPw/SyjCKap0NmWFsc5q5CFLwJOcglBd4KRLXXFYzxGGXlBJ/JAXWOUfSeoazWlj9cQoicAKr3S0kkXPG8rWwJM1uD2U6EHAMWUz7lO/XsYrT8DkdhDYaqzWef59n1Z8LpuhLj5Mkr/sZhh21a/U6R+sftYuI4D1+55GCmJvnZckM+iWQjXF/a5kkdwPZ9O5iCZhxiuF3PnsTifL2bXP11+hXsnnOpx8yqF+GqvVn3bWfp7HXkPBTzm9GMcS0MUbYWfO8MUo1S/dV4GkPvIZxxJxjvTW7CydasnkxilnSfREF1oGevuXQ3Ry44QBX5bnhyFapZoMjIrUt8U1H74u2REQpA4w7gzsgGVVlP9fY6yIOnOrjmluapiAcXdQwFVJdenzO8Mg7GWBpWWSJBZ/qTXh50KrThtMsdRL2TF2ZEl7yEatMFcR0PNhXVYQmR0Rtccq6zJFGVxgeLu6AZUbzhi9IJ5HxYbUlUwM8mJX/RTL3esvR2N34fRO9ThXqkndLU8a4+kKZE9OENj2jnSE1vF8yu+EvRRjWtOq9BXy4l51NN68r8TmZ6ml1hUHKv8LkcyqT2UI457cJDCWKWPYHM4Ho/LBKNq+5Fi3kPiVxS9HvIggf1qV2BZc2DzlSKpu45IGxxCG0IZCjvb3ICaaOlp29GKjhya9c5cDWlhU0KxkCzr4dM1pNYEGZMExr+pFzs6RwtWfhQkC/AZovQMolKCAsQ7NL9mLfIx7WEhUhR4IZRi04dRjHpYPGtOaZnte4hzyp57KWN7KJ37HCMJjR+SCjq1p87IvhjZszvbWU4my5n7oA9I8rA9ajaypyPbuZtMl1N36doPVRSK5NWgCaBmS3eydBcPdbk3rwCXb20X1SvqBU4ke9rf73SXx3UDCvF3UrPazL7OTm52E5biHHYtoJxBoumO+kXdTdxJex8TsCJTLnRBvEESttQHwnoDpOy4fZZJtT4nSHhVaQC55AU2spyzJxzIA+muLrXEG7IiB+p6p7Vrl7UyEUEBnYQ6Udk9qdrg2tCprh+cs/rAzry1KbnhniLgkE9bIpbjzLxNQ7TVq5MAZwLro0Vob3Uc5HTkjO39w8yrm/vBFc4wR3RwW/igNPhUKQ7WZqjIw3/NCeDV7aca8O3cMpMLa3/K/WPLYH53RZ8e/nBfHu5WH4bqgASpMze1vqyg9uw8S4QncZrT9rHpBvtmK+SpNo1FEXQP/xSEt3wjWU4C5fi//oa7NRHEJ5RI7Yxcv21zKGG+w543jR/ruDIRFeIIFVR6VeOmQCkiOqpyzFPSfOpy2DoBOqvGSdQSqTKwby4nVazunlNqPLHVpwVp7lW5KdkKZ/WhbIblBt6hFVD7O+dGvv0PG6FmmvIWAAA="
+    "etag": "\"6e5ad7dbdf0d6329db7e5a6725481124db8601f9bd0e7c87225fa2cecdee3dd8\"",
+    "data": "H4sIACVPzGUC/62YbXOjNhCA/4rHXxsbbGzH8czN9SXTdKaXXO6atJ00HUaAAMUCUUnYTRj/966EwOB0zonhiw2L9tGy7K60KoYkGK4Gi+Vi6diLiXM2GKYswK6WDr+66+jy86+3P9g/fxmqRyjBWo4jwlL3R+Sv7zP1IMwpdaunV7/8NvochsQniFqvhmacbJBUA0NEBQYJ26aYw30xpCwi6SFCKWlzlrOJc3G+PG/beH35ZfH7nzfUf4rs67vr+c1L5CgVBLMg7uacqlGxlJlYWVYpFeOIyDj3coG5z1KJUzn2WWLlVjXHx82HmaJE3HDKyZTokJgRQysRgBTWof2xTOihKQ2lw+Eho5RtAeS+dzKrVt1zSBqdygHVwmIyxuBIGLPTLiFCnmCYViv0HzhTkwQ4luPg/SyjCKap0NkVFscZK5G5J3xOMglBd4KRLXXFYzxCKXlBJ/JAXWOUfSeoazWljzcQoicASr3C0knnP+9KW3xMNuD2U6EHAMWUz5lO/XsYrT8DkdhFQaKzWef57n1Z8LpuBLj+Mkr/MZ9h21a/U6R+8fwxnzsOXM/Pg1BJ9LUzB/ksnAVwfWGfK3kI14vpZAGSRYDherlwHvPzxXJ2/dPlV7h3gqketyhTiK8bterbztLf68h7KOAxpx/jWBqiaGv83BmmGIX6rfLSh9xHHuNIMt6Z3oIVrVs9mcQo6TyJhuhCy1h372qIXnaEyPHb8uQoVLNEnZFpnnimoPbD3ycjEoJEKcadkTWosOrq73GU+nF3dsUpzFUZCyjqHgqoLLkeZV5nGIy1NKiwRIzM8ifdPuxUaMVpkzkOeyErzp4seQ/RoA3mOhoqLqzDEiKjM7riWEVFpiiNchR1R9egasMRoRfM+7DYkMqCmUpOvLyferlnNXY0Xh9G71GHe6We0OXyrD2SJET24AyNaedIT2wVz6/4StBHNa44rUJfLifmUU/ryf9OZHqaXmJRcaziuwzJuPJQhjjuwUEKYxUegs3heDwuYozK7UeCeQ+JX1L0esj9GParXYFFxYHNV4Kk7jpCbXAAbQhlKOhscw2qo6WnbUcrOjJo1jtzNaSFTQjFQrK0h09Xk1oTpEwSGP+mXuzoHC1Y8VGQ1MdniNIziEoJChDv0PyatcjDtIeFSFHghVCCTR9GMeph8aw4hWW27wHOKHvupYw1UDr3OUYSGj8kFXRqT52RfTGyZ3e2s5pMVrP5gz4gyYL2qNnIno5s524yXU3nq7n9UEahiF8NmgBqvrIBtXyoyr15Bbh8a7uoXlEvcCJuaH+/110d1/UpxN9JzWo9+yY9udmNWYIz2LWAcgqJpjvqF3U3mU/a+xif5aly4RzEWyRhS30grDZAyo7bZxmX63OMhFuWBpBLnmMjyzh7wr48kO7rUku8JWtyoK53Wvt2WSsT4efQSagTlf2Tsg2uDJ3q+sE5qw7szFubkhs0FAGHPNoSsQyn5m1qoq1enfg4FVgfLUJ7q+MgoyNnbDcPM69u7gdXOMUc0cFt7oHS4FOpONiYoSIL/jUngFe3nyrAt3PLTC6s5pTNY0t/cXdFnx7+mL883K0/DNUBCVJnbmp9WUPt2XuWCFfiJKPtY9Mt9sxWyFVtGgtD6B7+yQlv+UayjPjK8X/9DXcbIohHKJHaGZl+2/pQwnyHhjeNH6u4MhEV4BDlVLpl46ZACSI6qjLME1J/6mLYOgE6K8dJ1BKpMtA0l5MyVvfPKTWe2OnTgiRzy9yUbI3T6lA2xXIL79AKqObOuZbv/gODe9wS8hYAAA=="
   }
 }
