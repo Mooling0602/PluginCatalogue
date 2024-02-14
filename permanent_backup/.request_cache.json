@@ -2,8 +2,8 @@
   "NOTICE": "Not public API, DO NOT use this file",
   "release_pages": {
     "1": {
-      "etag": "\"1f088e12ac2648292dba330c4b4518864957ad19a9d71c4ae1c376f257cc7995\"",
-      "data": "H4sIALHFzGUC/+1XbW/aMBD+K4jPA8dJSCDSNK1jmzZpZZ1oNzFNyDgmZHNeFDtUgPrfd7YDpbSjHYV9WT6hHHfPnc/nx36+r5plwZtBozmTMhcBQiSP21EsZ+WkTbMEFSzPBPr0pv+FTbMiYiH6zIqEpCyVZ4T+KnPw4IwIJpDr9zpWz3aaLxpNIgSTYnx0bGSAVYoy5xkJd1MYqzhOmtWrlCTsBScTxm9UzplM+G7GrUxPyiFJhOa4bbV1o+IQsNZpVeNKOcsKsK2aPIviVGV6RzhnaeusYETONkF2t+d3u5YH32kWsrE2Nj/1L7yrb+ec/vzgDobUHfRf23pD5kSS4t6GaOu6W6VgBc1SCUXr5ZRonePV/KWrUKKiwjHJ9Dbs3WIFKdC9BTzSx3v+04zz7Bqgxn+dDm1ib4HiNDoYCGJXKJMzBs0EJz0WUSzkIaXpuJX+gY5qKAHdLVh4AFgVCcVdp1DXSs+9wSwnghZxLuMsPaTMO/EKECacpPGSHAoI8RpHn8wD4nWcAmBzmNVDEEzgCuVFPCd0cWOqoSyeQ+8PRt1BUKBykTOFcgnuei9iycYkTPTJnhIu2M3uAabeZXIlRl/fLUfDC2cwvLweDD8sNRiJxoqRlN8thcC+R0yOoagklrGYqX8TIqRJuPbf8FHDEFLjFiAsyFSuy4HvvGAVW20ZqVoiLI0oz6Zt2bhldVvYH1qdwO0Frj9SUHk54VDCH/w6OHCd0e39AB7fj3gBGVDk2h62e3iLXivDbqPfLgb8I5+8v5pR++qMOuc87F8szn+Cffh2+WDzTMqW6V07oaHusb4gwC8tOd/cTKxm8ZrFaxb/j1i8OnXjtTfJcx5T3V+UUclkS0hIkVQTIrVTRRahgV0qG+50MVa8DDOg37g0K1NFp7aDvUeouGMFTmdk3sfhXi9Pe02K7BoWNd7keubrdo1TPXHRPua8+WFurwm0/9lSocLZelov4/woyBXOFvIkCxcKcsHgvmmUaQoTIwQpFg0YgWkMxwLG4ajKqtt1LNw9jbIy2CdXVnfSnFZZ4S1lZdLWyqq+k+s7uVZWd5RVP1qCCHAfVFb46crquRLKG1pOYOEAu/sl1NrPxf9AQnV8x/J7WxLKGJ4ooYYUOks7j0ooXEuomq5ruq7p+gQSyvceklDY8fx9VIz9APSRhfdJqI2X8w8kFEb7mPN0EgqfTELhbQkFK/gNGcpZW4QaAAA=",
+      "etag": "\"4848402d63ac4d30c384b4f9a1dd77968201ff003065e0853576fc72ff406191\"",
+      "data": "H4sIAMrNzGUC/+2Za4/iNhSG/wqiXxcS50oiVatO2am20g47FTOtWFXIJCZ4x7kocWABzX/vsROuQ4EyhC/NJ4Q5fo997Lwnj/i2bOYpa7qN5oTzJHMVBSe0HVA+yUdtLw6VlCRxpnz5tfsHGcdpQHzlK0lDHJGI32HvJU8gghGckUwxbMdUHU1vfmg0cZYRng2vrq0UwiJFnrAY+/spitHsOmmWHyMckg8Mjwh7FTknPGT7GbcynZWD40CZorbaloWiPmit0orC5XwSpzC2bLI4oJHIdI8ZI1HrLiWYT9aTtI5jdzqqBd+j2CdDOdj80n20nv96YN73z0av7xm97i+aPJAp5jh9cyBydFWtPCOpF0ccFi23kyurHB+nPxtCJUhLnSKZPIajRywkM+XNBk7U8U38OGYsnoHU8D+nU9ZzN0I0Ci4WgrlLJeYTAsWEIHktAprxS5Ym5y3lB1RUSmVQ3ZT4F4iVM2FxswjWtZT3vtDMR5mX0oTTOLpkmTvzhSDccBzRBb5UEOZLHflkXjBfzhMCZAp39RKFYuJSSVI6xd78tViNR+gUan+x6p6CEOXzhAiVJwiXZ0E5GWI/lE/2GLOMvO4/wJ71FD5ngz/vF4P+o97rP816/c8LKYaDoXAkEbexEDj3gPAhLCqknGYT8WuIM14kXMWv/ahRGFJjI+CneMxXy4HvSUpKt9oa9MQWYWtYRDY1VUMttdNCdl81XcNxDXsgpJJ8xGAJ/xJnItfQB5v+ABHfrtiAClHF0CykOWjLXsuB/UJ/mvfY72z02/PE057vPP2B+d3H+cN3GO9/WhwsXpGyVdSuHXq+rLFsEBAX5YytOxOpXbx28drF/0cuXj51w1U0ThJGPVlfJfY44a2MQ4qwvCFcBpVm4ReyCzGGzA5CwpfhDsh3XC/OI2Gnmo6sE1Zsqq5uDor3Y/9olCWjRmk8g00N17ne+Xa70ilfcZVjzvn6d9G9RlD+d6NCqbP1ar2gyVWUS50t5VHsz4XknEC/aeRRBDcmy3A6b8AVGFN4LOA6XJusDKdTGVmB9i3IapOmWrLSdskK0tZkVffkuifXZLVPVg/dF+MgWWnvJSvtKmSl6y5yziAr3XBN6yZkhUxH2yErMXA2Wf146L/MT5KVVpNV7eK1i9cufn2ycpB5iKyQbtunrBgs1jhJViLKvAFZacox56yOrLTKyErbJqt7+oP4jZ+Q2xgVPXWMKYORGcg3orghWrLouDRKcn512up0dBVVRFuFduW0tZOmWtpCW7RVpK1pq+7TdZ+uaWuHtrrBAsDgMG2h82nrvVhl9VXdVZGLjONYtYoz0A2wyrR11Xa2sKoYOBOr+h5U1jNPYhWqsaq269qua7uu4A8r2zqMVZZ9zIqR7QIzqegYVq2j9BtgFVKOOWd1WIUqwyq0jVWwg38Adfdfi/InAAA=",
       "empty": false
     },
     "2": {
@@ -36,6 +36,24 @@
       "id": "permanent_backup",
       "name": "Permanent Backup",
       "version": "1.0.1",
+      "link": "https://github.com/MCDReforged/PermanentBackup",
+      "authors": [
+        "Fallen_Breath"
+      ],
+      "dependencies": {
+        "mcdreforged": ">=2.0.0-"
+      },
+      "requirements": [],
+      "description": {
+        "en_us": "A plugin for creating permanent zip world backups",
+        "zh_cn": "创建永久的用 zip 压缩的备份"
+      }
+    },
+    "42611592": {
+      "schema_version": 4,
+      "id": "permanent_backup",
+      "name": "Permanent Backup",
+      "version": "1.0.2",
       "link": "https://github.com/MCDReforged/PermanentBackup",
       "authors": [
         "Fallen_Breath"
