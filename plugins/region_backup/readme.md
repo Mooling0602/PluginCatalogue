@@ -11,7 +11,7 @@
 - Version: 1.1.0
   - Metadata version: 1.0.0
   - Release version: 1.1.0
-- Total downloads: 4
+- Total downloads: 5
 - Authors: [GHS-Official](https://github.com/GHS-Official)
 - Repository: https://github.com/GHS-Official/Region_BackUp
 - Repository plugin page: https://github.com/GHS-Official/Region_BackUp/tree/master
@@ -44,6 +44,6 @@ An MCDR plugin that backs up or archives on a regional basis
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [Region-BackUp-v1.1.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.1.0) | 1.1.0 | 2024/02/14 05:02:42 | 20.13KB | 2 | [Download](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.1.0/Region-BackUp-v1.1.0.mcdr) |
+| [Region-BackUp-v1.1.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.1.0) | 1.1.0 | 2024/02/14 05:02:42 | 20.13KB | 3 | [Download](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.1.0/Region-BackUp-v1.1.0.mcdr) |
 | [Region-BackUp-v1.0.0.mcdr](https://github.com/GHS-Official/Region_BackUp/releases/tag/v1.0.0) | 1.0.0 | 2024/02/04 16:24:11 | 20.01KB | 2 | [Download](https://github.com/GHS-Official/Region_BackUp/releases/download/v1.0.0/Region-BackUp-v1.0.0.mcdr) |
 
