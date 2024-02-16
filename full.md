@@ -112,7 +112,7 @@ Offline server whitelist management
 - Version: 1.0.0
   - Metadata version: 1.0.0
   - Release version: 1.0.0
-- Total downloads: 872
+- Total downloads: 875
 - Authors: [JAs0n](https://github.com/JAs0n319)
 - Repository: https://github.com/JAs0n319/allow_suicide
 - Repository plugin page: https://github.com/JAs0n319/allow_suicide/tree/master
@@ -141,7 +141,7 @@ Allow player suicide without op
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 872 | [Download](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
+| [allow_suicide-v1.0.0.mcdr](https://github.com/JAs0n319/allow_suicide/releases/tag/allow_suicide-v1.0.0) | 1.0.0 | 2023/02/03 18:58:31 | 880B | 875 | [Download](https://github.com/JAs0n319/allow_suicide/releases/download/allow_suicide-v1.0.0/allow_suicide-v1.0.0.mcdr) |
 
 ## auto_command
 
@@ -243,7 +243,7 @@ An MCDR plugin that stores various instructions for multimodal execution based o
 - Version: 1.1.3
   - Metadata version: 1.1.3
   - Release version: 1.1.3
-- Total downloads: 5806
+- Total downloads: 5808
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/TISUnion/AutoPluginReloader
 - Repository plugin page: https://github.com/TISUnion/AutoPluginReloader/tree/master
@@ -274,7 +274,7 @@ It's a savior for lazy people who are tired of having to manually perform plugin
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 2000 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
+| [AutoPluginReloader-v1.1.3.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.3) | 1.1.3 | 2021/10/01 18:23:47 | 17.58KB | 2002 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.3/AutoPluginReloader-v1.1.3.mcdr) |
 | [AutoPluginReloader-v1.1.2.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.2) | 1.1.2 | 2021/09/30 10:02:54 | 17.59KB | 163 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.2/AutoPluginReloader-v1.1.2.mcdr) |
 | [AutoPluginReloader-v1.1.1.mcdr](https://github.com/TISUnion/AutoPluginReloader/releases/tag/v1.1.1) | 1.1.1 | 2021/09/12 10:20:17 | 17.47KB | 955 | [Download](https://github.com/TISUnion/AutoPluginReloader/releases/download/v1.1.1/AutoPluginReloader-v1.1.1.mcdr) |
 
@@ -1524,7 +1524,7 @@ Show time in Minecraft
 - Version: 1.1.0
   - Metadata version: 1.1.0
   - Release version: 1.1.0
-- Total downloads: 1279
+- Total downloads: 1280
 - Authors: [Andy Zhang](https://github.com/AnzhiZhang)
 - Repository: https://github.com/AnzhiZhang/MCDReforgedPlugins
 - Repository plugin page: https://github.com/AnzhiZhang/MCDReforgedPlugins/tree/master/src/dict_command_registration
@@ -1802,7 +1802,7 @@ Params:
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [DictCommandRegistration-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.1.0) | 1.1.0 | 2023/01/15 11:00:37 | 3.11KB | 989 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.1.0/DictCommandRegistration-v1.1.0.mcdr) |
+| [DictCommandRegistration-v1.1.0.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.1.0) | 1.1.0 | 2023/01/15 11:00:37 | 3.11KB | 990 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.1.0/DictCommandRegistration-v1.1.0.mcdr) |
 | [DictCommandRegistration-v1.0.2.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.2) | 1.0.2 | 2022/12/29 14:27:40 | 3.03KB | 183 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.0.2/DictCommandRegistration-v1.0.2.mcdr) |
 | [DictCommandRegistration-v1.0.1.mcdr](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/tag/dict_command_registration-v1.0.1) | 1.0.1 | 2022/12/29 11:10:08 | 3.01KB | 80 | [Download](https://github.com/AnzhiZhang/MCDReforgedPlugins/releases/download/dict_command_registration-v1.0.1/DictCommandRegistration-v1.0.1.mcdr) |
 
@@ -3010,7 +3010,7 @@ Browse / Import / Export files in the server in Minecraft!
 - Version: 1.3.2
   - Metadata version: 1.3.2
   - Release version: 1.3.2
-- Total downloads: 3398
+- Total downloads: 3399
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath), [Van_Involution](https://github.com/Van-Nya)
 - Repository: https://github.com/TISUnion/LocationMarker
 - Repository plugin page: https://github.com/TISUnion/LocationMarker/tree/master
@@ -3040,7 +3040,7 @@ Browse / Import / Export files in the server in Minecraft!
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 704 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
+| [LocationMarker-v1.3.2.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.2) | 1.3.2 | 2023/06/06 16:04:30 | 18.87KB | 705 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.2/LocationMarker-v1.3.2.mcdr) |
 | [LocationMarker-v1.3.1.mcdr](https://github.com/TISUnion/LocationMarker/releases/tag/v1.3.1) | 1.3.1 | 2021/08/16 17:09:34 | 17.38KB | 2694 | [Download](https://github.com/TISUnion/LocationMarker/releases/download/v1.3.1/LocationMarker-v1.3.1.mcdr) |
 
 ## loginproxy
@@ -3550,7 +3550,7 @@ Comming soom...
 - Version: 1.5.0
   - Metadata version: 1.5.0
   - Release version: 1.5.0
-- Total downloads: 7722
+- Total downloads: 7724
 - Authors: [Fallen_Breath](https://github.com/Fallen-Breath)
 - Repository: https://github.com/MCDReforged/MinecraftDataAPI
 - Repository plugin page: https://github.com/MCDReforged/MinecraftDataAPI/tree/next
@@ -3586,7 +3586,7 @@ A MCDReforged api plugin to get player data information and more
 
 | File | Version | Upload Time (UTC) | Size | Downloads | Operations |
 | --- | --- | --- | --- | --- | --- |
-| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 1750 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
+| [MinecraftDataAPI-v1.5.0.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.5.0) | 1.5.0 | 2023/07/10 18:29:01 | 17.75KB | 1752 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.5.0/MinecraftDataAPI-v1.5.0.mcdr) |
 | [MinecraftDataAPI-v1.4.1.mcdr](https://github.com/MCDReforged/MinecraftDataAPI/releases/tag/v1.4.1) | 1.4.1 | 2021/08/16 17:14:55 | 17.41KB | 5972 | [Download](https://github.com/MCDReforged/MinecraftDataAPI/releases/download/v1.4.1/MinecraftDataAPI-v1.4.1.mcdr) |
 
 ## minecraft_version_api
