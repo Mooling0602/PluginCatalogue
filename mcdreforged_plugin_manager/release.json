@@ -153,43 +153,6 @@
       }
     },
     {
-      "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.3.0",
-      "name": "MCDReforgedPluginManager v1.3.0",
-      "tag_name": "v1.3.0",
-      "created_at": "2022-11-22T15:08:19Z",
-      "description": "## News\r\n\r\n- Proxy support when requesting web resources (#1)",
-      "prerelease": false,
-      "asset": {
-        "id": 85569852,
-        "name": "MCDReforgedPluginManager-v1.3.0.mcdr",
-        "size": 21969,
-        "download_count": 92,
-        "created_at": "2022-11-22T15:10:19Z",
-        "browser_download_url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/download/v1.3.0/MCDReforgedPluginManager-v1.3.0.mcdr"
-      },
-      "meta": {
-        "schema_version": 4,
-        "id": "mcdreforged_plugin_manager",
-        "name": "MCDReforged Plugin Manager",
-        "version": "1.3.0",
-        "link": "https://github.com/Ivan1F/MCDReforgedPluginManager",
-        "authors": [
-          "Ivan1F"
-        ],
-        "dependencies": {
-          "mcdreforged": ">=2.0.0"
-        },
-        "requirements": [
-          "mcdreforged>=2.0.0",
-          "requests"
-        ],
-        "description": {
-          "en_us": "Manage your mcdreforged plugins with ease",
-          "zh_cn": "轻松管理你的 MCDReforged 插件"
-        }
-      }
-    },
-    {
       "url": "https://github.com/Ivan-1F/MCDReforgedPluginManager/releases/tag/v1.2.1",
       "name": "MCDReforgedPluginManager v1.2.1",
       "tag_name": "v1.2.1",
